@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<title>Food and Beverage (Export)</title>
+<head>
+	<link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<script src="/scripts/jquery.min.js"></script>
+  <script src="/bootstrap/js/bootstrap.min.js"></script>
+</head>
+
+<style>
+body {
+  font: 11px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.dot {
+  stroke: #000;
+}
+
+.tooltip {
+  position: absolute;
+  width: 200px;
+  height: 28px;
+  pointer-events: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.show {display:block;}
+</style>
+<body>
+
+<ul>
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn" onclick="myFunction()">Sector</a>
+    <form name="myform" class="form-signin" action="/login" method="post" >
+    <div class="dropdown-content" id="myDropdown">
+      <a href="/html/foodExport.html">Food and Beverage (Export)</a>
+      <a href="/html/foodImport.html">Food and Beverage (Import)</a>
+      <a href="/html/capitalExport.html">Capital Goods and Services (Export)</a>
+      <a href="/html/capitalImport.html">Capital Goods and Services (Import)</a>
+      <a href="/html/governmentExport.html">Goverment Sector (Export)</a>
+      <a href="/html/governmentImport.html">Goverment Sector (Import)</a>
+      <a href="/html/industrialExport.html">Industrial Supplies (Export)</a>
+      <a href="/html/industrialImport.html">Industiral Supplies (Import)</a>
+      <a href="/html/transportationExport.html">Transportation (Export)</a>
+      <a href="/html/transportationImport.html">Transportation (Import)</a>
+      <a href="/html/travelExport.html">Travel (Export)</a>
+      <a href="/html/travelImport.html">Travel (Import)</a>
+    </div>
+    </form>
+  </li>
+</ul>
+
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    for (var d = 0; d < dropdowns.length; d++) {
+      var openDropdown = dropdowns[d];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
+<center><h1>Transportation: Export vs. Employment</h1></center>
+
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="../js/exportTransportation.js"></script>
+</body>
+</html>

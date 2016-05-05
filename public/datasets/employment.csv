@@ -1,0 +1,3329 @@
+id,year,code,title,totemp
+1,2015,113000,Forestry and Logging,51870
+2,2015,115000,Support Activities for Agriculture and Forestry,360280
+3,2015,211000,Oil and Gas Extraction,193680
+4,2015,212000,Mining (except Oil and Gas),205390
+5,2015,213000,Support Activities for Mining,412240
+6,2015,221000,Utilities,553890
+7,2015,236000,Construction of Buildings,1404430
+8,2015,237000,Heavy and Civil Engineering Construction,948680
+9,2015,238000,Specialty Trade Contractors,4039960
+10,2015,311000,Food Manufacturing,1498370
+11,2015,312000,Beverage and Tobacco Product Manufacturing,218740
+12,2015,313000,Textile Mills,116850
+13,2015,314000,Textile Product Mills,115910
+14,2015,315000,Apparel Manufacturing,137510
+15,2015,316000,Leather and Allied Product Manufacturing,29220
+16,2015,321000,Wood Product Manufacturing,379360
+17,2015,322000,Paper Manufacturing,370830
+18,2015,323000,Printing and Related Support Activities,452060
+19,2015,324000,Petroleum and Coal Products Manufacturing,110530
+20,2015,325000,Chemical Manufacturing,806060
+21,2015,326000,Plastics and Rubber Products Manufacturing,684600
+22,2015,327000,Nonmetallic Mineral Product Manufacturing,395960
+23,2015,331000,Primary Metal Manufacturing,398340
+24,2015,332000,Fabricated Metal Product Manufacturing,1465780
+25,2015,333000,Machinery Manufacturing,1128950
+26,2015,334000,Computer and Electronic Product Manufacturing,1050150
+27,2015,335000,"Electrical Equipment, Appliance, and Component Manufacturing",382030
+28,2015,336000,Transportation Equipment Manufacturing,1599730
+29,2015,337000,Furniture and Related Product Manufacturing,375310
+30,2015,339000,Miscellaneous Manufacturing,586900
+31,2015,423000,"Merchant Wholesalers, Durable Goods",2918780
+32,2015,424000,"Merchant Wholesalers, Nondurable Goods",2023960
+33,2015,425000,Wholesale Electronic Markets and Agents and Brokers,895400
+34,2015,441000,Motor Vehicle and Parts Dealers,1909020
+35,2015,442000,Furniture and Home Furnishings Stores,468950
+36,2015,443000,Electronics and Appliance Stores,513550
+37,2015,444000,Building Material and Garden Equipment and Supplies Dealers,1251370
+38,2015,445000,Food and Beverage Stores,3053560
+39,2015,446000,Health and Personal Care Stores,1036920
+40,2015,447000,Gasoline Stations,896890
+41,2015,448000,Clothing and Clothing Accessories Stores,1398810
+42,2015,451000,"Sporting Goods, Hobby, Musical Instrument, and Book Stores",651150
+43,2015,452000,General Merchandise Stores,3228960
+44,2015,453000,Miscellaneous Store Retailers,832900
+45,2015,454000,Nonstore Retailers,508840
+46,2015,481000,Air Transportation,453610
+47,2015,482000,Rail Transportation,215090
+48,2015,483000,Water Transportation,67660
+49,2015,484000,Truck Transportation,1442700
+50,2015,485000,Transit and Ground Passenger Transportation,484520
+51,2015,486000,Pipeline Transportation,47360
+52,2015,487000,Scenic and Sightseeing Transportation,31130
+53,2015,488000,Support Activities for Transportation,642860
+54,2015,491000,Postal Service,615140
+55,2015,492000,Couriers and Messengers,595820
+56,2015,493000,Warehousing and Storage,808370
+57,2015,511000,Publishing Industries (except Internet),727710
+58,2015,512000,Motion Picture and Sound Recording Industries,406650
+59,2015,515000,Broadcasting (except Internet),283680
+60,2015,517000,Telecommunications,808100
+61,2015,518000,"Data Processing, Hosting, and Related Services",290780
+62,2015,519000,Other Information Services,232110
+63,2015,521000,Monetary Authorities-Central Bank,**
+64,2015,522000,Credit Intermediation and Related Activities,2524430
+65,2015,523000,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",892780
+66,2015,524000,Insurance Carriers and Related Activities,2216570
+67,2015,525000,"Funds, Trusts, and Other Financial Vehicles",**
+68,2015,531000,Real Estate,1504710
+69,2015,532000,Rental and Leasing Services,538330
+70,2015,533000,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),23380
+71,2015,541000,"Professional, Scientific, and Technical Services",8483010
+72,2015,551000,Management of Companies and Enterprises,2259540
+73,2015,561000,Administrative and Support Services,8486410
+74,2015,562000,Waste Management and Remediation Services,396010
+75,2015,611000,Educational Services,12861660
+76,2015,621000,Ambulatory Health Care Services,6789270
+77,2015,622000,Hospitals,5755150
+78,2015,623000,Nursing and Residential Care Facilities,3287610
+79,2015,624000,Social Assistance,2906810
+80,2015,711000,"Performing Arts, Spectator Sports, and Related Industries",458260
+81,2015,712000,"Museums, Historical Sites, and Similar Institutions",151350
+82,2015,713000,"Amusement, Gambling, and Recreation Industries",1633640
+83,2015,721000,Accommodation,1959750
+84,2015,722000,Food Services and Drinking Places,10962800
+85,2015,811000,Repair and Maintenance,1267070
+86,2015,812000,Personal and Laundry Services,1398420
+87,2015,813000,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",1344600
+88,2015,999000,"Federal, State, and Local Government (excluding state and local schools and hospitals)",9547400
+89,2014,113000,Forestry and Logging,50910
+90,2014,115000,Support Activities for Agriculture and Forestry,358810
+91,2014,211000,Oil and Gas Extraction,192290
+92,2014,212000,Mining (except Oil and Gas),211710
+93,2014,213000,Support Activities for Mining,420250
+94,2014,221000,Utilities,547980
+95,2014,236000,Construction of Buildings,1331770
+96,2014,237000,Heavy and Civil Engineering Construction,917320
+97,2014,238000,Specialty Trade Contractors,3844990
+98,2014,311000,Food Manufacturing,1476950
+99,2014,312000,Beverage and Tobacco Product Manufacturing,207160
+100,2014,313000,Textile Mills,115900
+101,2014,314000,Textile Product Mills,115490
+102,2014,315000,Apparel Manufacturing,142860
+103,2014,316000,Leather and Allied Product Manufacturing,28440
+104,2014,321000,Wood Product Manufacturing,366800
+105,2014,322000,Paper Manufacturing,373740
+106,2014,323000,Printing and Related Support Activities,455860
+107,2014,324000,Petroleum and Coal Products Manufacturing,110180
+108,2014,325000,Chemical Manufacturing,789010
+109,2014,326000,Plastics and Rubber Products Manufacturing,667270
+110,2014,327000,Nonmetallic Mineral Product Manufacturing,382880
+111,2014,331000,Primary Metal Manufacturing,394570
+112,2014,332000,Fabricated Metal Product Manufacturing,1442080
+113,2014,333000,Machinery Manufacturing,1113630
+114,2014,334000,Computer and Electronic Product Manufacturing,1046180
+115,2014,335000,"Electrical Equipment, Appliance, and Component Manufacturing",375810
+116,2014,336000,Transportation Equipment Manufacturing,1545110
+117,2014,337000,Furniture and Related Product Manufacturing,366220
+118,2014,339000,Miscellaneous Manufacturing,584630
+119,2014,423000,"Merchant Wholesalers, Durable Goods",2892140
+120,2014,424000,"Merchant Wholesalers, Nondurable Goods",2010320
+121,2014,425000,Wholesale Electronic Markets and Agents and Brokers,877610
+122,2014,441000,Motor Vehicle and Parts Dealers,1839640
+123,2014,442000,Furniture and Home Furnishings Stores,458880
+124,2014,443000,Electronics and Appliance Stores,491340
+125,2014,444000,Building Material and Garden Equipment and Supplies Dealers,1239320
+126,2014,445000,Food and Beverage Stores,2987240
+127,2014,446000,Health and Personal Care Stores,1020430
+128,2014,447000,Gasoline Stations,876850
+129,2014,448000,Clothing and Clothing Accessories Stores,1425380
+130,2014,451000,"Sporting Goods, Hobby, Musical Instrument, and Book Stores",630400
+131,2014,452000,General Merchandise Stores,3187350
+132,2014,453000,Miscellaneous Store Retailers,826680
+133,2014,454000,Nonstore Retailers,488980
+134,2014,481000,Air Transportation,444880
+135,2014,482000,Rail Transportation,223690
+136,2014,483000,Water Transportation,66880
+137,2014,484000,Truck Transportation,1401960
+138,2014,485000,Transit and Ground Passenger Transportation,472280
+139,2014,486000,Pipeline Transportation,46810
+140,2014,487000,Scenic and Sightseeing Transportation,29880
+141,2014,488000,Support Activities for Transportation,613410
+142,2014,491000,Postal Service,613060
+143,2014,492000,Couriers and Messengers,563140
+144,2014,493000,Warehousing and Storage,726640
+145,2014,511000,Publishing Industries (except Internet),724400
+146,2014,512000,Motion Picture and Sound Recording Industries,393510
+147,2014,515000,Broadcasting (except Internet),284840
+148,2014,517000,Telecommunications,850510
+149,2014,518000,"Data Processing, Hosting, and Related Services",274250
+150,2014,519000,Other Information Services,208080
+151,2014,521000,Monetary Authorities-Central Bank,**
+152,2014,522000,Credit Intermediation and Related Activities,2558050
+153,2014,523000,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",874820
+154,2014,524000,Insurance Carriers and Related Activities,2154010
+155,2014,531000,Real Estate,1469950
+156,2014,532000,Rental and Leasing Services,524810
+157,2014,533000,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),23210
+158,2014,541000,"Professional, Scientific, and Technical Services",8231540
+159,2014,551000,Management of Companies and Enterprises,2206620
+160,2014,561000,Administrative and Support Services,8242670
+161,2014,562000,Waste Management and Remediation Services,384650
+162,2014,611000,Educational Services,12758610
+163,2014,621000,Ambulatory Health Care Services,6594630
+164,2014,622000,Hospitals,5721480
+165,2014,623000,Nursing and Residential Care Facilities,3257890
+166,2014,624000,Social Assistance,2767690
+167,2014,711000,"Performing Arts, Spectator Sports, and Related Industries",449640
+168,2014,712000,"Museums, Historical Sites, and Similar Institutions",146020
+169,2014,713000,"Amusement, Gambling, and Recreation Industries",1602930
+170,2014,721000,Accommodation,1923810
+171,2014,722000,Food Services and Drinking Places,10624850
+172,2014,811000,Repair and Maintenance,1234680
+173,2014,812000,Personal and Laundry Services,1370260
+174,2014,813000,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",1333060
+175,2014,999000,"Federal, State, and Local Government (excluding state and local schools and hospitals)",9472980
+176,2013,113000,Forestry and Logging,49830
+177,2013,115000,Support Activities for Agriculture and Forestry,354210
+178,2013,211000,Oil and Gas Extraction,192650
+179,2013,212000,Mining (except Oil and Gas),215370
+180,2013,213000,Support Activities for Mining,399110
+181,2013,221000,Utilities,544310
+182,2013,236000,Construction of Buildings,1262130
+183,2013,237000,Heavy and Civil Engineering Construction,887480
+184,2013,238000,Specialty Trade Contractors,3647560
+185,2013,311000,Food Manufacturing,1461620
+186,2013,312000,Beverage and Tobacco Product Manufacturing,196940
+187,2013,313000,Textile Mills,116450
+188,2013,314000,Textile Product Mills,115720
+189,2013,315000,Apparel Manufacturing,144410
+190,2013,316000,Leather and Allied Product Manufacturing,28900
+191,2013,321000,Wood Product Manufacturing,348910
+192,2013,322000,Paper Manufacturing,376410
+193,2013,323000,Printing and Related Support Activities,456510
+194,2013,324000,Petroleum and Coal Products Manufacturing,111240
+195,2013,325000,Chemical Manufacturing,792030
+196,2013,326000,Plastics and Rubber Products Manufacturing,656530
+197,2013,327000,Nonmetallic Mineral Product Manufacturing,374680
+198,2013,331000,Primary Metal Manufacturing,395420
+199,2013,332000,Fabricated Metal Product Manufacturing,1423370
+200,2013,333000,Machinery Manufacturing,1104520
+201,2013,334000,Computer and Electronic Product Manufacturing,1066280
+202,2013,335000,"Electrical Equipment, Appliance, and Component Manufacturing",373290
+203,2013,336000,Transportation Equipment Manufacturing,1504530
+204,2013,337000,Furniture and Related Product Manufacturing,355320
+205,2013,339000,Miscellaneous Manufacturing,580200
+206,2013,423000,"Merchant Wholesalers, Durable Goods",2851180
+207,2013,424000,"Merchant Wholesalers, Nondurable Goods",1985180
+208,2013,425000,Wholesale Electronic Markets and Agents and Brokers,865280
+209,2013,441000,Motor Vehicle and Parts Dealers,1768480
+210,2013,442000,Furniture and Home Furnishings Stores,448810
+211,2013,443000,Electronics and Appliance Stores,495900
+212,2013,444000,Building Material and Garden Equipment and Supplies Dealers,1192090
+213,2013,445000,Food and Beverage Stores,2916010
+214,2013,446000,Health and Personal Care Stores,1020090
+215,2013,447000,Gasoline Stations,856170
+216,2013,448000,Clothing and Clothing Accessories Stores,1449390
+217,2013,451000,"Sporting Goods, Hobby, Musical Instrument, and Book Stores",611620
+218,2013,452000,General Merchandise Stores,3164310
+219,2013,453000,Miscellaneous Store Retailers,810580
+220,2013,454000,Nonstore Retailers,462510
+221,2013,481000,Air Transportation,453230
+222,2013,482000,Rail Transportation,223680
+223,2013,483000,Water Transportation,66330
+224,2013,484000,Truck Transportation,1367540
+225,2013,485000,Transit and Ground Passenger Transportation,459580
+226,2013,486000,Pipeline Transportation,43280
+227,2013,487000,Scenic and Sightseeing Transportation,28550
+228,2013,488000,Support Activities for Transportation,589880
+229,2013,491000,Postal Service,613060
+230,2013,492000,Couriers and Messengers,528660
+231,2013,493000,Warehousing and Storage,707720
+232,2013,511000,Publishing Industries (except Internet),728090
+233,2013,512000,Motion Picture and Sound Recording Industries,392440
+234,2013,515000,Broadcasting (except Internet),287000
+235,2013,517000,Telecommunications,841080
+236,2013,518000,"Data Processing, Hosting, and Related Services",263440
+237,2013,519000,Other Information Services,188170
+238,2013,521000,Monetary Authorities-Central Bank,16940
+239,2013,522000,Credit Intermediation and Related Activities,2593710
+240,2013,523000,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",851330
+241,2013,524000,Insurance Carriers and Related Activities,2108120
+242,2013,525000,"Funds, Trusts, and Other Financial Vehicles",16690
+243,2013,531000,Real Estate,1430560
+244,2013,532000,Rental and Leasing Services,512420
+245,2013,533000,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),23500
+246,2013,541000,"Professional, Scientific, and Technical Services",8018890
+247,2013,551000,Management of Companies and Enterprises,2130720
+248,2013,561000,Administrative and Support Services,7909150
+249,2013,562000,Waste Management and Remediation Services,376610
+250,2013,611000,Educational Services,12706550
+251,2013,621000,Ambulatory Health Care Services,6424110
+252,2013,622000,Hospitals,5739780
+253,2013,623000,Nursing and Residential Care Facilities,3220290
+254,2013,624000,Social Assistance,2674920
+255,2013,711000,"Performing Arts, Spectator Sports, and Related Industries",425940
+256,2013,712000,"Museums, Historical Sites, and Similar Institutions",139640
+257,2013,713000,"Amusement, Gambling, and Recreation Industries",1425940
+258,2013,721000,Accommodation,1831850
+259,2013,722000,Food Services and Drinking Places,10249270
+260,2013,811000,Repair and Maintenance,1206110
+261,2013,812000,Personal and Laundry Services,1339710
+262,2013,813000,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",1319590
+263,2013,999000,"Federal, State, and Local Government (excluding state and local schools and hospitals)",9681240
+264,2012,113000,Forestry and Logging,48930
+265,2012,115000,Support Activities for Agriculture and Forestry,344910
+266,2012,211000,Oil and Gas Extraction,181580
+267,2012,212000,Mining (except Oil and Gas),221680
+268,2012,213000,Support Activities for Mining,379850
+269,2012,221000,Utilities,552750
+270,2012,236000,Construction of Buildings,1226290
+271,2012,237000,Heavy and Civil Engineering Construction,865400
+272,2012,238000,Specialty Trade Contractors,3520270
+273,2012,311000,Food Manufacturing,1459000
+274,2012,312000,Beverage and Tobacco Product Manufacturing,189440
+275,2012,313000,Textile Mills,117650
+276,2012,314000,Textile Product Mills,117850
+277,2012,315000,Apparel Manufacturing,149740
+278,2012,316000,Leather and Allied Product Manufacturing,28860
+279,2012,321000,Wood Product Manufacturing,338610
+280,2012,322000,Paper Manufacturing,381790
+281,2012,323000,Printing and Related Support Activities,465190
+282,2012,324000,Petroleum and Coal Products Manufacturing,111050
+283,2012,325000,Chemical Manufacturing,783650
+284,2012,326000,Plastics and Rubber Products Manufacturing,641400
+285,2012,327000,Nonmetallic Mineral Product Manufacturing,369560
+286,2012,331000,Primary Metal Manufacturing,399470
+287,2012,332000,Fabricated Metal Product Manufacturing,1390710
+288,2012,333000,Machinery Manufacturing,1088860
+289,2012,334000,Computer and Electronic Product Manufacturing,1098660
+290,2012,335000,"Electrical Equipment, Appliance, and Component Manufacturing",371180
+291,2012,336000,Transportation Equipment Manufacturing,1435220
+292,2012,337000,Furniture and Related Product Manufacturing,350100
+293,2012,339000,Miscellaneous Manufacturing,578560
+294,2012,423000,"Merchant Wholesalers, Durable Goods",2806140
+295,2012,424000,"Merchant Wholesalers, Nondurable Goods",1960300
+296,2012,425000,Wholesale Electronic Markets and Agents and Brokers,857070
+297,2012,441000,Motor Vehicle and Parts Dealers,1720060
+298,2012,442000,Furniture and Home Furnishings Stores,442510
+299,2012,443000,Electronics and Appliance Stores,516000
+300,2012,444000,Building Material and Garden Equipment and Supplies Dealers,1172370
+301,2012,445000,Food and Beverage Stores,2855560
+302,2012,446000,Health and Personal Care Stores,1001440
+303,2012,447000,Gasoline Stations,836350
+304,2012,448000,Clothing and Clothing Accessories Stores,1414070
+305,2012,451000,"Sporting Goods, Hobby, Musical Instrument, and Book Stores",596950
+306,2012,452000,General Merchandise Stores,3182140
+307,2012,453000,Miscellaneous Store Retailers,800660
+308,2012,454000,Nonstore Retailers,444610
+309,2012,481000,Air Transportation,458910
+310,2012,482000,Rail Transportation,224530
+311,2012,483000,Water Transportation,63910
+312,2012,484000,Truck Transportation,1334150
+313,2012,485000,Transit and Ground Passenger Transportation,453620
+314,2012,486000,Pipeline Transportation,43310
+315,2012,487000,Scenic and Sightseeing Transportation,27410
+316,2012,488000,Support Activities for Transportation,571620
+317,2012,491000,Postal Service,632820
+318,2012,492000,Couriers and Messengers,526290
+319,2012,493000,Warehousing and Storage,678100
+320,2012,511000,Publishing Industries (except Internet),744290
+321,2012,512000,Motion Picture and Sound Recording Industries,374620
+322,2012,515000,Broadcasting (except Internet),288380
+323,2012,517000,Telecommunications,860660
+324,2012,518000,"Data Processing, Hosting, and Related Services",250540
+325,2012,519000,Other Information Services,169890
+326,2012,521000,Monetary Authorities-Central Bank,16590
+327,2012,522000,Credit Intermediation and Related Activities,2560400
+328,2012,523000,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",816040
+329,2012,524000,Insurance Carriers and Related Activities,2056840
+330,2012,525000,"Funds, Trusts, and Other Financial Vehicles",85130
+331,2012,531000,Real Estate,1397290
+332,2012,532000,Rental and Leasing Services,507590
+333,2012,533000,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),24070
+334,2012,541000,"Professional, Scientific, and Technical Services",7768610
+335,2012,551000,Management of Companies and Enterprises,2003680
+336,2012,561000,Administrative and Support Services,7619090
+337,2012,562000,Waste Management and Remediation Services,372170
+338,2012,611000,Educational Services,12683810
+339,2012,621000,Ambulatory Health Care Services,6259940
+340,2012,622000,Hospitals,5700220
+341,2012,623000,Nursing and Residential Care Facilities,3180240
+342,2012,624000,Social Assistance,2579700
+343,2012,711000,"Performing Arts, Spectator Sports, and Related Industries",415770
+344,2012,712000,"Museums, Historical Sites, and Similar Institutions",135650
+345,2012,713000,"Amusement, Gambling, and Recreation Industries",1386490
+346,2012,721000,Accommodation,1799000
+347,2012,722000,Food Services and Drinking Places,9876540
+348,2012,811000,Repair and Maintenance,1184890
+349,2012,812000,Personal and Laundry Services,1309970
+350,2012,813000,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",1314540
+351,2012,999000,"Federal, State, and Local Government (excluding state and local schools and hospitals)",9716010
+352,2011,113000,Forestry and Logging,48600
+353,2011,115000,Support Activities for Agriculture and Forestry,322580
+354,2011,211000,Oil and Gas Extraction,162570
+355,2011,212000,Mining (except Oil and Gas),211210
+356,2011,213000,Support Activities for Mining,319610
+357,2011,221000,Utilities,551510
+358,2011,236000,Construction of Buildings,1227540
+359,2011,237000,Heavy and Civil Engineering Construction,838740
+360,2011,238000,Specialty Trade Contractors,3477510
+361,2011,311000,Food Manufacturing,1446400
+362,2011,312000,Beverage and Tobacco Product Manufacturing,183900
+363,2011,313000,Textile Mills,118420
+364,2011,314000,Textile Product Mills,119410
+365,2011,315000,Apparel Manufacturing,152280
+366,2011,316000,Leather and Allied Product Manufacturing,28580
+367,2011,321000,Wood Product Manufacturing,338740
+368,2011,322000,Paper Manufacturing,389540
+369,2011,323000,Printing and Related Support Activities,478970
+370,2011,324000,Petroleum and Coal Products Manufacturing,110490
+371,2011,325000,Chemical Manufacturing,772220
+372,2011,326000,Plastics and Rubber Products Manufacturing,633920
+373,2011,327000,Nonmetallic Mineral Product Manufacturing,369250
+374,2011,331000,Primary Metal Manufacturing,375930
+375,2011,332000,Fabricated Metal Product Manufacturing,1320180
+376,2011,333000,Machinery Manufacturing,1028270
+377,2011,334000,Computer and Electronic Product Manufacturing,1098420
+378,2011,335000,"Electrical Equipment, Appliance, and Component Manufacturing",362690
+379,2011,336000,Transportation Equipment Manufacturing,1355570
+380,2011,337000,Furniture and Related Product Manufacturing,351630
+381,2011,339000,Miscellaneous Manufacturing,571730
+382,2011,423000,"Merchant Wholesalers, Durable Goods",2754790
+383,2011,424000,"Merchant Wholesalers, Nondurable Goods",1949070
+384,2011,425000,Wholesale Electronic Markets and Agents and Brokers,834360
+385,2011,441000,Motor Vehicle and Parts Dealers,1671140
+386,2011,442000,Furniture and Home Furnishings Stores,441910
+387,2011,443000,Electronics and Appliance Stores,512740
+388,2011,444000,Building Material and Garden Equipment and Supplies Dealers,1160950
+389,2011,445000,Food and Beverage Stores,2828710
+390,2011,446000,Health and Personal Care Stores,989930
+391,2011,447000,Gasoline Stations,822710
+392,2011,448000,Clothing and Clothing Accessories Stores,1433880
+393,2011,451000,"Sporting Goods, Hobby, Book, and Music Stores",619930
+394,2011,452000,General Merchandise Stores,3076210
+395,2011,453000,Miscellaneous Store Retailers,787880
+396,2011,454000,Nonstore Retailers,427230
+397,2011,481000,Air Transportation,450920
+398,2011,482000,Rail Transportation,227400
+399,2011,483000,Water Transportation,60970
+400,2011,484000,Truck Transportation,1290070
+401,2011,485000,Transit and Ground Passenger Transportation,445820
+402,2011,486000,Pipeline Transportation,42810
+403,2011,487000,Scenic and Sightseeing Transportation,26570
+404,2011,488000,Support Activities for Transportation,563060
+405,2011,491000,Postal Service,648350
+406,2011,492000,Couriers and Messengers,522990
+407,2011,493000,Warehousing and Storage,646050
+408,2011,511000,Publishing Industries (except Internet),747940
+409,2011,512000,Motion Picture and Sound Recording Industries,368820
+410,2011,515000,Broadcasting (except Internet),291150
+411,2011,517000,Telecommunications,890300
+412,2011,518000,"Data Processing, Hosting and Related Services",238990
+413,2011,519000,Other Information Services,149010
+414,2011,521000,Monetary Authorities-Central Bank,19840
+415,2011,522000,Credit Intermediation and Related Activities,2534220
+416,2011,523000,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",812780
+417,2011,524000,Insurance Carriers and Related Activities,2038710
+418,2011,525000,"Funds, Trusts, and Other Financial Vehicles",82990
+419,2011,531000,Real Estate,1384620
+420,2011,532000,Rental and Leasing Services,499790
+421,2011,533000,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),24500
+422,2011,541000,"Professional, Scientific, and Technical Services",7546400
+423,2011,551000,Management of Companies and Enterprises,1905510
+424,2011,561000,Administrative and Support Services,7362290
+425,2011,562000,Waste Management and Remediation Services,362030
+426,2011,611000,Educational Services,12747270
+427,2011,621000,Ambulatory Health Care Services,6092330
+428,2011,622000,Hospitals,5648820
+429,2011,623000,Nursing and Residential Care Facilities,3157810
+430,2011,624000,Social Assistance,2529260
+431,2011,711000,"Performing Arts, Spectator Sports, and Related Industries",403900
+432,2011,712000,"Museums, Historical Sites, and Similar Institutions",130110
+433,2011,713000,"Amusement, Gambling, and Recreation Industries",1359340
+434,2011,721000,Accommodation,1755990
+435,2011,722000,Food Services and Drinking Places,9572310
+436,2011,811000,Repair and Maintenance,1158800
+437,2011,812000,Personal and Laundry Services,1284500
+438,2011,813000,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",1313480
+439,2011,999000,"Federal, State, and Local Government (excluding state and local schools and hospitals)",9861710
+440,2010,113000,Forestry and Logging,49070
+441,2010,115000,Support Activities for Agriculture and Forestry,319330
+442,2010,211000,Oil and Gas Extraction,154980
+443,2010,212000,Mining (except Oil and Gas),204270
+444,2010,213000,Support Activities for Mining,266340
+445,2010,221000,Utilities,550680
+446,2010,236000,Construction of Buildings,1255600
+447,2010,237000,Heavy and Civil Engineering Construction,840680
+448,2010,238000,Specialty Trade Contractors,3566700
+449,2010,311000,Food Manufacturing,1445100
+450,2010,312000,Beverage and Tobacco Product Manufacturing,183350
+451,2010,313000,Textile Mills,116490
+452,2010,314000,Textile Product Mills,121910
+453,2010,315000,Apparel Manufacturing,157800
+454,2010,316000,Leather and Allied Product Manufacturing,27890
+455,2010,321000,Wood Product Manufacturing,345110
+456,2010,322000,Paper Manufacturing,393540
+457,2010,323000,Printing and Related Support Activities,494800
+458,2010,324000,Petroleum and Coal Products Manufacturing,111960
+459,2010,325000,Chemical Manufacturing,792830
+460,2010,326000,Plastics and Rubber Products Manufacturing,621500
+461,2010,327000,Nonmetallic Mineral Product Manufacturing,379160
+462,2010,331000,Primary Metal Manufacturing,355230
+463,2010,332000,Fabricated Metal Product Manufacturing,1264990
+464,2010,333000,Machinery Manufacturing,980900
+465,2010,334000,Computer and Electronic Product Manufacturing,1085610
+466,2010,335000,"Electrical Equipment, Appliance, and Component Manufacturing",354710
+467,2010,336000,Transportation Equipment Manufacturing,1329370
+468,2010,337000,Furniture and Related Product Manufacturing,361960
+469,2010,339000,Miscellaneous Manufacturing,570050
+470,2010,423000,"Merchant Wholesalers, Durable Goods",2715310
+471,2010,424000,"Merchant Wholesalers, Nondurable Goods",1953670
+472,2010,425000,Wholesale Electronic Markets and Agents and Brokers,795510
+473,2010,441000,Motor Vehicle and Parts Dealers,1624220
+474,2010,442000,Furniture and Home Furnishings Stores,444580
+475,2010,443000,Electronics and Appliance Stores,501110
+476,2010,444000,Building Material and Garden Equipment and Supplies Dealers,1169220
+477,2010,445000,Food and Beverage Stores,2823910
+478,2010,446000,Health and Personal Care Stores,985440
+479,2010,447000,Gasoline Stations,820940
+480,2010,448000,Clothing and Clothing Accessories Stores,1396550
+481,2010,451000,"Sporting Goods, Hobby, Book, and Music Stores",620110
+482,2010,452000,General Merchandise Stores,3038350
+483,2010,453000,Miscellaneous Store Retailers,780070
+484,2010,454000,Nonstore Retailers,417540
+485,2010,481000,Air Transportation,451000
+486,2010,482000,Rail Transportation,226860
+487,2010,483000,Water Transportation,59220
+488,2010,484000,Truck Transportation,1243980
+489,2010,485000,Transit and Ground Passenger Transportation,437450
+490,2010,486000,Pipeline Transportation,42040
+491,2010,487000,Scenic and Sightseeing Transportation,25730
+492,2010,488000,Support Activities for Transportation,538320
+493,2010,491000,Postal Service,673680
+494,2010,492000,Couriers and Messengers,521960
+495,2010,493000,Warehousing and Storage,639150
+496,2010,511000,Publishing Industries (except Internet),758090
+497,2010,512000,Motion Picture and Sound Recording Industries,371450
+498,2010,515000,Broadcasting (except Internet),292010
+499,2010,517000,Telecommunications,909780
+500,2010,518000,"Data Processing, Hosting and Related Services",239850
+501,2010,519000,Other Information Services,137570
+502,2010,521000,Monetary Authorities-Central Bank,19430
+503,2010,522000,Credit Intermediation and Related Activities,2544340
+504,2010,523000,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",798310
+505,2010,524000,Insurance Carriers and Related Activities,2060870
+506,2010,525000,"Funds, Trusts, and Other Financial Vehicles",81970
+507,2010,531000,Real Estate,1383780
+508,2010,532000,Rental and Leasing Services,517440
+509,2010,533000,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),24730
+510,2010,541000,"Professional, Scientific, and Technical Services",7385950
+511,2010,551000,Management of Companies and Enterprises,1906290
+512,2010,561000,Administrative and Support Services,7033570
+513,2010,562000,Waste Management and Remediation Services,353570
+514,2010,611000,Educational Services,12826190
+515,2010,621000,Ambulatory Health Care Services,5944930
+516,2010,622000,Hospitals,5616070
+517,2010,623000,Nursing and Residential Care Facilities,3122980
+518,2010,624000,Social Assistance,2475260
+519,2010,711000,"Performing Arts, Spectator Sports, and Related Industries",403940
+520,2010,712000,"Museums, Historical Sites, and Similar Institutions",128180
+521,2010,713000,"Amusement, Gambling, and Recreation Industries",1356510
+522,2010,721000,Accommodation,1727470
+523,2010,722000,Food Services and Drinking Places,9376990
+524,2010,811000,Repair and Maintenance,1137690
+525,2010,812000,Personal and Laundry Services,1278110
+526,2010,813000,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",1309830
+527,2010,999000,"Federal, State, and Local Government (OES Designation)",9926230
+528,2009,113000,Forestry and Logging,50640
+529,2009,115000,Support Activities for Agriculture and Forestry,331260
+530,2009,211000,Oil and Gas Extraction,159750
+531,2009,212000,Mining (except Oil and Gas),217980
+532,2009,213000,Support Activities for Mining,306140
+533,2009,221000,Utilities,558640
+534,2009,236000,Construction of Buildings,1462090
+535,2009,237000,Heavy and Civil Engineering Construction,921850
+536,2009,238000,Specialty Trade Contractors,4113930
+537,2009,311000,Food Manufacturing,1456900
+538,2009,312000,Beverage and Tobacco Product Manufacturing,188670
+539,2009,313000,Textile Mills,131690
+540,2009,314000,Textile Product Mills,135080
+541,2009,315000,Apparel Manufacturing,180780
+542,2009,316000,Leather and Allied Product Manufacturing,30380
+543,2009,321000,Wood Product Manufacturing,393280
+544,2009,322000,Paper Manufacturing,418030
+545,2009,323000,Printing and Related Support Activities,552190
+546,2009,324000,Petroleum and Coal Products Manufacturing,114980
+547,2009,325000,Chemical Manufacturing,816220
+548,2009,326000,Plastics and Rubber Products Manufacturing,664300
+549,2009,327000,Nonmetallic Mineral Product Manufacturing,421570
+550,2009,331000,Primary Metal Manufacturing,396130
+551,2009,332000,Fabricated Metal Product Manufacturing,1407870
+552,2009,333000,Machinery Manufacturing,1093950
+553,2009,334000,Computer and Electronic Product Manufacturing,1180650
+554,2009,335000,"Electrical Equipment, Appliance, and Component Manufacturing",394810
+555,2009,336000,Transportation Equipment Manufacturing,1444180
+556,2009,337000,Furniture and Related Product Manufacturing,418510
+557,2009,339000,Miscellaneous Manufacturing,604400
+558,2009,423000,"Merchant Wholesalers, Durable Goods",2909390
+559,2009,424000,"Merchant Wholesalers, Nondurable Goods",2007630
+560,2009,425000,Wholesale Electronic Markets and Agents and Brokers,817020
+561,2009,441000,Motor Vehicle and Parts Dealers,1688810
+562,2009,442000,Furniture and Home Furnishings Stores,477800
+563,2009,443000,Electronics and Appliance Stores,519780
+564,2009,444000,Building Material and Garden Equipment and Supplies Dealers,1211990
+565,2009,445000,Food and Beverage Stores,2853180
+566,2009,446000,Health and Personal Care Stores,995660
+567,2009,447000,Gasoline Stations,832310
+568,2009,448000,Clothing and Clothing Accessories Stores,1412690
+569,2009,451000,"Sporting Goods, Hobby, Book, and Music Stores",644350
+570,2009,452000,General Merchandise Stores,3092130
+571,2009,453000,Miscellaneous Store Retailers,813360
+572,2009,454000,Nonstore Retailers,432760
+573,2009,481000,Air Transportation,470030
+574,2009,482000,Rail Transportation,226350
+575,2009,483000,Water Transportation,64830
+576,2009,484000,Truck Transportation,1319000
+577,2009,485000,Transit and Ground Passenger Transportation,436810
+578,2009,486000,Pipeline Transportation,41340
+579,2009,487000,Scenic and Sightseeing Transportation,26450
+580,2009,488000,Support Activities for Transportation,564560
+581,2009,491000,Postal Service,720200
+582,2009,492000,Couriers and Messengers,552300
+583,2009,493000,Warehousing and Storage,663740
+584,2009,511000,Publishing Industries (except Internet),829310
+585,2009,512000,Motion Picture and Sound Recording Industries,368220
+586,2009,515000,Broadcasting (except Internet),308230
+587,2009,517000,Telecommunications,981310
+588,2009,518000,"Data Processing, Hosting and Related Services",254140
+589,2009,519000,Other Information Services,135620
+590,2009,521000,Monetary Authorities-Central Bank,21100
+591,2009,522000,Credit Intermediation and Related Activities,2625120
+592,2009,523000,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",834950
+593,2009,524000,Insurance Carriers and Related Activities,2136560
+594,2009,525000,"Funds, Trusts, and Other Financial Vehicles",88950
+595,2009,531000,Real Estate,1421530
+596,2009,532000,Rental and Leasing Services,571040
+597,2009,533000,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),26240
+598,2009,541000,"Professional, Scientific, and Technical Services",7610310
+599,2009,551000,Management of Companies and Enterprises,1919180
+600,2009,561000,Administrative and Support Services,7173740
+601,2009,562000,Waste Management and Remediation Services,354670
+602,2009,611000,Educational Services,12795350
+603,2009,621000,Ambulatory Health Care Services,5752600
+604,2009,622000,Hospitals,5622110
+605,2009,623000,Nursing and Residential Care Facilities,3069950
+606,2009,624000,Social Assistance,2422840
+607,2009,711000,"Performing Arts, Spectator Sports, and Related Industries",412690
+608,2009,712000,"Museums, Historical Sites, and Similar Institutions",128680
+609,2009,713000,"Amusement, Gambling, and Recreation Industries",1387370
+610,2009,721000,Accommodation,1787030
+611,2009,722000,Food Services and Drinking Places,9495360
+612,2009,811000,Repair and Maintenance,1174420
+613,2009,812000,Personal and Laundry Services,1304510
+614,2009,813000,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",1345050
+615,2009,999000,"Federal, State, and Local Government (OES Designation)",9928110
+616,2008,113000,Forestry and Logging,56740
+617,2008,115000,Support Activities for Agriculture and Forestry,331850
+618,2008,211000,Oil and Gas Extraction,149800
+619,2008,212000,Mining (except Oil and Gas),224470
+620,2008,213000,Support Activities for Mining,311380
+621,2008,221000,Utilities,557010
+622,2008,236000,Construction of Buildings,1713190
+623,2008,237000,Heavy and Civil Engineering Construction,1006170
+624,2008,238000,Specialty Trade Contractors,4736940
+625,2008,311000,Food Manufacturing,1478440
+626,2008,312000,Beverage and Tobacco Product Manufacturing,197700
+627,2008,313000,Textile Mills,157000
+628,2008,314000,Textile Product Mills,154680
+629,2008,315000,Apparel Manufacturing,204460
+630,2008,316000,Leather and Allied Product Manufacturing,33610
+631,2008,321000,Wood Product Manufacturing,484510
+632,2008,322000,Paper Manufacturing,448520
+633,2008,323000,Printing and Related Support Activities,608040
+634,2008,324000,Petroleum and Coal Products Manufacturing,116900
+635,2008,325000,Chemical Manufacturing,854940
+636,2008,326000,Plastics and Rubber Products Manufacturing,748130
+637,2008,327000,Nonmetallic Mineral Product Manufacturing,487990
+638,2008,331000,Primary Metal Manufacturing,449850
+639,2008,332000,Fabricated Metal Product Manufacturing,1556840
+640,2008,333000,Machinery Manufacturing,1181070
+641,2008,334000,Computer and Electronic Product Manufacturing,1256170
+642,2008,335000,"Electrical Equipment, Appliance, and Component Manufacturing",425430
+643,2008,336000,Transportation Equipment Manufacturing,1668220
+644,2008,337000,Furniture and Related Product Manufacturing,504730
+645,2008,339000,Miscellaneous Manufacturing,638150
+646,2008,423000,"Merchant Wholesalers, Durable Goods",3094120
+647,2008,424000,"Merchant Wholesalers, Nondurable Goods",2071460
+648,2008,425000,Wholesale Electronic Markets and Agents and Brokers,846340
+649,2008,441000,Motor Vehicle and Parts Dealers,1887020
+650,2008,442000,Furniture and Home Furnishings Stores,559010
+651,2008,443000,Electronics and Appliance Stores,563460
+652,2008,444000,Building Material and Garden Equipment and Supplies Dealers,1286800
+653,2008,445000,Food and Beverage Stores,2875690
+654,2008,446000,Health and Personal Care Stores,1010990
+655,2008,447000,Gasoline Stations,855480
+656,2008,448000,Clothing and Clothing Accessories Stores,1523220
+657,2008,451000,"Sporting Goods, Hobby, Book, and Music Stores",670780
+658,2008,452000,General Merchandise Stores,3099200
+659,2008,453000,Miscellaneous Store Retailers,862750
+660,2008,454000,Nonstore Retailers,447140
+661,2008,481000,Air Transportation,495610
+662,2008,482000,Rail Transportation,219740
+663,2008,483000,Water Transportation,63940
+664,2008,484000,Truck Transportation,1426510
+665,2008,485000,Transit and Ground Passenger Transportation,434020
+666,2008,486000,Pipeline Transportation,40400
+667,2008,487000,Scenic and Sightseeing Transportation,28640
+668,2008,488000,Support Activities for Transportation,587990
+669,2008,491000,Postal Service,771930
+670,2008,492000,Couriers and Messengers,585820
+671,2008,493000,Warehousing and Storage,692060
+672,2008,511000,Publishing Industries (except Internet),892060
+673,2008,512000,Motion Picture and Sound Recording Industries,391920
+674,2008,515000,Broadcasting (except Internet),317890
+675,2008,517000,Telecommunications,1021510
+676,2008,518000,"Data Processing, Hosting and Related Services",263140
+677,2008,519000,Other Information Services,132770
+678,2008,521000,Monetary Authorities-Central Bank,21510
+679,2008,522000,Credit Intermediation and Related Activities,2771140
+680,2008,523000,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",868960
+681,2008,524000,Insurance Carriers and Related Activities,2165930
+682,2008,525000,"Funds, Trusts, and Other Financial Vehicles",88920
+683,2008,531000,Real Estate,1482820
+684,2008,532000,Rental and Leasing Services,627480
+685,2008,533000,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),27080
+686,2008,541000,"Professional, Scientific, and Technical Services",7747850
+687,2008,551000,Management of Companies and Enterprises,1916450
+688,2008,561000,Administrative and Support Services,8020090
+689,2008,562000,Waste Management and Remediation Services,358990
+690,2008,611000,Educational Services,12655780
+691,2008,621000,Ambulatory Health Care Services,5599380
+692,2008,622000,Hospitals,5536100
+693,2008,623000,Nursing and Residential Care Facilities,3001390
+694,2008,624000,Social Assistance,2362380
+695,2008,711000,"Performing Arts, Spectator Sports, and Related Industries",420380
+696,2008,712000,"Museums, Historical Sites, and Similar Institutions",131260
+697,2008,713000,"Amusement, Gambling, and Recreation Industries",1422590
+698,2008,721000,Accommodation,1862060
+699,2008,722000,Food Services and Drinking Places,9663520
+700,2008,811000,Repair and Maintenance,1244160
+701,2008,812000,Personal and Laundry Services,1329860
+702,2008,813000,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",1348760
+703,2008,999000,"Federal, State, and Local Government (OES Designation)",9748080
+704,2007,113000,Forestry and Logging,60280
+705,2007,115000,Support Activities for Agriculture and Forestry,325450
+706,2007,211000,Oil and Gas Extraction,140250
+707,2007,212000,Mining (except Oil and Gas),221470
+708,2007,213000,Support Activities for Mining,282340
+709,2007,221000,Utilities,542230
+710,2007,236000,Construction of Buildings,1780160
+711,2007,237000,Heavy and Civil Engineering Construction,1011860
+712,2007,238000,Specialty Trade Contractors,4879650
+713,2007,311000,Food Manufacturing,1467760
+714,2007,312000,Beverage and Tobacco Product Manufacturing,195590
+715,2007,313000,Textile Mills,175400
+716,2007,314000,Textile Product Mills,155930
+717,2007,315000,Apparel Manufacturing,224650
+718,2007,316000,Leather and Allied Product Manufacturing,34020
+719,2007,321000,Wood Product Manufacturing,530960
+720,2007,322000,Paper Manufacturing,458870
+721,2007,323000,Printing and Related Support Activities,628920
+722,2007,324000,Petroleum and Coal Products Manufacturing,114690
+723,2007,325000,Chemical Manufacturing,857790
+724,2007,326000,Plastics and Rubber Products Manufacturing,762090
+725,2007,327000,Nonmetallic Mineral Product Manufacturing,510070
+726,2007,331000,Primary Metal Manufacturing,456220
+727,2007,332000,Fabricated Metal Product Manufacturing,1560850
+728,2007,333000,Machinery Manufacturing,1178970
+729,2007,334000,Computer and Electronic Product Manufacturing,1289100
+730,2007,335000,"Electrical Equipment, Appliance, and Component Manufacturing",431850
+731,2007,336000,Transportation Equipment Manufacturing,1734870
+732,2007,337000,Furniture and Related Product Manufacturing,539960
+733,2007,339000,Miscellaneous Manufacturing,652130
+734,2007,423000,"Merchant Wholesalers, Durable Goods",3092920
+735,2007,424000,"Merchant Wholesalers, Nondurable Goods",2060080
+736,2007,425000,Wholesale Electronic Markets and Agents and Brokers,811910
+737,2007,441000,Motor Vehicle and Parts Dealers,1912140
+738,2007,442000,Furniture and Home Furnishings Stores,588420
+739,2007,443000,Electronics and Appliance Stores,557750
+740,2007,444000,Building Material and Garden Equipment and Supplies Dealers,1329920
+741,2007,445000,Food and Beverage Stores,2834100
+742,2007,446000,Health and Personal Care Stores,987740
+743,2007,447000,Gasoline Stations,861790
+744,2007,448000,Clothing and Clothing Accessories Stores,1523910
+745,2007,451000,"Sporting Goods, Hobby, Book, and Music Stores",668660
+746,2007,452000,General Merchandise Stores,3058110
+747,2007,453000,Miscellaneous Store Retailers,880070
+748,2007,454000,Nonstore Retailers,440090
+749,2007,481000,Air Transportation,485870
+750,2007,482000,Rail Transportation,212660
+751,2007,483000,Water Transportation,61720
+752,2007,484000,Truck Transportation,1444800
+753,2007,485000,Transit and Ground Passenger Transportation,420020
+754,2007,486000,Pipeline Transportation,38180
+755,2007,487000,Scenic and Sightseeing Transportation,27790
+756,2007,488000,Support Activities for Transportation,576500
+757,2007,491000,Postal Service,785900
+758,2007,492000,Couriers and Messengers,580110
+759,2007,493000,Warehousing and Storage,672690
+760,2007,511000,Publishing Industries (except Internet),896280
+761,2007,512000,Motion Picture and Sound Recording Industries,376550
+762,2007,515000,Broadcasting (except Internet),326000
+763,2007,516000,Internet Publishing and Broadcasting,39670
+764,2007,517000,Telecommunications,970750
+765,2007,518000,"Internet Service Providers, Web Search Portals, and Data Processing Service",355230
+766,2007,519000,Other Information Services,54560
+767,2007,521000,Monetary Authorities - Central Bank,20120
+768,2007,522000,Credit Intermediation and Related Activities,2883150
+769,2007,523000,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",841770
+770,2007,524000,Insurance Carriers and Related Activities,2156360
+771,2007,525000,"Funds, Trusts, and Other Financial Vehicles",89540
+772,2007,531000,Real Estate,1485260
+773,2007,532000,Rental and Leasing Services,631080
+774,2007,533000,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),26760
+775,2007,541000,"Professional, Scientific, and Technical Services",7519060
+776,2007,551000,Management of Companies and Enterprises,1915250
+777,2007,561000,Administrative and Support Services,8155380
+778,2007,562000,Waste Management and Remediation Services,351300
+779,2007,611000,Educational Services,12455550
+780,2007,621000,Ambulatory Health Care Services,5411610
+781,2007,622000,Hospitals,5410040
+782,2007,623000,Nursing and Residential Care Facilities,2928200
+783,2007,624000,Social Assistance,2256560
+784,2007,711000,"Performing Arts, Spectator Sports, and Related Industries",410690
+785,2007,712000,"Museums, Historical Sites, and Similar Institutions",125410
+786,2007,713000,"Amusement, Gambling, and Recreation Industries",1387280
+787,2007,721000,Accommodation,1833810
+788,2007,722000,Food Services and Drinking Places,9508000
+789,2007,811000,Repair and Maintenance,1248780
+790,2007,812000,Personal and Laundry Services,1307210
+791,2007,813000,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",1325420
+792,2007,999000,"Federal, State, and Local Government (OES Designation)",9533390
+793,2006,113000,Forestry and Logging,63100
+794,2006,115000,Support Activities for Agriculture and Forestry,316580
+795,2006,211000,Oil and Gas Extraction,129000
+796,2006,212000,Mining (except Oil and Gas),219550
+797,2006,213000,Support Activities for Mining,241950
+798,2006,221000,Utilities,546400
+799,2006,236000,Construction of Buildings,1782550
+800,2006,237000,Heavy and Civil Engineering Construction,991710
+801,2006,238000,Specialty Trade Contractors,4858820
+802,2006,311000,Food Manufacturing,1468180
+803,2006,312000,Beverage and Tobacco Product Manufacturing,193040
+804,2006,313000,Textile Mills,202560
+805,2006,314000,Textile Product Mills,164470
+806,2006,315000,Apparel Manufacturing,246460
+807,2006,316000,Leather and Allied Product Manufacturing,37620
+808,2006,321000,Wood Product Manufacturing,565920
+809,2006,322000,Paper Manufacturing,473330
+810,2006,323000,Printing and Related Support Activities,638120
+811,2006,324000,Petroleum and Coal Products Manufacturing,112750
+812,2006,325000,Chemical Manufacturing,863780
+813,2006,326000,Plastics and Rubber Products Manufacturing,802680
+814,2006,327000,Nonmetallic Mineral Product Manufacturing,514820
+815,2006,331000,Primary Metal Manufacturing,464530
+816,2006,332000,Fabricated Metal Product Manufacturing,1537350
+817,2006,333000,Machinery Manufacturing,1170620
+818,2006,334000,Computer and Electronic Product Manufacturing,1304060
+819,2006,335000,"Electrical Equipment, Appliance, and Component Manufacturing",432560
+820,2006,336000,Transportation Equipment Manufacturing,1778060
+821,2006,337000,Furniture and Related Product Manufacturing,563780
+822,2006,339000,Miscellaneous Manufacturing,651090
+823,2006,423000,"Merchant Wholesalers, Durable Goods",3048960
+824,2006,424000,"Merchant Wholesalers, Nondurable Goods",2038680
+825,2006,425000,Wholesale Electronic Markets and Agents and Brokers,774770
+826,2006,441000,Motor Vehicle and Parts Dealers,1914200
+827,2006,442000,Furniture and Home Furnishings Stores,590600
+828,2006,443000,Electronics and Appliance Stores,562120
+829,2006,444000,Building Material and Garden Equipment and Supplies Dealers,1326530
+830,2006,445000,Food and Beverage Stores,2816550
+831,2006,446000,Health and Personal Care Stores,962630
+832,2006,447000,Gasoline Stations,865500
+833,2006,448000,Clothing and Clothing Accessories Stores,1453570
+834,2006,451000,"Sporting Goods, Hobby, Book, and Music Stores",671570
+835,2006,452000,General Merchandise Stores,3018450
+836,2006,453000,Miscellaneous Store Retailers,900780
+837,2006,454000,Nonstore Retailers,433790
+838,2006,481000,Air Transportation,485780
+839,2006,482000,Rail Transportation,207440
+840,2006,483000,Water Transportation,61550
+841,2006,484000,Truck Transportation,1419660
+842,2006,485000,Transit and Ground Passenger Transportation,408190
+843,2006,486000,Pipeline Transportation,38720
+844,2006,487000,Scenic and Sightseeing Transportation,26920
+845,2006,488000,Support Activities for Transportation,563470
+846,2006,491000,Postal Service,791120
+847,2006,492000,Couriers and Messengers,576160
+848,2006,493000,Warehousing and Storage,624920
+849,2006,511000,Publishing Industries (except Internet),902130
+850,2006,512000,Motion Picture and Sound Recording Industries,384190
+851,2006,515000,Broadcasting (except Internet),327690
+852,2006,516000,Internet Publishing and Broadcasting,33220
+853,2006,517000,Telecommunications,974320
+854,2006,518000,"Internet Service Providers, Web Search Portals, and Data Processing Service",383880
+855,2006,519000,Other Information Services,50750
+856,2006,521000,Monetary Authorities - Central Bank,20710
+857,2006,522000,Credit Intermediation and Related Activities,2921190
+858,2006,523000,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",806690
+859,2006,524000,Insurance Carriers and Related Activities,2151860
+860,2006,525000,"Funds, Trusts, and Other Financial Vehicles",92120
+861,2006,531000,Real Estate,1482250
+862,2006,532000,Rental and Leasing Services,639150
+863,2006,533000,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),27310
+864,2006,541000,"Professional, Scientific, and Technical Services",7243130
+865,2006,551000,Management of Companies and Enterprises,1786440
+866,2006,561000,Administrative and Support Services,8002330
+867,2006,562000,Waste Management and Remediation Services,347850
+868,2006,611000,Educational Services,12291320
+869,2006,621000,Ambulatory Health Care Services,5234460
+870,2006,622000,Hospitals,5316000
+871,2006,623000,Nursing and Residential Care Facilities,2869720
+872,2006,624000,Social Assistance,2166490
+873,2006,711000,"Performing Arts, Spectator Sports, and Related Industries",394960
+874,2006,712000,"Museums, Historical Sites, and Similar Institutions",120230
+875,2006,713000,"Amusement, Gambling, and Recreation Industries",1351740
+876,2006,721000,Accommodation,1799400
+877,2006,722000,Food Services and Drinking Places,9249600
+878,2006,811000,Repair and Maintenance,1243810
+879,2006,812000,Personal and Laundry Services,1288010
+880,2006,813000,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",1301280
+881,2006,999000,"Federal, State, and Local Government (OES Designation)",9482720
+882,2005,113000,Forestry and Logging,65050
+883,2005,115000,Support Activities for Agriculture and Forestry,304260
+884,2005,211000,Oil and Gas Extraction,122360
+885,2005,212000,Mining (except Oil and Gas),210610
+886,2005,213000,Support Activities for Mining,206990
+887,2005,221000,Utilities,552440
+888,2005,236000,Construction of Buildings,1681450
+889,2005,237000,Heavy and Civil Engineering Construction,946560
+890,2005,238000,Specialty Trade Contractors,4587220
+891,2005,311000,Food Manufacturing,1478960
+892,2005,312000,Beverage and Tobacco Product Manufacturing,191010
+893,2005,313000,Textile Mills,224400
+894,2005,314000,Textile Product Mills,172890
+895,2005,315000,Apparel Manufacturing,269070
+896,2005,316000,Leather and Allied Product Manufacturing,40580
+897,2005,321000,Wood Product Manufacturing,557680
+898,2005,322000,Paper Manufacturing,487550
+899,2005,323000,Printing and Related Support Activities,652360
+900,2005,324000,Petroleum and Coal Products Manufacturing,112500
+901,2005,325000,Chemical Manufacturing,875630
+902,2005,326000,Plastics and Rubber Products Manufacturing,804400
+903,2005,327000,Nonmetallic Mineral Product Manufacturing,507350
+904,2005,331000,Primary Metal Manufacturing,467510
+905,2005,332000,Fabricated Metal Product Manufacturing,1511940
+906,2005,333000,Machinery Manufacturing,1150920
+907,2005,334000,Computer and Electronic Product Manufacturing,1312840
+908,2005,335000,"Electrical Equipment, Appliance, and Component Manufacturing",439240
+909,2005,336000,Transportation Equipment Manufacturing,1784820
+910,2005,337000,Furniture and Related Product Manufacturing,567950
+911,2005,339000,Miscellaneous Manufacturing,652910
+912,2005,423000,"Merchant Wholesalers, Durable Goods",2978090
+913,2005,424000,"Merchant Wholesalers, Nondurable Goods",2028810
+914,2005,425000,Wholesale Electronic Markets and Agents and Brokers,729120
+915,2005,441000,Motor Vehicle and Parts Dealers,1913450
+916,2005,442000,Furniture and Home Furnishings Stores,579420
+917,2005,443000,Electronics and Appliance Stores,538960
+918,2005,444000,Building Material and Garden Equipment and Supplies Dealers,1279190
+919,2005,445000,Food and Beverage Stores,2821850
+920,2005,446000,Health and Personal Care Stores,947950
+921,2005,447000,Gasoline Stations,871700
+922,2005,448000,Clothing and Clothing Accessories Stores,1421470
+923,2005,451000,"Sporting Goods, Hobby, Book, and Music Stores",660470
+924,2005,452000,General Merchandise Stores,2976680
+925,2005,453000,Miscellaneous Store Retailers,922570
+926,2005,454000,Nonstore Retailers,435730
+927,2005,481000,Air Transportation,507660
+928,2005,482000,Rail Transportation,212880
+929,2005,483000,Water Transportation,57920
+930,2005,484000,Truck Transportation,1387340
+931,2005,485000,Transit and Ground Passenger Transportation,406400
+932,2005,486000,Pipeline Transportation,37760
+933,2005,487000,Scenic and Sightseeing Transportation,27510
+934,2005,488000,Support Activities for Transportation,546800
+935,2005,491000,Postal Service,799570
+936,2005,492000,Couriers and Messengers,565100
+937,2005,493000,Warehousing and Storage,582250
+938,2005,511000,Publishing Industries (except Internet),906090
+939,2005,512000,Motion Picture and Sound Recording Industries,386890
+940,2005,515000,Broadcasting (except Internet),325410
+941,2005,516000,Internet Publishing and Broadcasting,30540
+942,2005,517000,Telecommunications,1001580
+943,2005,518000,"Internet Service Providers, Web Search Portals, and Data Processing Service",381240
+944,2005,519000,Other Information Services,49750
+945,2005,521000,Monetary Authorities - Central Bank,20470
+946,2005,522000,Credit Intermediation and Related Activities,2843140
+947,2005,523000,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",781290
+948,2005,524000,Insurance Carriers and Related Activities,2129930
+949,2005,525000,"Funds, Trusts, and Other Financial Vehicles",88500
+950,2005,531000,Real Estate,1437840
+951,2005,532000,Rental and Leasing Services,644620
+952,2005,533000,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),26140
+953,2005,541000,"Professional, Scientific, and Technical Services",6928030
+954,2005,551000,Management of Companies and Enterprises,1739370
+955,2005,561000,Administrative and Support Services,7766830
+956,2005,562000,Waste Management and Remediation Services,335420
+957,2005,611000,Educational Services,12137420
+958,2005,621000,Ambulatory Health Care Services,5064630
+959,2005,622000,Hospitals,5246630
+960,2005,623000,Nursing and Residential Care Facilities,2840000
+961,2005,624000,Social Assistance,2082670
+962,2005,711000,"Performing Arts, Spectator Sports, and Related Industries",385130
+963,2005,712000,"Museums, Historical Sites, and Similar Institutions",119190
+964,2005,713000,"Amusement, Gambling, and Recreation Industries",1339400
+965,2005,721000,Accommodation,1789440
+966,2005,722000,Food Services and Drinking Places,9053130
+967,2005,811000,Repair and Maintenance,1233630
+968,2005,812000,Personal and Laundry Services,1277930
+969,2005,813000,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",1299560
+970,2005,999000,"Federal, State, and Local Government (OES Designation)",9439900
+971,2004,113000,Forestry and Logging,66210
+972,2004,115000,Support Activities for Agriculture and Forestry,314140
+973,2004,211000,Oil and Gas Extraction,119200
+974,2004,212000,Mining (except Oil and Gas),204350
+975,2004,213000,Support Activities for Mining,184290
+976,2004,221000,Utilities,567000
+977,2004,236000,Construction of Buildings,1595610
+978,2004,237000,Heavy and Civil Engineering Construction,918760
+979,2004,238000,Specialty Trade Contractors,4377070
+980,2004,311000,Food Manufacturing,1498150
+981,2004,312000,Beverage and Tobacco Product Manufacturing,194590
+982,2004,313000,Textile Mills,243690
+983,2004,314000,Textile Product Mills,181870
+984,2004,315000,Apparel Manufacturing,293440
+985,2004,316000,Leather and Allied Product Manufacturing,43010
+986,2004,321000,Wood Product Manufacturing,542740
+987,2004,322000,Paper Manufacturing,498050
+988,2004,323000,Printing and Related Support Activities,666470
+989,2004,324000,Petroleum and Coal Products Manufacturing,112130
+990,2004,325000,Chemical Manufacturing,887850
+991,2004,326000,Plastics and Rubber Products Manufacturing,806760
+992,2004,327000,Nonmetallic Mineral Product Manufacturing,501110
+993,2004,331000,Primary Metal Manufacturing,463290
+994,2004,332000,Fabricated Metal Product Manufacturing,1480600
+995,2004,333000,Machinery Manufacturing,1130280
+996,2004,334000,Computer and Electronic Product Manufacturing,1317400
+997,2004,335000,"Electrical Equipment, Appliance, and Component Manufacturing",445400
+998,2004,336000,Transportation Equipment Manufacturing,1761700
+999,2004,337000,Furniture and Related Product Manufacturing,570040
+1000,2004,339000,Miscellaneous Manufacturing,657540
+1001,2004,423000,"Merchant Wholesalers, Durable Goods",2927130
+1002,2004,424000,"Merchant Wholesalers, Nondurable Goods",2013750
+1003,2004,425000,Wholesale Electronic Markets and Agents and Brokers,686310
+1004,2004,441000,Motor Vehicle and Parts Dealers,1901320
+1005,2004,442000,Furniture and Home Furnishings Stores,565350
+1006,2004,443000,Electronics and Appliance Stores,525480
+1007,2004,444000,Building Material and Garden Equipment and Supplies Dealers,1237410
+1008,2004,445000,Food and Beverage Stores,2827350
+1009,2004,446000,Health and Personal Care Stores,941550
+1010,2004,447000,Gasoline Stations,879610
+1011,2004,448000,Clothing and Clothing Accessories Stores,1372600
+1012,2004,451000,"Sporting Goods, Hobby, Book, and Music Stores",662380
+1013,2004,452000,General Merchandise Stores,2900470
+1014,2004,453000,Miscellaneous Store Retailers,932020
+1015,2004,454000,Nonstore Retailers,431610
+1016,2004,481000,Air Transportation,512360
+1017,2004,482000,Rail Transportation,212930
+1018,2004,483000,Water Transportation,54500
+1019,2004,484000,Truck Transportation,1340250
+1020,2004,485000,Transit and Ground Passenger Transportation,398790
+1021,2004,486000,Pipeline Transportation,38930
+1022,2004,487000,Scenic and Sightseeing Transportation,26660
+1023,2004,488000,Support Activities for Transportation,524600
+1024,2004,491000,Postal Service,804750
+1025,2004,492000,Couriers and Messengers,571280
+1026,2004,493000,Warehousing and Storage,553360
+1027,2004,511000,Publishing Industries (except Internet),911450
+1028,2004,512000,Motion Picture and Sound Recording Industries,386810
+1029,2004,515000,Broadcasting (except Internet),323730
+1030,2004,516000,Internet Publishing and Broadcasting,29250
+1031,2004,517000,Telecommunications,1048850
+1032,2004,518000,"Internet Service Providers, Web Search Portals, and Data Processing Service",386840
+1033,2004,519000,Other Information Services,50040
+1034,2004,521000,Monetary Authorities - Central Bank,21440
+1035,2004,522000,Credit Intermediation and Related Activities,2802600
+1036,2004,523000,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",753690
+1037,2004,524000,Insurance Carriers and Related Activities,2130660
+1038,2004,525000,"Funds, Trusts, and Other Financial Vehicles",85350
+1039,2004,531000,Real Estate,1392010
+1040,2004,532000,Rental and Leasing Services,637720
+1041,2004,533000,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),25890
+1042,2004,541000,"Professional, Scientific, and Technical Services",6673180
+1043,2004,551000,Management of Companies and Enterprises,1717950
+1044,2004,561000,Administrative and Support Services,7533040
+1045,2004,562000,Waste Management and Remediation Services,324540
+1046,2004,611000,Educational Services,11954870
+1047,2004,621000,Ambulatory Health Care Services,4890690
+1048,2004,622000,Hospitals,5187910
+1049,2004,623000,Nursing and Residential Care Facilities,2808240
+1050,2004,624000,Social Assistance,2012370
+1051,2004,711000,"Performing Arts, Spectator Sports, and Related Industries",382230
+1052,2004,712000,"Museums, Historical Sites, and Similar Institutions",117040
+1053,2004,713000,"Amusement, Gambling, and Recreation Industries",1315380
+1054,2004,721000,Accommodation,1764770
+1055,2004,722000,Food Services and Drinking Places,8803020
+1056,2004,811000,Repair and Maintenance,1226500
+1057,2004,812000,Personal and Laundry Services,1271270
+1058,2004,813000,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",1285950
+1059,2004,999000,"Federal, State, and Local Government (OES Designation)",9386610
+1060,2003,113000,Forestry and Logging,67140
+1061,2003,115000,Support Activities for Agriculture and Forestry,306240
+1062,2003,211000,Oil and Gas Extraction,117970
+1063,2003,212000,Mining (except Oil and Gas),205320
+1064,2003,213000,Support Activities for Mining,175510
+1065,2003,221000,Utilities,580750
+1066,2003,236000,Construction of Buildings,1572330
+1067,2003,237000,Heavy and Civil Engineering Construction,931960
+1068,2003,238000,Specialty Trade Contractors,4257400
+1069,2003,311000,Food Manufacturing,1520640
+1070,2003,312000,Beverage and Tobacco Product Manufacturing,202430
+1071,2003,313000,Textile Mills,276440
+1072,2003,314000,Textile Product Mills,188820
+1073,2003,315000,Apparel Manufacturing,328490
+1074,2003,316000,Leather and Allied Product Manufacturing,47230
+1075,2003,321000,Wood Product Manufacturing,542290
+1076,2003,322000,Paper Manufacturing,526070
+1077,2003,323000,Printing and Related Support Activities,688500
+1078,2003,324000,Petroleum and Coal Products Manufacturing,119080
+1079,2003,325000,Chemical Manufacturing,914240
+1080,2003,326000,Plastics and Rubber Products Manufacturing,829400
+1081,2003,327000,Nonmetallic Mineral Product Manufacturing,508720
+1082,2003,331000,Primary Metal Manufacturing,490170
+1083,2003,332000,Fabricated Metal Product Manufacturing,1503610
+1084,2003,333000,Machinery Manufacturing,1172790
+1085,2003,334000,Computer and Electronic Product Manufacturing,1396190
+1086,2003,335000,"Electrical Equipment, Appliance, and Component Manufacturing",470800
+1087,2003,336000,Transportation Equipment Manufacturing,1793900
+1088,2003,337000,Furniture and Related Product Manufacturing,583200
+1089,2003,339000,Miscellaneous Manufacturing,675140
+1090,2003,423000,"Merchant Wholesalers, Durable Goods",2954650
+1091,2003,424000,"Merchant Wholesalers, Nondurable Goods",2024330
+1092,2003,425000,Wholesale Electronic Markets and Agents and Brokers,655500
+1093,2003,441000,Motor Vehicle and Parts Dealers,1877280
+1094,2003,442000,Furniture and Home Furnishings Stores,551370
+1095,2003,443000,Electronics and Appliance Stores,523580
+1096,2003,444000,Building Material and Garden Equipment and Supplies Dealers,1201570
+1097,2003,445000,Food and Beverage Stores,2867740
+1098,2003,446000,Health and Personal Care Stores,934360
+1099,2003,447000,Gasoline Stations,887730
+1100,2003,448000,Clothing and Clothing Accessories Stores,1327880
+1101,2003,451000,"Sporting Goods, Hobby, Book, and Music Stores",672730
+1102,2003,452000,General Merchandise Stores,2862750
+1103,2003,453000,Miscellaneous Store Retailers,956270
+1104,2003,454000,Nonstore Retailers,439040
+1105,2003,481000,Air Transportation,543870
+1106,2003,482000,Rail Transportation,219110
+1107,2003,483000,Water Transportation,52970
+1108,2003,484000,Truck Transportation,1337480
+1109,2003,485000,Transit and Ground Passenger Transportation,395000
+1110,2003,486000,Pipeline Transportation,41400
+1111,2003,487000,Scenic and Sightseeing Transportation,26580
+1112,2003,488000,Support Activities for Transportation,514520
+1113,2003,492000,Couriers and Messengers,572530
+1114,2003,493000,Warehousing and Storage,526600
+1115,2003,511000,Publishing Industries (except Internet),938430
+1116,2003,512000,Motion Picture and Sound Recording Industries,390910
+1117,2003,515000,Broadcasting (except Internet),328100
+1118,2003,516000,Internet Publishing and Broadcasting,30180
+1119,2003,517000,Telecommunications,1100350
+1120,2003,518000,"Internet Service Providers, Web Search Portals, and Data Processing Service",410620
+1121,2003,519000,Other Information Services,48640
+1122,2003,521000,Monetary Authorities - Central Bank,21870
+1123,2003,522000,Credit Intermediation and Related Activities,2748490
+1124,2003,523000,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",766920
+1125,2003,524000,Insurance Carriers and Related Activities,2139050
+1126,2003,525000,"Funds, Trusts, and Other Financial Vehicles",84620
+1127,2003,531000,Real Estate,1370150
+1128,2003,532000,Rental and Leasing Services,640570
+1129,2003,533000,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),26550
+1130,2003,541000,"Professional, Scientific, and Technical Services",6613260
+1131,2003,551000,Management of Companies and Enterprises,1673430
+1132,2003,561000,Administrative and Support Services,7375060
+1133,2003,562000,Waste Management and Remediation Services,321470
+1134,2003,611000,Educational Services,11862740
+1135,2003,621000,Ambulatory Health Care Services,4745930
+1136,2003,622000,Hospitals,5133220
+1137,2003,623000,Nursing and Residential Care Facilities,2775530
+1138,2003,624000,Social Assistance,1968130
+1139,2003,711000,"Performing Arts, Spectator Sports, and Related Industries",388890
+1140,2003,712000,"Museums, Historical Sites, and Similar Institutions",116140
+1141,2003,713000,"Amusement, Gambling, and Recreation Industries",1292100
+1142,2003,721000,Accommodation,1752800
+1143,2003,722000,Food Services and Drinking Places,8576020
+1144,2003,811000,Repair and Maintenance,1233950
+1145,2003,812000,Personal and Laundry Services,1270040
+1146,2003,813000,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",1298230
+1147,2003,999000,"Federal, State, and Local Government (OES Designation)",10165660
+1148,2002,113300,Logging,71100
+1149,2002,115100,Support Activities for Crop Production,284340
+1150,2002,115200,Support Activities for Animal Production,25230
+1151,2002,211100,Oil and Gas Extraction,119130
+1152,2002,212100,Coal Mining,71200
+1153,2002,212200,Metal Ore Mining,27890
+1154,2002,212300,Nonmetallic Mineral Mining and Quarrying,104320
+1155,2002,213100,Support Activities for Mining,171740
+1156,2002,221100,"Electric Power Generation, Transmission and Distribution",425480
+1157,2002,221200,Natural Gas Distribution,112510
+1158,2002,221300,"Water, Sewage and Other Systems",47940
+1159,2002,236100,Residential Building Construction,827620
+1160,2002,236200,Nonresidential Building Construction,768160
+1161,2002,237100,Utility System Construction,392820
+1162,2002,237200,Land Subdivision,86770
+1163,2002,237300,"Highway, Street, and Bridge Construction",374070
+1164,2002,237900,Other Heavy and Civil Engineering Construction,119510
+1165,2002,238100,"Foundation, Structure, and Building Exterior Contractors",953080
+1166,2002,238200,Building Equipment Contractors,1838960
+1167,2002,238300,Building Finishing Contractors,888990
+1168,2002,238900,Other Specialty Trade Contractors,610520
+1169,2002,311100,Animal Food Manufacturing,51030
+1170,2002,311200,Grain and Oilseed Milling,61910
+1171,2002,311300,Sugar and Confectionery Product Manufacturing,93840
+1172,2002,311400,Fruit and Vegetable Preserving and Specialty Food Manufacturing,181590
+1173,2002,311500,Dairy Product Manufacturing,136430
+1174,2002,311600,Animal Slaughtering and Processing,521540
+1175,2002,311700,Seafood Product Preparation and Packaging,38040
+1176,2002,311800,Bakeries and Tortilla Manufacturing,299860
+1177,2002,311900,Other Food Manufacturing,152090
+1178,2002,312100,Beverage Manufacturing,172420
+1179,2002,312200,Tobacco Manufacturing,32680
+1180,2002,313100,"Fiber, Yarn, and Thread Mills",62540
+1181,2002,313200,Fabric Mills,140130
+1182,2002,313300,Textile and Fabric Finishing and Fabric Coating Mills,79470
+1183,2002,314100,Textile Furnishings Mills,114930
+1184,2002,314900,Other Textile Product Mills,77360
+1185,2002,315100,Apparel Knitting Mills,48630
+1186,2002,315200,Cut and Sew Apparel Manufacturing,258460
+1187,2002,315900,Apparel Accessories and Other Apparel Manufacturing,25950
+1188,2002,316100,Leather and Hide Tanning and Finishing,8780
+1189,2002,316200,Footwear Manufacturing,20520
+1190,2002,316900,Other Leather and Allied Product Manufacturing,19440
+1191,2002,321100,Sawmills and Wood Preservation,118460
+1192,2002,321200,"Veneer, Plywood, and Engineered Wood Product Manufacturing",112770
+1193,2002,321900,Other Wood Product Manufacturing,311880
+1194,2002,322100,"Pulp, Paper, and Paperboard Mills",161030
+1195,2002,322200,Converted Paper Product Manufacturing,375060
+1196,2002,323100,Printing and Related Support Activities,697760
+1197,2002,324100,Petroleum and Coal Products Manufacturing,118720
+1198,2002,325100,Basic Chemical Manufacturing,166710
+1199,2002,325200,"Resin, Synthetic Rubber, and Artificial Synthetic Fibers and Filaments Manufacturing",111980
+1200,2002,325300,"Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing",43030
+1201,2002,325400,Pharmaceutical and Medicine Manufacturing,294870
+1202,2002,325500,"Paint, Coating, and Adhesive Manufacturing",70650
+1203,2002,325600,"Soap, Cleaning Compound, and Toilet Preparation Manufacturing",119120
+1204,2002,325900,Other Chemical Product and Preparation Manufacturing,112920
+1205,2002,326100,Plastics Product Manufacturing,658540
+1206,2002,326200,Rubber Product Manufacturing,180590
+1207,2002,327100,Clay Product and Refractory Manufacturing,70840
+1208,2002,327200,Glass and Glass Product Manufacturing,122460
+1209,2002,327300,Cement and Concrete Product Manufacturing,223450
+1210,2002,327400,Lime and Gypsum Product Manufacturing,19410
+1211,2002,327900,Other Nonmetallic Mineral Product Manufacturing,71290
+1212,2002,331100,Iron and Steel Mills and Ferroalloy Manufacturing,108200
+1213,2002,331200,Steel Product Manufacturing from Purchased Steel,60010
+1214,2002,331300,Alumina and Aluminum Production and Processing,77840
+1215,2002,331400,Nonferrous Metal (except Aluminum) Production and Processing,77670
+1216,2002,331500,Foundries,172960
+1217,2002,332100,Forging and Stamping,109420
+1218,2002,332200,Cutlery and Handtool Manufacturing,62530
+1219,2002,332300,Architectural and Structural Metals Manufacturing,387530
+1220,2002,332400,"Boiler, Tank, and Shipping Container Manufacturing",93820
+1221,2002,332500,Hardware Manufacturing,40210
+1222,2002,332600,Spring and Wire Product Manufacturing,69490
+1223,2002,332700,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",310540
+1224,2002,332800,"Coating, Engraving, Heat Treating, and Allied Activities",145800
+1225,2002,332900,Other Fabricated Metal Product Manufacturing,293270
+1226,2002,333100,"Agriculture, Construction, and Mining Machinery Manufacturing",191560
+1227,2002,333200,Industrial Machinery Manufacturing,127230
+1228,2002,333300,Commercial and Service Industry Machinery Manufacturing,123580
+1229,2002,333400,"Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing",160390
+1230,2002,333500,Metalworking Machinery Manufacturing,211900
+1231,2002,333600,"Engine, Turbine, and Power Transmission Equipment Manufacturing",97860
+1232,2002,333900,Other General Purpose Machinery Manufacturing,274580
+1233,2002,334100,Computer and Peripheral Equipment Manufacturing,236750
+1234,2002,334200,Communications Equipment Manufacturing,166410
+1235,2002,334300,Audio and Video Equipment Manufacturing,41080
+1236,2002,334400,Semiconductor and Other Electronic Component Manufacturing,497110
+1237,2002,334500,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",436560
+1238,2002,334600,Manufacturing and Reproducing Magnetic and Optical Media,55710
+1239,2002,335100,Electric Lighting Equipment Manufacturing,70250
+1240,2002,335200,Household Appliance Manufacturing,95440
+1241,2002,335300,Electrical Equipment Manufacturing,166690
+1242,2002,335900,Other Electrical Equipment and Component Manufacturing,144560
+1243,2002,336100,Motor Vehicle Manufacturing,268280
+1244,2002,336200,Motor Vehicle Body and Trailer Manufacturing,154420
+1245,2002,336300,Motor Vehicle Parts Manufacturing,730450
+1246,2002,336400,Aerospace Product and Parts Manufacturing,451790
+1247,2002,336500,Railroad Rolling Stock Manufacturing,22790
+1248,2002,336600,Ship and Boat Building,146810
+1249,2002,336900,Other Transportation Equipment Manufacturing,38920
+1250,2002,337100,Household and Institutional Furniture and Kitchen Cabinet Manufacturing,393050
+1251,2002,337200,Office Furniture (including Fixtures) Manufacturing,144670
+1252,2002,337900,Other Furniture Related Product Manufacturing,52970
+1253,2002,339100,Medical Equipment and Supplies Manufacturing,306580
+1254,2002,339900,Other Miscellaneous Manufacturing,373180
+1255,2002,423100,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,342910
+1256,2002,423200,Furniture and Home Furnishing Merchant Wholesalers,108070
+1257,2002,423300,Lumber and Other Construction Materials Merchant Wholesalers,225320
+1258,2002,423400,Professional and Commercial Equipment and Supplies Merchant Wholesalers,649760
+1259,2002,423500,Metal and Mineral (except Petroleum) Merchant Wholesalers,123790
+1260,2002,423600,Electrical and Electronic Goods Merchant Wholesalers,353660
+1261,2002,423700,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers",231290
+1262,2002,423800,"Machinery, Equipment, and Supplies Merchant Wholesalers",659130
+1263,2002,423900,Miscellaneous Durable Goods Merchant Wholesalers,266230
+1264,2002,424100,Paper and Paper Product Merchant Wholesalers,156740
+1265,2002,424200,Drugs and Druggists' Sundries Merchant Wholesalers,210240
+1266,2002,424300,"Apparel, Piece Goods, and Notions Merchant Wholesalers",151730
+1267,2002,424400,Grocery and Related Product Wholesalers,678200
+1268,2002,424500,Farm Product Raw Material Merchant Wholesalers,77100
+1269,2002,424600,Chemical and Allied Products Merchant Wholesalers,130500
+1270,2002,424700,Petroleum and Petroleum Products Merchant Wholesalers,108070
+1271,2002,424800,"Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers",131240
+1272,2002,424900,Miscellaneous Nondurable Goods Merchant Wholesalers,365140
+1273,2002,425100,Wholesale Electronic Markets and Agents and Brokers,640060
+1274,2002,441100,Automobile Dealers,1252620
+1275,2002,441200,Other Motor Vehicle Dealers,143700
+1276,2002,441300,"Automotive Parts, Accessories, and Tire Stores",486770
+1277,2002,442100,Furniture Stores,282160
+1278,2002,442200,Home Furnishings Stores,263150
+1279,2002,443100,Electronics and Appliance Stores,530650
+1280,2002,444100,Building Material and Supplies Dealers,1027630
+1281,2002,444200,Lawn and Garden Equipment and Supplies Stores,148280
+1282,2002,445100,Grocery Stores,2456490
+1283,2002,445200,Specialty Food Stores,261320
+1284,2002,445300,"Beer, Wine, and Liquor Stores",141550
+1285,2002,446100,Health and Personal Care Stores,928810
+1286,2002,447100,Gasoline Stations,889130
+1287,2002,448100,Clothing Stores,957520
+1288,2002,448200,Shoe Stores,180350
+1289,2002,448300,"Jewelry, Luggage, and Leather Goods Stores",169600
+1290,2002,451100,"Sporting Goods, Hobby, and Musical Instrument Stores",440990
+1291,2002,451200,"Book, Periodical, and Music Stores",226780
+1292,2002,452100,Department Stores,1694700
+1293,2002,452900,Other General Merchandise Stores,1119080
+1294,2002,453100,Florists,114330
+1295,2002,453200,"Office Supplies, Stationery, and Gift Stores",444300
+1296,2002,453300,Used Merchandise Stores,109210
+1297,2002,453900,Other Miscellaneous Store Retailers,303920
+1298,2002,454100,Electronic Shopping and Mail-Order Houses,225150
+1299,2002,454200,Vending Machine Operators,57940
+1300,2002,454300,Direct Selling Establishments,161180
+1301,2002,481100,Scheduled Air Transportation,518280
+1302,2002,481200,Nonscheduled Air Transportation,43640
+1303,2002,482100,Rail Transportation,221890
+1304,2002,483100,"Deep Sea, Coastal, and Great Lakes Water Transportation",32210
+1305,2002,483200,Inland Water Transportation,19810
+1306,2002,484100,General Freight Trucking,949970
+1307,2002,484200,Specialized Freight Trucking,392670
+1308,2002,485100,Urban Transit Systems,36290
+1309,2002,485200,Interurban and Rural Bus Transportation,22890
+1310,2002,485300,Taxi and Limousine Service,67560
+1311,2002,485400,School and Employee Bus Transportation,174440
+1312,2002,485500,Charter Bus Industry,34470
+1313,2002,485900,Other Transit and Ground Passenger Transportation,56020
+1314,2002,486100,Pipeline Transportation of Crude Oil,7260
+1315,2002,486200,Pipeline Transportation of Natural Gas,29980
+1316,2002,486900,Other Pipeline Transportation,5100
+1317,2002,487100,"Scenic and Sightseeing Transportation, Land",8990
+1318,2002,487200,"Scenic and Sightseeing Transportation, Water",13370
+1319,2002,487900,"Scenic and Sightseeing Transportation, Other",2270
+1320,2002,488100,Support Activities for Air Transportation,134630
+1321,2002,488200,Support Activities for Rail Transportation,19260
+1322,2002,488300,Support Activities for Water Transportation,93350
+1323,2002,488400,Support Activities for Road Transportation,72620
+1324,2002,488500,Freight Transportation Arrangement,166910
+1325,2002,488900,Other Support Activities for Transportation,29890
+1326,2002,492100,Couriers,540560
+1327,2002,492200,Local Messengers and Local Delivery,51730
+1328,2002,493100,Warehousing and Storage,519910
+1329,2002,511100,"Newspaper, Periodical, Book, and Directory Publishers",705540
+1330,2002,511200,Software Publishers,244550
+1331,2002,512100,Motion Picture and Video Industries,370730
+1332,2002,512200,Sound Recording Industries,28290
+1333,2002,515100,Radio and Television Broadcasting,243400
+1334,2002,515200,Cable and Other Subscription Programming,89550
+1335,2002,516100,Internet Publishing and Broadcasting,32700
+1336,2002,517100,Wired Telecommunications Carriers,613920
+1337,2002,517200,Wireless Telecommunications Carriers (except Satellite),192050
+1338,2002,517300,Telecommunications Resellers,168950
+1339,2002,517500,Cable and Other Program Distribution,128280
+1340,2002,517900,Other Telecommunications,7420
+1341,2002,518100,Internet Service Providers and Web Search Portals,130640
+1342,2002,518200,"Data Processing, Hosting, and Related Services",295370
+1343,2002,519100,Other Information Services,46610
+1344,2002,521100,Monetary Authorities - Central Bank,23200
+1345,2002,522100,Depository Credit Intermediation,1725430
+1346,2002,522200,Nondepository Credit Intermediation,697160
+1347,2002,522300,Activities Related to Credit Intermediation,264750
+1348,2002,523100,Securities and Commodity Contracts Intermediation and Brokerage,505890
+1349,2002,523200,Securities and Commodity Exchanges,9240
+1350,2002,523900,Other Financial Investment Activities,265490
+1351,2002,524100,Insurance Carriers,1289850
+1352,2002,524200,"Agencies, Brokerages, and Other Insurance Related Activities",826960
+1353,2002,525100,Insurance and Employee Benefit Funds,47330
+1354,2002,525900,Other Investment Pools and Funds,38250
+1355,2002,531100,Lessors of Real Estate,604540
+1356,2002,531200,Offices of Real Estate Agents and Brokers,306920
+1357,2002,531300,Activities Related to Real Estate,455990
+1358,2002,532100,Automotive Equipment Rental and Leasing,195270
+1359,2002,532200,Consumer Goods Rental,281650
+1360,2002,532300,General Rental Centers,62850
+1361,2002,532400,Commercial and Industrial Machinery and Equipment Rental and Leasing,101450
+1362,2002,533100,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),26750
+1363,2002,541100,Legal Services,1127860
+1364,2002,541200,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services",800410
+1365,2002,541300,"Architectural, Engineering, and Related Services",1242380
+1366,2002,541400,Specialized Design Services,124100
+1367,2002,541500,Computer Systems Design and Related Services,1119150
+1368,2002,541600,"Management, Scientific, and Technical Consulting Services",750750
+1369,2002,541700,Scientific Research and Development Services,532400
+1370,2002,541800,Advertising and Related Services,439700
+1371,2002,541900,"Other Professional, Scientific, and Technical Services",506840
+1372,2002,551100,Management of Companies and Enterprises,1686730
+1373,2002,561100,Office Administrative Services,294760
+1374,2002,561200,Facilities Support Services,101740
+1375,2002,561300,Employment Services,3383840
+1376,2002,561400,Business Support Services,753310
+1377,2002,561500,Travel Arrangement and Reservation Services,250150
+1378,2002,561600,Investigation and Security Services,736730
+1379,2002,561700,Services to Buildings and Dwellings,1640630
+1380,2002,561900,Other Support Services,289660
+1381,2002,562100,Waste Collection,108100
+1382,2002,562200,Waste Treatment and Disposal,114500
+1383,2002,562900,Remediation and Other Waste Management Services,96080
+1384,2002,611100,Elementary and Secondary Schools,8031440
+1385,2002,611200,Junior Colleges,681710
+1386,2002,611300,"Colleges, Universities, and Professional Schools",2523200
+1387,2002,611400,Business Schools and Computer and Management Training,88350
+1388,2002,611500,Technical and Trade Schools,124270
+1389,2002,611600,Other Schools and Instruction,224680
+1390,2002,611700,Educational Support Services,57690
+1391,2002,621100,Offices of Physicians,2017430
+1392,2002,621200,Offices of Dentists,734060
+1393,2002,621300,Offices of Other Health Practitioners,496890
+1394,2002,621400,Outpatient Care Centers,415820
+1395,2002,621500,Medical and Diagnostic Laboratories,177270
+1396,2002,621600,Home Health Care Services,697050
+1397,2002,621900,Other Ambulatory Health Care Services,190730
+1398,2002,622100,General Medical and Surgical Hospitals,4689160
+1399,2002,622200,Psychiatric and Substance Abuse Hospitals,252350
+1400,2002,622300,Specialty (except Psychiatric and Substance Abuse) Hospitals,171600
+1401,2002,623100,Nursing Care Facilities,1574060
+1402,2002,623200,"Residential Mental Retardation, Mental Health and Substance Abuse Facilities",484860
+1403,2002,623300,Community Care Facilities for the Elderly,536720
+1404,2002,623900,Other Residential Care Facilities,167760
+1405,2002,624100,Individual and Family Services,780110
+1406,2002,624200,"Community Food and Housing, and Emergency and Other Relief Services",128150
+1407,2002,624300,Vocational Rehabilitation Services,308330
+1408,2002,624400,Child Day Care Services,720640
+1409,2002,711100,Performing Arts Companies,128800
+1410,2002,711200,Spectator Sports,126330
+1411,2002,711300,"Promoters of Performing Arts, Sports, and Similar Events",72870
+1412,2002,711400,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",15790
+1413,2002,711500,"Independent Artists, Writers, and Performers",43090
+1414,2002,712100,"Museums, Historical Sites, and Similar Institutions",115180
+1415,2002,713100,Amusement Parks and Arcades,145430
+1416,2002,713200,Gambling Industries,139880
+1417,2002,713900,Other Amusement and Recreation Industries,990400
+1418,2002,721100,Traveler Accommodation,1710830
+1419,2002,721200,RV (Recreational Vehicle) Parks and Recreational Camps,42400
+1420,2002,721300,Rooming and Boarding Houses,12600
+1421,2002,722100,Full-Service Restaurants,3982650
+1422,2002,722200,Limited-Service Eating Places,3558120
+1423,2002,722300,Special Food Services,532300
+1424,2002,722400,Drinking Places (Alcoholic Beverages),387740
+1425,2002,811100,Automotive Repair and Maintenance,892720
+1426,2002,811200,Electronic and Precision Equipment Repair and Maintenance,102710
+1427,2002,811300,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,153900
+1428,2002,811400,Personal and Household Goods Repair and Maintenance,81880
+1429,2002,812100,Personal Care Services,533470
+1430,2002,812200,Death Care Services,139340
+1431,2002,812300,Drycleaning and Laundry Services,363270
+1432,2002,812900,Other Personal Services,226950
+1433,2002,813100,Religious Organizations,169430
+1434,2002,813200,Grantmaking and Giving Services,127420
+1435,2002,813300,Social Advocacy Organizations,161680
+1436,2002,813400,Civic and Social Organizations,411780
+1437,2002,813900,"Business, Professional, Labor, Political, and Similar Organizations",426330
+1438,2002,999100,Federal Executive Branch and United States Postal Service (OES designation),2630430
+1439,2002,999200,State Government (OES designation),2227250
+1440,2002,999300,Local Government (OES designation),5288450
+1441,2001,71,Soil Preparation Services,5460
+1442,2001,72,Crop Services,128520
+1443,2001,74,Veterinary Services,230680
+1444,2001,75,"Animal Services, Except Veterinary",61190
+1445,2001,76,Farm Labor and Management Services,160570
+1446,2001,78,Landscape and Horticultural Services,591570
+1447,2001,101,Iron Ores,5540
+1448,2001,102,Copper Ores,8780
+1449,2001,104,Gold and Silver Ores,10630
+1450,2001,108,Metal Mining Services,1930
+1451,2001,109,Miscellaneous Metal Ores,3250
+1452,2001,122,Bituminous Coal and Lignite Mining,78620
+1453,2001,123,Anthracite Mining,780
+1454,2001,124,Coal Mining Services,4790
+1455,2001,131,Crude Petroleum and Natural Gas,125370
+1456,2001,132,Natural Gas Liquids,3730
+1457,2001,138,Oil and Gas Field Services,204010
+1458,2001,141,Dimension Stone,6480
+1459,2001,142,"Crushed and Broken Stone, Including Riprap",43340
+1460,2001,144,Sand and Gravel,36770
+1461,2001,145,"Clay, Ceramic, and Refractory Minerals",6650
+1462,2001,147,Chemical and Fertilizer Mineral Mining,9620
+1463,2001,148,"Nonmetallic Minerals Services, Except Fuels",1030
+1464,2001,149,"Miscellaneous Nonmetallic Minerals, Except Fuels",4860
+1465,2001,152,General Building Contractors-Residential,767690
+1466,2001,153,Operative Builders,33480
+1467,2001,154,General Building Contractors-Nonresidential,675320
+1468,2001,161,"Highway and Street Construction, Except",319970
+1469,2001,162,"Heavy Construction, Except Highway and Street",641240
+1470,2001,171,"Plumbing, Heating and Air-Conditioning",940290
+1471,2001,172,Painting and Paper Hanging,231780
+1472,2001,173,Electrical Work,848770
+1473,2001,174,"Masonry, Stonework, Tile Setting, and Plastering",592130
+1474,2001,175,Carpentry and Floor Work,341000
+1475,2001,176,"Roofing, Siding, and Sheet Metal Work",254610
+1476,2001,177,Concrete Work,368600
+1477,2001,178,Water Well Drilling,25530
+1478,2001,179,Miscellaneous Special Trade Contractors,772030
+1479,2001,201,Meat Products,519870
+1480,2001,202,Dairy Products,144410
+1481,2001,203,"Canned, Frozen, and Preserved Fruits, Vegetables, and Food Specialties",207810
+1482,2001,204,Grain Mill Products,122200
+1483,2001,205,Bakery Products,200400
+1484,2001,206,Sugar and Confectionery Products,95900
+1485,2001,207,Fats and Oils,28150
+1486,2001,208,Beverages,186330
+1487,2001,209,Miscellaneous Food Preparations and Kindred,179370
+1488,2001,211,Cigarettes,20310
+1489,2001,212,Cigars,3180
+1490,2001,213,Chewing and Smoking Tobacco and Snuff,3550
+1491,2001,214,Tobacco Stemming and Redrying,6430
+1492,2001,221,"Broadwoven Fabric Mills, Cotton",47980
+1493,2001,222,"Broadwoven Fabric Mills, Manmade Fiber and Silk",45490
+1494,2001,223,"Broadwoven Fabric Mills, Wool (including Dyeing and Finishing)",7040
+1495,2001,224,"Narrow Fabric and Other Smallwares Mills Cotton, Wool, Silk, and Manmade Fiber",16450
+1496,2001,225,Knitting Mills,98590
+1497,2001,226,"Dyeing and Finishing Textiles, Except Wool Fabrics",46240
+1498,2001,227,Carpets and Rugs,61680
+1499,2001,228,Yarn and Thread Mills,64930
+1500,2001,229,Miscellaneous Textile Goods,48930
+1501,2001,231,"Men's and Boys' Suits, Coats, and Overcoats",15740
+1502,2001,232,"Men's and Boys' Furnishings, Work Clothing, and Allied Garments",103560
+1503,2001,233,"Women's, Misses', and Juniors' Outerwear",137320
+1504,2001,234,"Women's, Misses', Children's, and Infants' Undergarments",15800
+1505,2001,235,"Hats, Caps, and Millinery",11650
+1506,2001,236,"Girls', Children's, and Infants' Outerwear",10110
+1507,2001,237,Fur Goods,800
+1508,2001,238,Miscellaneous Apparel and Accessories,26510
+1509,2001,239,Miscellaneous Fabricated Textile Products,191390
+1510,2001,241,Logging,73560
+1511,2001,242,"Sawmills and Planing Mills, General",161980
+1512,2001,243,"Millwork, Veneer, Plywood, and Structural Wood",322250
+1513,2001,244,Wood Containers,53330
+1514,2001,245,Wood Buildings and Mobile Homes,78060
+1515,2001,249,Miscellaneous Wood Products,74070
+1516,2001,251,Household Furniture,250780
+1517,2001,252,Office Furniture,69250
+1518,2001,253,Public Building and Related Furniture,49710
+1519,2001,254,"Partitions, Shelving, Lockers, and Office And",83200
+1520,2001,259,Miscellaneous Furniture and Fixtures,39230
+1521,2001,261,Pulp Mills,10860
+1522,2001,262,Paper Mills,124980
+1523,2001,263,Paperboard Mills,41610
+1524,2001,265,Paperboard Containers and Boxes,207170
+1525,2001,267,"Converted Paper and Paperboard Products, Except Containers and Boxes",228030
+1526,2001,271,"Newspapers Publishing, or Publishing and Printing",413900
+1527,2001,272,"Periodicals Publishing, or Publishing and Printing",138330
+1528,2001,273,Books,119130
+1529,2001,274,Miscellaneous Publishing,84450
+1530,2001,275,Commercial Printing,524980
+1531,2001,276,Manifold Business Forms,36470
+1532,2001,277,Greeting Cards,24660
+1533,2001,278,"Blankbooks, Looseleaf Binders, and Bookbinding",52190
+1534,2001,279,Service Industries For The Printing Trade,41340
+1535,2001,281,Industrial Inorganic Chemicals,91260
+1536,2001,282,"Plastics Materials and Synthetic Resins, Synthetic Rubber, Cellulosic and Other Manmade Fibers, Except Glass",135340
+1537,2001,283,Drugs,324740
+1538,2001,284,"Soap, Detergents, and Cleaning Preparations; Perfumes, Cosmetics, and Other Toilet Preparations",149160
+1539,2001,285,"Paints, Varnishes, Lacquers, Enamels, and Allied Products",47630
+1540,2001,286,Industrial Organic Chemicals,110590
+1541,2001,287,Agricultural Chemicals,46490
+1542,2001,289,Miscellaneous Chemical Products,90380
+1543,2001,291,Petroleum Refining,81790
+1544,2001,295,Asphalt Paving and Roofing Materials,29950
+1545,2001,299,Miscellaneous Products of Petroleum and Coal,14090
+1546,2001,301,Tires and Inner Tubes,74200
+1547,2001,302,Rubber and Plastics Footwear,3000
+1548,2001,305,"Gaskets, Packing, and Sealing Devices and Rubber",67830
+1549,2001,306,"Fabricated Rubber Products, Not Elsewhere",94470
+1550,2001,308,Miscellaneous Plastics Products,677430
+1551,2001,311,Leather Tanning and Finishing,8980
+1552,2001,313,Boot and Shoe Cut Stock and Findings,760
+1553,2001,314,"Footwear, Except Rubber",22310
+1554,2001,315,Leather Gloves and Mittens,1980
+1555,2001,316,Luggage,7150
+1556,2001,317,Handbags and Other Personal Leather Goods,6390
+1557,2001,319,"Leather Goods, not elsewhere classified",8910
+1558,2001,321,Flat Glass,15180
+1559,2001,322,"Glass and Glassware, Pressed or Blown",60010
+1560,2001,323,"Glass Products, Made of Purchased Glass",61680
+1561,2001,324,"Cement, Hydraulic",17640
+1562,2001,325,Structural Clay Products,30580
+1563,2001,326,Pottery and Related Products,32210
+1564,2001,327,"Concrete, Gypsum, and Plaster Products",243260
+1565,2001,328,Cut Stone and Stone Products,21030
+1566,2001,329,"Abrasive, Asbestos, and Miscellaneous",67110
+1567,2001,331,"Steel Works, Blast Furnaces, and Rolling and Finishing Mills",192360
+1568,2001,332,Iron and Steel Foundries,107100
+1569,2001,333,Primary Smelting and Refining of Nonferrous Metals,29080
+1570,2001,334,Secondary Smelting and Refining of Nonferrous Metals,14550
+1571,2001,335,"Rolling, Drawing, and Extruding of Nonferrous Metals",151930
+1572,2001,336,Nonferrous Foundries (Castings),82950
+1573,2001,339,Miscellaneous Primary Metal Products,25430
+1574,2001,341,Metal Cans and Shipping Containers,32680
+1575,2001,342,"Cutlery, Handtools, and General Hardware",105770
+1576,2001,343,"Heating Equipment, Except Electric and Warm Air; and Plumbing Fixtures",56410
+1577,2001,344,Fabricated Structural Metal Products,472700
+1578,2001,345,"Screw Machine Products, and Bolts, Nuts, Screws, Rivets, and Washers",91160
+1579,2001,346,Metal Forgings and Stampings,218070
+1580,2001,347,"Coating, Engraving, and Allied Services",128500
+1581,2001,348,"Ordnance and Accessories, Except Vehicles and Guided Missiles",39300
+1582,2001,349,Miscellaneous Fabricated Metal Products,255190
+1583,2001,351,Engines and Turbines,82810
+1584,2001,352,Farm and Garden Machinery and Equipment,88550
+1585,2001,353,"Construction, Mining, and Materials Handling",218210
+1586,2001,354,Metalworking Machinery and Equipment,282480
+1587,2001,355,"Special Industry Machinery, Except Metalworking",146360
+1588,2001,356,General Industrial Machinery and Equipment,227720
+1589,2001,357,Computer and Office Equipment,318940
+1590,2001,358,Refrigeration and Service Industry Machinery,186930
+1591,2001,359,Miscellaneous Industrial and Commercial Machinery and Equipment,332920
+1592,2001,361,Electric Transmission and Distribution Equipment,75330
+1593,2001,362,Electrical Industrial Apparatus,130800
+1594,2001,363,Household Appliances,104790
+1595,2001,364,Electric Lighting and Wiring Equipment,161150
+1596,2001,365,"Household Audio and Video Equipment, and Audio Recordings",69330
+1597,2001,366,Communications Equipment,242230
+1598,2001,367,Electronic Components and Accessories,584060
+1599,2001,369,"Miscellaneous Electrical Machinery, Equipment, and Supplies",123190
+1600,2001,371,Motor Vehicles and Motor Vehicle Equipment,923570
+1601,2001,372,Aircraft and Parts,450470
+1602,2001,373,Ship and Boat Building and Repairing,158090
+1603,2001,374,Railroad Equipment,27920
+1604,2001,375,"Motorcycles, Bicycles, and Parts",18690
+1605,2001,376,Guided Missiles and Space Vehicles and Parts,78990
+1606,2001,379,Miscellaneous Transportation Equipment,56700
+1607,2001,381,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems, Instruments, and Equipment",153710
+1608,2001,382,"Laboratory Apparatus and Analytical, Optical, Measuring, and Controlling Instruments",282450
+1609,2001,384,"Surgical, Medical, and Dental Instruments and Supplies",286140
+1610,2001,385,Ophthalmic Goods,31330
+1611,2001,386,Photographic Equipment and Supplies,63840
+1612,2001,387,"Watches, Clocks, Clockwork Operated Devices, and Parts",3960
+1613,2001,391,"Jewelry, Silverware, and Plated Ware",44380
+1614,2001,393,Musical Instruments,15580
+1615,2001,394,"Dolls, Toys, Games and Sporting and Athletic",90680
+1616,2001,395,"Pens, Pencils, and Other Artists' Materials",27350
+1617,2001,396,"Costume Jewelry, Costume Novelties, Buttons, and Miscellaneous Notions, Ecept Precious Metal",16670
+1618,2001,399,Miscellaneous Manufacturing Industries,169010
+1619,2001,401,Railroads,244240
+1620,2001,411,Local and Suburban Passenger Transportation,231050
+1621,2001,412,Taxicabs,31130
+1622,2001,413,Intercity and Rural Bus Transportation,25640
+1623,2001,414,Bus Charter Service,36430
+1624,2001,415,School Buses,165450
+1625,2001,417,Terminal and Service Facilities For Motor Vehicle Passenger Transportation,1970
+1626,2001,421,"Trucking and Courier Services, Except Air",1590870
+1627,2001,422,Public Warehousing and Storage,220950
+1628,2001,423,Terminal and Joint Terminal Maintenance,9920
+1629,2001,441,Deep Sea Foreign Transportation of Freight,13290
+1630,2001,442,Deep Sea Domestic Transportation of Freight,6680
+1631,2001,443,Freight Transportation On The Great Lakes-St. Lawrence Seaway,1840
+1632,2001,444,"Water Transportation of Freight, not elsewhere classified",15240
+1633,2001,448,Water Transportation of Passengers,22490
+1634,2001,449,Services Incidental To Water Transportation,124540
+1635,2001,451,"Air Transportation, Scheduled, and Air Courier",1062490
+1636,2001,452,"Air Transportation, Nonscheduled",47790
+1637,2001,458,"Airports, Flying Fields, and Airport Terminal Services",141140
+1638,2001,461,"Pipelines, Except Natural Gas",13680
+1639,2001,472,Arrangement of Passenger Transportation,193750
+1640,2001,473,Arrangement of Transportation of Freight and Cargo,190430
+1641,2001,474,Rental of Railroad Cars,1880
+1642,2001,478,Miscellaneous Services Incidental To Transportation,53640
+1643,2001,481,Telephone Communications,1139730
+1644,2001,482,Telegraph and Other Message Communications,13260
+1645,2001,483,Radio and Television Broadcasting Stations,250540
+1646,2001,484,Cable and Other Pay Television Services,228800
+1647,2001,489,"Communications Services, not elsewhere classified",33610
+1648,2001,491,Electric Services,364820
+1649,2001,492,Gas Production and Distribution,124280
+1650,2001,493,"Combination Electric and Gas, and Other Utility Services",145730
+1651,2001,494,Water Supply,35480
+1652,2001,495,Sanitary Services,177190
+1653,2001,496,Steam and Air-Conditioning Supply,2040
+1654,2001,497,Irrigation Systems,2840
+1655,2001,501,Motor Vehicles and Motor Vehicle Parts and Supplies,497140
+1656,2001,502,Furniture and Home Furnishings,162330
+1657,2001,503,Lumber and Other Construction Materials,280260
+1658,2001,504,Professional and Commercial Equipment and Supplies,897990
+1659,2001,505,"Metals and Minerals, Except Petroleum",145220
+1660,2001,506,Electrical Goods,539440
+1661,2001,507,"Hardware, and Plumbing and Heating Equipment",304760
+1662,2001,508,"Machinery, Equipment, and Supplies",796840
+1663,2001,509,Miscellaneous Durable Goods,314270
+1664,2001,511,Paper and Paper Products,252070
+1665,2001,512,"Drugs, Drug Proprietaries, and Druggists' Sundries",280570
+1666,2001,513,"Apparel, Piece Goods, and Notions",199500
+1667,2001,514,Groceries and Related Products,923680
+1668,2001,515,Farm-Product Raw Materials,97180
+1669,2001,516,Chemicals and Allied Products,154140
+1670,2001,517,Petroleum and Petroleum Products,141660
+1671,2001,518,"Beer, Wine, and Distilled Alcoholic Beverages",166310
+1672,2001,519,Miscellaneous Non-Durable Goods,517350
+1673,2001,521,Lumber and Other Building Materials Dealers,663920
+1674,2001,523,"Paint, Glass and Wallpaper Stores",60780
+1675,2001,525,Hardware Stores,156320
+1676,2001,526,"Retail Nurseries, Lawn and Garden Supply Stores",96710
+1677,2001,527,Mobile Home Dealers,36150
+1678,2001,531,Department Stores,2546450
+1679,2001,533,Variety Stores,156570
+1680,2001,539,Miscellaneous General Merchandise Stores,182060
+1681,2001,541,Grocery Stores,3011310
+1682,2001,542,"Meat and Fish (Seafood) Markets, Including Freezer Provisioners",49450
+1683,2001,543,Fruit and Vegetable Markets,31380
+1684,2001,544,"Candy, Nut, and Confectionery Stores",36180
+1685,2001,545,Dairy Products Stores,14780
+1686,2001,546,Retail Bakeries,193440
+1687,2001,549,Miscellaneous Food Stores,85870
+1688,2001,551,Motor Vehicle Dealers (New and Used),1128170
+1689,2001,552,Motor Vehicle Dealers (Used Only),109540
+1690,2001,553,Auto and Home Supply Stores,405840
+1691,2001,554,Gasoline Service Stations,630340
+1692,2001,555,Boat Dealers,40820
+1693,2001,556,Recreational Vehicle Dealers,31720
+1694,2001,557,Motorcycle Dealers,49710
+1695,2001,559,"Automotive Dealers, not elsewhere classified",13100
+1696,2001,561,Men's and Boys' Clothing and Accessory Stores,80300
+1697,2001,562,Women's Clothing Stores,263850
+1698,2001,563,Women's Accessory and Specialty Stores,55310
+1699,2001,564,Children's and Infants' Wear Stores,55940
+1700,2001,565,Family Clothing Stores,455680
+1701,2001,566,Shoe Stores,187080
+1702,2001,569,Miscellaneous Apparel and Accessory Stores,69170
+1703,2001,571,Home Furniture and Furnishings Stores,564440
+1704,2001,572,Household Appliance Stores,73360
+1705,2001,573,"Radio, Television, Consumer Electronics, and Music Stores",477560
+1706,2001,581,Eating and Drinking Places,8241190
+1707,2001,591,Drug Stores and Proprietary Stores,693780
+1708,2001,592,Liquor Stores,115790
+1709,2001,593,Used Merchandise Stores,132350
+1710,2001,594,Miscellaneous Shopping Goods Stores,1096330
+1711,2001,596,Nonstore Retailers,379830
+1712,2001,598,Fuel Dealers,95620
+1713,2001,599,"Retail Stores, not elsewhere classified",560830
+1714,2001,601,Central Reserve Depository Institutions,25700
+1715,2001,602,Commercial Banks,1413630
+1716,2001,603,Savings Institutions,261030
+1717,2001,606,Credit Unions,203760
+1718,2001,608,Foreign Banking and Branches and Agencies of Foreign Banks,25710
+1719,2001,609,Functions Related To Depository Banking,111890
+1720,2001,611,Federal and Federally-Sponsored Credit Agencies,21870
+1721,2001,614,Personal Credit Institutions,221780
+1722,2001,615,Business Credit Institutions,147700
+1723,2001,616,Mortgage Bankers and Brokers,338880
+1724,2001,621,"Security Brokers, Dealers, and Flotation Companies",548990
+1725,2001,622,Commodity Contracts Brokers and Dealers,18800
+1726,2001,623,Security and Commodity Exchanges,9750
+1727,2001,628,Services Allied With The Exchange of Securities,190540
+1728,2001,631,Life Insurance,341670
+1729,2001,632,Accident and Health Insurance and Medical,395750
+1730,2001,633,"Fire, Marine, and Casualty Insurance",539970
+1731,2001,635,Surety Insurance,24930
+1732,2001,636,Title Insurance,85540
+1733,2001,637,"Pension, Health, and Welfare Funds",70610
+1734,2001,639,"Insurance Carriers, not elsewhere classified",7310
+1735,2001,641,"Insurance Agents, Brokers, and Service",782180
+1736,2001,651,Real Estate Operators (Except Developers) and Lessors,583670
+1737,2001,653,Real Estate Agents and Managers,783460
+1738,2001,654,Title Abstract Offices,48870
+1739,2001,655,Land Subdividers and Developers,128570
+1740,2001,671,Holding Offices,103960
+1741,2001,672,Investment Offices,28940
+1742,2001,673,Trusts,59270
+1743,2001,679,Miscellaneous Investing,58780
+1744,2001,701,Hotels and Motels,1711570
+1745,2001,702,Rooming and Boarding Houses,7070
+1746,2001,703,Camps and Recreational Vehicle Parks,42220
+1747,2001,704,"Organization Hotels and Lodging Houses, On Membership Basis",12120
+1748,2001,721,"Laundry, Cleaning, and Garment Services",429080
+1749,2001,722,"Photographic Studios, Portrait",78860
+1750,2001,723,Beauty Shops,443080
+1751,2001,724,Barber Shops,10080
+1752,2001,725,Shoe Repair Shops and Shoeshine Parlors,3400
+1753,2001,726,Funeral Service and Crematories,105850
+1754,2001,729,Miscellaneous Personal Services,215370
+1755,2001,731,Advertising,279380
+1756,2001,732,"Consumer Credit Reporting Agencies, Mercantile",170450
+1757,2001,733,"Mailing, Reproduction, Commercial Art and Photography, and Stenographic Services",317220
+1758,2001,734,Services To Dwellings and Other Buildings,1002600
+1759,2001,735,Miscellaneous Equipment Rental and Leasing,288160
+1760,2001,736,Personnel Supply Services,3431820
+1761,2001,737,"Computer Programming, Data Processing, and Other Computer Related Services",1987460
+1762,2001,738,Miscellaneous Business Services,1769660
+1763,2001,751,"Automotive Rental and Leasing, Without Drivers",213740
+1764,2001,752,Automobile Parking,83540
+1765,2001,753,Automotive Repair Shops,683640
+1766,2001,754,"Automotive Services, Except Repair",257740
+1767,2001,762,Electrical Repair Shops,106260
+1768,2001,763,"Watch, Clock, and Jewelry Repair",5700
+1769,2001,764,Reupholstery and Furniture Repair,22080
+1770,2001,769,Miscellaneous Repair Shops and Related Services,232320
+1771,2001,781,Motion Picture Production and Allied Services,257360
+1772,2001,782,Motion Picture Distribution and Allied Services,16420
+1773,2001,783,Motion Picture Theaters,132370
+1774,2001,784,Video Tape Rental,159320
+1775,2001,791,"Dance Studios, Schools, and Halls",33630
+1776,2001,792,Theatrical Producers (except Motion Picture),175410
+1777,2001,793,Bowling Centers,84020
+1778,2001,794,Commercial Sports,147310
+1779,2001,799,Miscellaneous Amusement and Recreation,1248860
+1780,2001,801,Offices and Clinics of Doctors of Medicine,2046760
+1781,2001,802,Offices and Clinics of Dentists,714580
+1782,2001,803,Offices and Clinics of Doctors of Osteopathy,49740
+1783,2001,804,Offices and Clinics of Other Health Practitioners,469150
+1784,2001,805,Nursing and Personal Care Facilities,1861800
+1785,2001,806,Hospitals,5054820
+1786,2001,807,Medical and Dental Laboratories,224110
+1787,2001,808,Home Health Care Services,658110
+1788,2001,809,"Miscellaneous Health and Allied Services, not elsewhere classified",378870
+1789,2001,811,Legal Services,1043680
+1790,2001,821,Elementary and Secondary Schools,7985850
+1791,2001,822,"Colleges, Universities, Professional Schools, and Junior Colleges",3168260
+1792,2001,823,Libraries,26980
+1793,2001,824,Vocational Schools,124520
+1794,2001,829,"Schools and Educational Services, not elsewhere classified",226350
+1795,2001,832,Individual and Family Social Services,879320
+1796,2001,833,Job Training and Vocational Rehabilitation,310100
+1797,2001,835,Child Day Care Services,715770
+1798,2001,836,Residential Care,873090
+1799,2001,839,"Social Services, not elsewhere classified",221620
+1800,2001,841,Museums and Art Galleries,82990
+1801,2001,842,Arboreta and Botanical or Zoological Gardens,27460
+1802,2001,861,Business Associations,113150
+1803,2001,862,Professional Membership Organizations,72180
+1804,2001,863,Labor Unions and Similar Labor Organizations,142950
+1805,2001,864,"Civic, Social, and Fraternal Associations",449930
+1806,2001,865,Political Organizations,6370
+1807,2001,866,Religious Organizations,164420
+1808,2001,869,"Membership Organizations, not elsewhere classified",81550
+1809,2001,871,"Engineering, Architectural, and Surveying",1033220
+1810,2001,872,"Accounting, Auditing, and Bookkeeping Services",685180
+1811,2001,873,"Research, Development, and Testing Services",669700
+1812,2001,874,Management and Public Relations Services,1173700
+1813,2001,899,"Services, not elsewhere classified",50510
+1814,2001,901,Federal Executive Branch and United States Postal Service (OES designation),2596990
+1815,2001,902,State Government (OES designation),2280890
+1816,2001,903,Local Government (OES designation),5159880
+1817,2000,71,Soil Preparation Services,4800
+1818,2000,72,Crop Services,127220
+1819,2000,74,Veterinary Services,222060
+1820,2000,75,"Animal Services, Except Veterinary",58510
+1821,2000,76,Farm Labor and Management Services,170600
+1822,2000,78,Landscape and Horticultural Services,557350
+1823,2000,101,Iron Ores,7480
+1824,2000,102,Copper Ores,10450
+1825,2000,103,Lead and Zinc Ores,2430
+1826,2000,104,Gold and Silver Ores,11410
+1827,2000,106,"Ferroalloy Ores, Except Vanadium",550
+1828,2000,108,Metal Mining Services,2510
+1829,2000,109,Miscellaneous Metal Ores,3010
+1830,2000,122,Bituminous Coal and Lignite Mining,70030
+1831,2000,123,Anthracite Mining,1010
+1832,2000,124,Coal Mining Services,4850
+1833,2000,131,Crude Petroleum and Natural Gas,123450
+1834,2000,132,Natural Gas Liquids,3510
+1835,2000,138,Oil and Gas Field Services,196510
+1836,2000,141,Dimension Stone,6550
+1837,2000,142,"Crushed and Broken Stone, Including Riprap",43580
+1838,2000,144,Sand and Gravel,36410
+1839,2000,145,"Clay, Ceramic, and Refractory Minerals",7060
+1840,2000,147,Chemical and Fertilizer Mineral Mining,8880
+1841,2000,148,"Nonmetallic Minerals Services, Except Fuels",1160
+1842,2000,149,"Miscellaneous Nonmetallic Minerals, Except Fuels",4930
+1843,2000,152,General Building Contractors-Residential,831460
+1844,2000,153,Operative Builders,31280
+1845,2000,154,General Building Contractors-Nonresidential,669030
+1846,2000,161,"Highway and Street Construction, Except",308090
+1847,2000,162,"Heavy Construction, Except Highway and Street",637650
+1848,2000,171,"Plumbing, Heating and Air-Conditioning",948960
+1849,2000,172,Painting and Paper Hanging,232650
+1850,2000,173,Electrical Work,884180
+1851,2000,174,"Masonry, Stonework, Tile Setting, and Plastering",571290
+1852,2000,175,Carpentry and Floor Work,329740
+1853,2000,176,"Roofing, Siding, and Sheet Metal Work",252140
+1854,2000,177,Concrete Work,352470
+1855,2000,178,Water Well Drilling,25920
+1856,2000,179,Miscellaneous Special Trade Contractors,752110
+1857,2000,201,Meat Products,515640
+1858,2000,202,Dairy Products,145510
+1859,2000,203,"Canned, Frozen, and Preserved Fruits, Vegetables, and Food Specialties",208650
+1860,2000,204,Grain Mill Products,122430
+1861,2000,205,Bakery Products,209350
+1862,2000,206,Sugar and Confectionery Products,98050
+1863,2000,207,Fats and Oils,28160
+1864,2000,208,Beverages,186220
+1865,2000,209,Miscellaneous Food Preparations and Kindred,178700
+1866,2000,211,Cigarettes,20210
+1867,2000,212,Cigars,2930
+1868,2000,213,Chewing and Smoking Tobacco and Snuff,3020
+1869,2000,214,Tobacco Stemming and Redrying,7140
+1870,2000,221,"Broadwoven Fabric Mills, Cotton",59790
+1871,2000,222,"Broadwoven Fabric Mills, Manmade Fiber and Silk",53890
+1872,2000,223,"Broadwoven Fabric Mills, Wool (including Dyeing and Finishing)",8360
+1873,2000,224,"Narrow Fabric and Other Smallwares Mills Cotton, Wool, Silk, and Manmade Fiber",18830
+1874,2000,225,Knitting Mills,120100
+1875,2000,226,"Dyeing and Finishing Textiles, Except Wool Fabrics",56520
+1876,2000,227,Carpets and Rugs,65060
+1877,2000,228,Yarn and Thread Mills,79170
+1878,2000,229,Miscellaneous Textile Goods,54660
+1879,2000,231,"Men's and Boys' Suits, Coats, and Overcoats",18140
+1880,2000,232,"Men's and Boys' Furnishings, Work Clothing, and Allied Garments",126180
+1881,2000,233,"Women's, Misses', and Juniors' Outerwear",169930
+1882,2000,234,"Women's, Misses', Children's, and Infants' Undergarments",19220
+1883,2000,235,"Hats, Caps, and Millinery",13770
+1884,2000,236,"Girls', Children's, and Infants' Outerwear",12950
+1885,2000,237,Fur Goods,680
+1886,2000,238,Miscellaneous Apparel and Accessories,27890
+1887,2000,239,Miscellaneous Fabricated Textile Products,212560
+1888,2000,241,Logging,78220
+1889,2000,242,"Sawmills and Planing Mills, General",176860
+1890,2000,243,"Millwork, Veneer, Plywood, and Structural Wood",329830
+1891,2000,244,Wood Containers,57590
+1892,2000,245,Wood Buildings and Mobile Homes,81200
+1893,2000,249,Miscellaneous Wood Products,81260
+1894,2000,251,Household Furniture,285820
+1895,2000,252,Office Furniture,80360
+1896,2000,253,Public Building and Related Furniture,52540
+1897,2000,254,"Partitions, Shelving, Lockers, and Office And",90980
+1898,2000,259,Miscellaneous Furniture and Fixtures,41540
+1899,2000,261,Pulp Mills,10480
+1900,2000,262,Paper Mills,133090
+1901,2000,263,Paperboard Mills,44890
+1902,2000,265,Paperboard Containers and Boxes,219450
+1903,2000,267,"Converted Paper and Paperboard Products, Except Containers and Boxes",241320
+1904,2000,271,"Newspapers Publishing, or Publishing and Printing",444310
+1905,2000,272,"Periodicals Publishing, or Publishing and Printing",147720
+1906,2000,273,Books,123580
+1907,2000,274,Miscellaneous Publishing,95150
+1908,2000,275,Commercial Printing,557970
+1909,2000,276,Manifold Business Forms,41990
+1910,2000,277,Greeting Cards,24660
+1911,2000,278,"Blankbooks, Looseleaf Binders, and Bookbinding",57230
+1912,2000,279,Service Industries For The Printing Trade,45460
+1913,2000,281,Industrial Inorganic Chemicals,95160
+1914,2000,282,"Plastics Materials and Synthetic Resins, Synthetic Rubber, Cellulosic and Other Manmade Fibers, Except Glass",150840
+1915,2000,283,Drugs,312690
+1916,2000,284,"Soap, Detergents, and Cleaning Preparations; Perfumes, Cosmetics, and Other Toilet Preparations",156010
+1917,2000,285,"Paints, Varnishes, Lacquers, Enamels, and Allied Products",50710
+1918,2000,286,Industrial Organic Chemicals,118560
+1919,2000,287,Agricultural Chemicals,48660
+1920,2000,289,Miscellaneous Chemical Products,92010
+1921,2000,291,Petroleum Refining,80690
+1922,2000,295,Asphalt Paving and Roofing Materials,30150
+1923,2000,299,Miscellaneous Products of Petroleum and Coal,13240
+1924,2000,301,Tires and Inner Tubes,73300
+1925,2000,302,Rubber and Plastics Footwear,2530
+1926,2000,305,"Gaskets, Packing, and Sealing Devices and Rubber",74290
+1927,2000,306,"Fabricated Rubber Products, Not Elsewhere",106650
+1928,2000,308,Miscellaneous Plastics Products,743580
+1929,2000,311,Leather Tanning and Finishing,8830
+1930,2000,313,Boot and Shoe Cut Stock and Findings,1090
+1931,2000,314,"Footwear, Except Rubber",27810
+1932,2000,315,Leather Gloves and Mittens,1900
+1933,2000,316,Luggage,9460
+1934,2000,317,Handbags and Other Personal Leather Goods,7590
+1935,2000,319,"Leather Goods, not elsewhere classified",10000
+1936,2000,321,Flat Glass,13070
+1937,2000,322,"Glass and Glassware, Pressed or Blown",67620
+1938,2000,323,"Glass Products, Made of Purchased Glass",64580
+1939,2000,324,"Cement, Hydraulic",17380
+1940,2000,325,Structural Clay Products,32540
+1941,2000,326,Pottery and Related Products,38800
+1942,2000,327,"Concrete, Gypsum, and Plaster Products",245300
+1943,2000,328,Cut Stone and Stone Products,19780
+1944,2000,329,"Abrasive, Asbestos, and Miscellaneous",74030
+1945,2000,331,"Steel Works, Blast Furnaces, and Rolling And",222210
+1946,2000,332,Iron and Steel Foundries,121940
+1947,2000,333,Primary Smelting and Refining of Nonferrous Metals,31810
+1948,2000,334,Secondary Smelting and Refining of Nonferrous Metals,14920
+1949,2000,335,"Rolling, Drawing, and Extruding of Nonferrous Metals",179880
+1950,2000,336,Nonferrous Foundries (Castings),94070
+1951,2000,339,Miscellaneous Primary Metal Products,26840
+1952,2000,341,Metal Cans and Shipping Containers,34550
+1953,2000,342,"Cutlery, Handtools, and General Hardware",117970
+1954,2000,343,"Heating Equipment, Except Electric and Warm Air; and Plumbing Fixtures",59000
+1955,2000,344,Fabricated Structural Metal Products,503930
+1956,2000,345,"Screw Machine Products, and Bolts, Nuts, Screws, Rivets, and Washers",105770
+1957,2000,346,Metal Forgings and Stampings,253460
+1958,2000,347,"Coating, Engraving, and Allied Services",149600
+1959,2000,348,"Ordnance and Accessories, Except Vehicles and Guided Missiles",34500
+1960,2000,349,Miscellaneous Fabricated Metal Products,278030
+1961,2000,351,Engines and Turbines,77070
+1962,2000,352,Farm and Garden Machinery and Equipment,97450
+1963,2000,353,"Construction, Mining, and Materials Handling",237710
+1964,2000,354,Metalworking Machinery and Equipment,330800
+1965,2000,355,"Special Industry Machinery, Except Metalworking",170880
+1966,2000,356,General Industrial Machinery and Equipment,250620
+1967,2000,357,Computer and Office Equipment,355830
+1968,2000,358,Refrigeration and Service Industry Machinery,208250
+1969,2000,359,Miscellaneous Industrial and Commercial Machinery and Equipment,374870
+1970,2000,361,Electric Transmission and Distribution Equipment,85830
+1971,2000,362,Electrical Industrial Apparatus,150960
+1972,2000,363,Household Appliances,106290
+1973,2000,364,Electric Lighting and Wiring Equipment,187690
+1974,2000,365,"Household Audio and Video Equipment, and Audio Recordings",76230
+1975,2000,366,Communications Equipment,284500
+1976,2000,367,Electronic Components and Accessories,718340
+1977,2000,369,"Miscellaneous Electrical Machinery, Equipment, and Supplies",139040
+1978,2000,371,Motor Vehicles and Motor Vehicle Equipment,1012990
+1979,2000,372,Aircraft and Parts,466640
+1980,2000,373,Ship and Boat Building and Repairing,166380
+1981,2000,374,Railroad Equipment,31920
+1982,2000,375,"Motorcycles, Bicycles, and Parts",18640
+1983,2000,376,Guided Missiles and Space Vehicles and Parts,68640
+1984,2000,379,Miscellaneous Transportation Equipment,62360
+1985,2000,381,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems, Instruments, and Equipment",145990
+1986,2000,382,"Laboratory Apparatus and Analytical, Optical, Measuring, and Controlling Instruments",311380
+1987,2000,384,"Surgical, Medical, and Dental Instruments and Supplies",285770
+1988,2000,385,Ophthalmic Goods,32000
+1989,2000,386,Photographic Equipment and Supplies,68450
+1990,2000,387,"Watches, Clocks, Clockwork Operated Devices, and Parts",3880
+1991,2000,391,"Jewelry, Silverware, and Plated Ware",48500
+1992,2000,393,Musical Instruments,16360
+1993,2000,394,"Dolls, Toys, Games and Sporting and Athletic",101000
+1994,2000,395,"Pens, Pencils, and Other Artists' Materials",29810
+1995,2000,396,"Costume Jewelry, Costume Novelties, Buttons, and Miscellaneous Notions, Ecept Precious Metal",16480
+1996,2000,399,Miscellaneous Manufacturing Industries,178570
+1997,2000,401,Railroads,222740
+1998,2000,411,Local and Suburban Passenger Transportation,233660
+1999,2000,412,Taxicabs,31730
+2000,2000,413,Intercity and Rural Bus Transportation,24240
+2001,2000,414,Bus Charter Service,38380
+2002,2000,415,School Buses,163530
+2003,2000,417,Terminal and Service Facilities For Motor Vehicle Passenger Transportation,1240
+2004,2000,421,"Trucking and Courier Services, Except Air",1636440
+2005,2000,422,Public Warehousing and Storage,213200
+2006,2000,423,Terminal and Joint Terminal Maintenance,8460
+2007,2000,441,Deep Sea Foreign Transportation of Freight,14210
+2008,2000,442,Deep Sea Domestic Transportation of Freight,6420
+2009,2000,443,Freight Transportation On The Great Lakes-St. Lawrence Seaway,1920
+2010,2000,444,"Water Transportation of Freight, not elsewhere classified",14680
+2011,2000,448,Water Transportation of Passengers,25480
+2012,2000,449,Services Incidental To Water Transportation,128390
+2013,2000,451,"Air Transportation, Scheduled, and Air Courier",1146020
+2014,2000,452,"Air Transportation, Nonscheduled",48650
+2015,2000,458,"Airports, Flying Fields, and Airport Terminal Services",144780
+2016,2000,461,"Pipelines, Except Natural Gas",13230
+2017,2000,472,Arrangement of Passenger Transportation,219790
+2018,2000,473,Arrangement of Transportation of Freight and Cargo,197640
+2019,2000,474,Rental of Railroad Cars,1930
+2020,2000,478,Miscellaneous Services Incidental To Transportation,54480
+2021,2000,481,Telephone Communications,1207270
+2022,2000,482,Telegraph and Other Message Communications,14780
+2023,2000,483,Radio and Television Broadcasting Stations,259010
+2024,2000,484,Cable and Other Pay Television Services,221040
+2025,2000,489,"Communications Services, not elsewhere classified",19860
+2026,2000,491,Electric Services,362100
+2027,2000,492,Gas Production and Distribution,127700
+2028,2000,493,"Combination Electric and Gas, and Other Utility Services",150670
+2029,2000,494,Water Supply,33550
+2030,2000,495,Sanitary Services,175120
+2031,2000,496,Steam and Air-Conditioning Supply,1540
+2032,2000,497,Irrigation Systems,2390
+2033,2000,501,Motor Vehicles and Motor Vehicle Parts and Supplies,522450
+2034,2000,502,Furniture and Home Furnishings,177360
+2035,2000,503,Lumber and Other Construction Materials,293540
+2036,2000,504,Professional and Commercial Equipment and Supplies,947530
+2037,2000,505,"Metals and Minerals, Except Petroleum",161600
+2038,2000,506,Electrical Goods,599770
+2039,2000,507,"Hardware, and Plumbing and Heating Equipment",320670
+2040,2000,508,"Machinery, Equipment, and Supplies",843890
+2041,2000,509,Miscellaneous Durable Goods,344200
+2042,2000,511,Paper and Paper Products,271650
+2043,2000,512,"Drugs, Drug Proprietaries, and Druggists' Sundries",267370
+2044,2000,513,"Apparel, Piece Goods, and Notions",215880
+2045,2000,514,Groceries and Related Products,947470
+2046,2000,515,Farm-Product Raw Materials,103420
+2047,2000,516,Chemicals and Allied Products,162440
+2048,2000,517,Petroleum and Petroleum Products,151670
+2049,2000,518,"Beer, Wine, and Distilled Alcoholic Beverages",165120
+2050,2000,519,Miscellaneous Non-Durable Goods,545540
+2051,2000,521,Lumber and Other Building Materials Dealers,625710
+2052,2000,523,"Paint, Glass and Wallpaper Stores",63430
+2053,2000,525,Hardware Stores,170260
+2054,2000,526,"Retail Nurseries, Lawn and Garden Supply Stores",97370
+2055,2000,527,Mobile Home Dealers,41700
+2056,2000,531,Department Stores,2585350
+2057,2000,533,Variety Stores,157550
+2058,2000,539,Miscellaneous General Merchandise Stores,192450
+2059,2000,541,Grocery Stores,3055660
+2060,2000,542,"Meat and Fish (Seafood) Markets, Including Freezer Provisioners",47800
+2061,2000,543,Fruit and Vegetable Markets,30860
+2062,2000,544,"Candy, Nut, and Confectionery Stores",36340
+2063,2000,545,Dairy Products Stores,12990
+2064,2000,546,Retail Bakeries,198260
+2065,2000,549,Miscellaneous Food Stores,87570
+2066,2000,551,Motor Vehicle Dealers (New and Used),1115980
+2067,2000,552,Motor Vehicle Dealers (Used Only),106310
+2068,2000,553,Auto and Home Supply Stores,414140
+2069,2000,554,Gasoline Service Stations,646650
+2070,2000,555,Boat Dealers,41780
+2071,2000,556,Recreational Vehicle Dealers,32200
+2072,2000,557,Motorcycle Dealers,45060
+2073,2000,559,"Automotive Dealers, not elsewhere classified",12150
+2074,2000,561,Men's and Boys' Clothing and Accessory Stores,82020
+2075,2000,562,Women's Clothing Stores,280460
+2076,2000,563,Women's Accessory and Specialty Stores,58260
+2077,2000,564,Children's and Infants' Wear Stores,55100
+2078,2000,565,Family Clothing Stores,464510
+2079,2000,566,Shoe Stores,191430
+2080,2000,569,Miscellaneous Apparel and Accessory Stores,67650
+2081,2000,571,Home Furniture and Furnishings Stores,577650
+2082,2000,572,Household Appliance Stores,74120
+2083,2000,573,"Radio, Television, Consumer Electronics, and Music Stores",487970
+2084,2000,581,Eating and Drinking Places,8161010
+2085,2000,591,Drug Stores and Proprietary Stores,671360
+2086,2000,592,Liquor Stores,114880
+2087,2000,593,Used Merchandise Stores,132570
+2088,2000,594,Miscellaneous Shopping Goods Stores,1132170
+2089,2000,596,Nonstore Retailers,421710
+2090,2000,598,Fuel Dealers,94310
+2091,2000,599,"Retail Stores, not elsewhere classified",553980
+2092,2000,601,Central Reserve Depository Institutions,20760
+2093,2000,602,Commercial Banks,1418360
+2094,2000,603,Savings Institutions,251430
+2095,2000,606,Credit Unions,195410
+2096,2000,608,Foreign Banking and Branches and Agencies of Foreign Banks,25190
+2097,2000,609,Functions Related To Depository Banking,105730
+2098,2000,611,Federal and Federally-Sponsored Credit Agencies,19850
+2099,2000,614,Personal Credit Institutions,210480
+2100,2000,615,Business Credit Institutions,142390
+2101,2000,616,Mortgage Bankers and Brokers,307360
+2102,2000,621,"Security Brokers, Dealers, and Flotation Companies",571950
+2103,2000,622,Commodity Contracts Brokers and Dealers,17140
+2104,2000,623,Security and Commodity Exchanges,9080
+2105,2000,628,Services Allied With The Exchange of Securities,176840
+2106,2000,631,Life Insurance,358750
+2107,2000,632,Accident and Health Insurance and Medical,377480
+2108,2000,633,"Fire, Marine, and Casualty Insurance",544390
+2109,2000,635,Surety Insurance,22590
+2110,2000,636,Title Insurance,77300
+2111,2000,637,"Pension, Health, and Welfare Funds",65710
+2112,2000,639,"Insurance Carriers, not elsewhere classified",5140
+2113,2000,641,"Insurance Agents, Brokers, and Service",761550
+2114,2000,651,Real Estate Operators (Except Developers) and Lessors,593080
+2115,2000,653,Real Estate Agents and Managers,752340
+2116,2000,654,Title Abstract Offices,42250
+2117,2000,655,Land Subdividers and Developers,126830
+2118,2000,671,Holding Offices,106740
+2119,2000,672,Investment Offices,27890
+2120,2000,673,Trusts,55710
+2121,2000,679,Miscellaneous Investing,57360
+2122,2000,701,Hotels and Motels,1824930
+2123,2000,702,Rooming and Boarding Houses,6570
+2124,2000,703,Camps and Recreational Vehicle Parks,41260
+2125,2000,704,"Organization Hotels and Lodging Houses, On Membership Basis",11090
+2126,2000,721,"Laundry, Cleaning, and Garment Services",441240
+2127,2000,722,"Photographic Studios, Portrait",77420
+2128,2000,723,Beauty Shops,432280
+2129,2000,724,Barber Shops,10270
+2130,2000,725,Shoe Repair Shops and Shoeshine Parlors,3580
+2131,2000,726,Funeral Service and Crematories,104160
+2132,2000,729,Miscellaneous Personal Services,201200
+2133,2000,731,Advertising,305670
+2134,2000,732,"Consumer Credit Reporting Agencies, Mercantile",159320
+2135,2000,733,"Mailing, Reproduction, Commercial Art and Photography, and Stenographic Services",332510
+2136,2000,734,Services To Dwellings and Other Buildings,1016340
+2137,2000,735,Miscellaneous Equipment Rental and Leasing,280870
+2138,2000,736,Personnel Supply Services,3949220
+2139,2000,737,"Computer Programming, Data Processing, and Other Computer Related Services",2243030
+2140,2000,738,Miscellaneous Business Services,1835710
+2141,2000,751,"Automotive Rental and Leasing, Without Drivers",223420
+2142,2000,752,Automobile Parking,80430
+2143,2000,753,Automotive Repair Shops,673390
+2144,2000,754,"Automotive Services, Except Repair",250840
+2145,2000,762,Electrical Repair Shops,104280
+2146,2000,763,"Watch, Clock, and Jewelry Repair",5770
+2147,2000,764,Reupholstery and Furniture Repair,23480
+2148,2000,769,Miscellaneous Repair Shops and Related Services,234170
+2149,2000,781,Motion Picture Production and Allied Services,289510
+2150,2000,782,Motion Picture Distribution and Allied Services,16920
+2151,2000,783,Motion Picture Theaters,123600
+2152,2000,784,Video Tape Rental,160160
+2153,2000,791,"Dance Studios, Schools, and Halls",32060
+2154,2000,792,Theatrical Producers (except Motion Picture),177150
+2155,2000,793,Bowling Centers,84140
+2156,2000,794,Commercial Sports,142260
+2157,2000,799,Miscellaneous Amusement and Recreation,1315910
+2158,2000,801,Offices and Clinics of Doctors of Medicine,1970070
+2159,2000,802,Offices and Clinics of Dentists,694470
+2160,2000,803,Offices and Clinics of Doctors of Osteopathy,49180
+2161,2000,804,Offices and Clinics of Other Health Practitioners,446990
+2162,2000,805,Nursing and Personal Care Facilities,1817470
+2163,2000,806,Hospitals,4913090
+2164,2000,807,Medical and Dental Laboratories,213380
+2165,2000,808,Home Health Care Services,636060
+2166,2000,809,"Miscellaneous Health and Allied Services, not elsewhere classified",362210
+2167,2000,811,Legal Services,1021450
+2168,2000,821,Elementary and Secondary Schools,7758130
+2169,2000,822,"Colleges, Universities, Professional Schools, and Junior Colleges",3062820
+2170,2000,823,Libraries,25160
+2171,2000,824,Vocational Schools,126070
+2172,2000,829,"Schools and Educational Services, not elsewhere classified",214160
+2173,2000,832,Individual and Family Social Services,821890
+2174,2000,833,Job Training and Vocational Rehabilitation,306670
+2175,2000,835,Child Day Care Services,699970
+2176,2000,836,Residential Care,818290
+2177,2000,839,"Social Services, not elsewhere classified",209240
+2178,2000,841,Museums and Art Galleries,82410
+2179,2000,842,Arboreta and Botanical or Zoological Gardens,25500
+2180,2000,861,Business Associations,115230
+2181,2000,862,Professional Membership Organizations,71260
+2182,2000,863,Labor Unions and Similar Labor Organizations,145900
+2183,2000,864,"Civic, Social, and Fraternal Associations",514790
+2184,2000,865,Political Organizations,9180
+2185,2000,866,Religious Organizations,158960
+2186,2000,869,"Membership Organizations, not elsewhere classified",80930
+2187,2000,871,"Engineering, Architectural, and Surveying",1028010
+2188,2000,872,"Accounting, Auditing, and Bookkeeping Services",677000
+2189,2000,873,"Research, Development, and Testing Services",657250
+2190,2000,874,Management and Public Relations Services,1158090
+2191,2000,899,"Services, not elsewhere classified",54580
+2192,2000,901,Federal Executive Branch and United States Postal Service (OES designation),2611500
+2193,2000,902,State Government (OES designation),2207150
+2194,2000,903,Local Government (OES designation),4830770
+2195,1999,71,Soil Preparation Services,4650
+2196,1999,72,Crop Services,129790
+2197,1999,74,Veterinary Services,210520
+2198,1999,75,"Animal Services, Except Veterinary",56320
+2199,1999,76,Farm Labor and Management Services,174670
+2200,1999,78,Landscape and Horticultural Services,530510
+2201,1999,101,Iron Ores,7710
+2202,1999,102,Copper Ores,9540
+2203,1999,103,Lead and Zinc Ores,2130
+2204,1999,104,Gold and Silver Ores,15070
+2205,1999,106,"Ferroalloy Ores, Except Vanadium",1270
+2206,1999,108,Metal Mining Services,2480
+2207,1999,109,Miscellaneous Metal Ores,1060
+2208,1999,122,Bituminous Coal and Lignite Mining,76950
+2209,1999,123,Anthracite Mining,1140
+2210,1999,124,Coal Mining Services,2910
+2211,1999,131,Crude Petroleum and Natural Gas,124980
+2212,1999,132,Natural Gas Liquids,3860
+2213,1999,138,Oil and Gas Field Services,167880
+2214,1999,141,Dimension Stone,5370
+2215,1999,142,"Crushed and Broken Stone, Including Riprap",45390
+2216,1999,144,Sand and Gravel,37810
+2217,1999,145,"Clay, Ceramic, and Refractory Minerals",7300
+2218,1999,147,Chemical and Fertilizer Mineral Mining,10140
+2219,1999,148,"Nonmetallic Minerals Services, Except Fuels",1130
+2220,1999,149,"Miscellaneous Nonmetallic Minerals, Except Fuels",4480
+2221,1999,152,General Building Contractors-Residential,806520
+2222,1999,153,Operative Builders,30940
+2223,1999,154,General Building Contractors-Nonresidential,667770
+2224,1999,161,"Highway and Street Construction, Except",299460
+2225,1999,162,"Heavy Construction, Except Highway and Street",625190
+2226,1999,171,"Plumbing, Heating and Air-Conditioning",906450
+2227,1999,172,Painting and Paper Hanging,227790
+2228,1999,173,Electrical Work,817490
+2229,1999,174,"Masonry, Stonework, Tile Setting, and Plastering",551260
+2230,1999,175,Carpentry and Floor Work,313280
+2231,1999,176,"Roofing, Siding, and Sheet Metal Work",254390
+2232,1999,177,Concrete Work,350020
+2233,1999,178,Water Well Drilling,24140
+2234,1999,179,Miscellaneous Special Trade Contractors,718740
+2235,1999,201,Meat Products,517470
+2236,1999,202,Dairy Products,142340
+2237,1999,203,"Canned, Frozen, and Preserved Fruits, Vegetables, and Food Specialties",211330
+2238,1999,204,Grain Mill Products,128660
+2239,1999,205,Bakery Products,208390
+2240,1999,206,Sugar and Confectionery Products,95850
+2241,1999,207,Fats and Oils,27510
+2242,1999,208,Beverages,187660
+2243,1999,209,Miscellaneous Food Preparations and Kindred,174930
+2244,1999,211,Cigarettes,18760
+2245,1999,212,Cigars,3020
+2246,1999,213,Chewing and Smoking Tobacco and Snuff,2950
+2247,1999,214,Tobacco Stemming and Redrying,8450
+2248,1999,221,"Broadwoven Fabric Mills, Cotton",65650
+2249,1999,222,"Broadwoven Fabric Mills, Manmade Fiber and Silk",54450
+2250,1999,223,"Broadwoven Fabric Mills, Wool (including Dyeing and Finishing)",8360
+2251,1999,224,"Narrow Fabric and Other Smallwares Mills Cotton, Wool, Silk, and Manmade Fiber",18790
+2252,1999,225,Knitting Mills,133570
+2253,1999,226,"Dyeing and Finishing Textiles, Except Wool Fabrics",60410
+2254,1999,227,Carpets and Rugs,63990
+2255,1999,228,Yarn and Thread Mills,82250
+2256,1999,229,Miscellaneous Textile Goods,58120
+2257,1999,231,"Men's and Boys' Suits, Coats, and Overcoats",20280
+2258,1999,232,"Men's and Boys' Furnishings, Work Clothing, and Allied Garments",144720
+2259,1999,233,"Women's, Misses', and Juniors' Outerwear",197600
+2260,1999,234,"Women's, Misses', Children's, and Infants' Undergarments",20500
+2261,1999,235,"Hats, Caps, and Millinery",12820
+2262,1999,236,"Girls', Children's, and Infants' Outerwear",13310
+2263,1999,237,Fur Goods,770
+2264,1999,238,Miscellaneous Apparel and Accessories,29040
+2265,1999,239,Miscellaneous Fabricated Textile Products,221590
+2266,1999,241,Logging,77510
+2267,1999,242,"Sawmills and Planing Mills, General",183660
+2268,1999,243,"Millwork, Veneer, Plywood, and Structural Wood",332160
+2269,1999,244,Wood Containers,58250
+2270,1999,245,Wood Buildings and Mobile Homes,96530
+2271,1999,249,Miscellaneous Wood Products,85890
+2272,1999,251,Household Furniture,297540
+2273,1999,252,Office Furniture,72450
+2274,1999,253,Public Building and Related Furniture,49110
+2275,1999,254,"Partitions, Shelving, Lockers, and Office And",89250
+2276,1999,259,Miscellaneous Furniture and Fixtures,41350
+2277,1999,261,Pulp Mills,7850
+2278,1999,262,Paper Mills,132420
+2279,1999,263,Paperboard Mills,44970
+2280,1999,265,Paperboard Containers and Boxes,226070
+2281,1999,267,"Converted Paper and Paperboard Products, Except Containers and Boxes",248860
+2282,1999,271,"Newspapers Publishing, or Publishing and Printing",448810
+2283,1999,272,"Periodicals Publishing, or Publishing and Printing",142770
+2284,1999,273,Books,123790
+2285,1999,274,Miscellaneous Publishing,94480
+2286,1999,275,Commercial Printing,578880
+2287,1999,276,Manifold Business Forms,42220
+2288,1999,277,Greeting Cards,14580
+2289,1999,278,"Blankbooks, Looseleaf Binders, and Bookbinding",60640
+2290,1999,279,Service Industries For The Printing Trade,48540
+2291,1999,281,Industrial Inorganic Chemicals,96170
+2292,1999,282,"Plastics Materials and Synthetic Resins, Synthetic Rubber, Cellulosic and Other Manmade Fibers, Except Glass",153500
+2293,1999,283,Drugs,301910
+2294,1999,284,"Soap, Detergents, and Cleaning Preparations; Perfumes, Cosmetics, and Other Toilet Preparations",161430
+2295,1999,285,"Paints, Varnishes, Lacquers, Enamels, and Allied Products",52630
+2296,1999,286,Industrial Organic Chemicals,122000
+2297,1999,287,Agricultural Chemicals,51660
+2298,1999,289,Miscellaneous Chemical Products,93980
+2299,1999,291,Petroleum Refining,83340
+2300,1999,295,Asphalt Paving and Roofing Materials,31060
+2301,1999,299,Miscellaneous Products of Petroleum and Coal,13050
+2302,1999,301,Tires and Inner Tubes,64460
+2303,1999,302,Rubber and Plastics Footwear,2280
+2304,1999,305,"Gaskets, Packing, and Sealing Devices and Rubber",70080
+2305,1999,306,"Fabricated Rubber Products, Not Elsewhere",111100
+2306,1999,308,Miscellaneous Plastics Products,775720
+2307,1999,311,Leather Tanning and Finishing,9420
+2308,1999,313,Boot and Shoe Cut Stock and Findings,650
+2309,1999,314,"Footwear, Except Rubber",34450
+2310,1999,315,Leather Gloves and Mittens,1310
+2311,1999,316,Luggage,9610
+2312,1999,317,Handbags and Other Personal Leather Goods,8210
+2313,1999,319,"Leather Goods, not elsewhere classified",8360
+2314,1999,321,Flat Glass,11780
+2315,1999,322,"Glass and Glassware, Pressed or Blown",52090
+2316,1999,323,"Glass Products, Made of Purchased Glass",66270
+2317,1999,324,"Cement, Hydraulic",16380
+2318,1999,325,Structural Clay Products,32000
+2319,1999,326,Pottery and Related Products,39090
+2320,1999,327,"Concrete, Gypsum, and Plaster Products",257460
+2321,1999,328,Cut Stone and Stone Products,18470
+2322,1999,329,"Abrasive, Asbestos, and Miscellaneous",77620
+2323,1999,331,"Steel Works, Blast Furnaces, and Rolling And",230680
+2324,1999,332,Iron and Steel Foundries,126080
+2325,1999,333,Primary Smelting and Refining of Nonferrous Metals,29500
+2326,1999,334,Secondary Smelting and Refining of Nonferrous Metals,15060
+2327,1999,335,"Rolling, Drawing, and Extruding of Nonferrous Metals",175510
+2328,1999,336,Nonferrous Foundries (Castings),95830
+2329,1999,339,Miscellaneous Primary Metal Products,27070
+2330,1999,341,Metal Cans and Shipping Containers,32240
+2331,1999,342,"Cutlery, Handtools, and General Hardware",121180
+2332,1999,343,"Heating Equipment, Except Electric and Warm Air; and Plumbing Fixtures",49330
+2333,1999,344,Fabricated Structural Metal Products,506960
+2334,1999,345,"Screw Machine Products, and Bolts, Nuts, Screws, Rivets, and Washers",107160
+2335,1999,346,Metal Forgings and Stampings,260750
+2336,1999,347,"Coating, Engraving, and Allied Services",149110
+2337,1999,348,"Ordnance and Accessories, Except Vehicles and Guided Missiles",33780
+2338,1999,349,Miscellaneous Fabricated Metal Products,278710
+2339,1999,351,Engines and Turbines,72700
+2340,1999,352,Farm and Garden Machinery and Equipment,94950
+2341,1999,353,"Construction, Mining, and Materials Handling",247260
+2342,1999,354,Metalworking Machinery and Equipment,344530
+2343,1999,355,"Special Industry Machinery, Except Metalworking",170710
+2344,1999,356,General Industrial Machinery and Equipment,262170
+2345,1999,357,Computer and Office Equipment,331230
+2346,1999,358,Refrigeration and Service Industry Machinery,212530
+2347,1999,359,Miscellaneous Industrial and Commercial Machinery and Equipment,378550
+2348,1999,361,Electric Transmission and Distribution Equipment,80500
+2349,1999,362,Electrical Industrial Apparatus,154360
+2350,1999,363,Household Appliances,111290
+2351,1999,364,Electric Lighting and Wiring Equipment,186010
+2352,1999,365,"Household Audio and Video Equipment, and Audio Recordings",76090
+2353,1999,366,Communications Equipment,266330
+2354,1999,367,Electronic Components and Accessories,662170
+2355,1999,369,"Miscellaneous Electrical Machinery, Equipment, and Supplies",144800
+2356,1999,371,Motor Vehicles and Motor Vehicle Equipment,1056900
+2357,1999,372,Aircraft and Parts,502270
+2358,1999,373,Ship and Boat Building and Repairing,175800
+2359,1999,374,Railroad Equipment,33960
+2360,1999,375,"Motorcycles, Bicycles, and Parts",14770
+2361,1999,376,Guided Missiles and Space Vehicles and Parts,42800
+2362,1999,379,Miscellaneous Transportation Equipment,59430
+2363,1999,381,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems, Instruments, and Equipment",140830
+2364,1999,382,"Laboratory Apparatus and Analytical, Optical, Measuring, and Controlling Instruments",305430
+2365,1999,384,"Surgical, Medical, and Dental Instruments and Supplies",290090
+2366,1999,385,Ophthalmic Goods,29180
+2367,1999,386,Photographic Equipment and Supplies,71350
+2368,1999,387,"Watches, Clocks, Clockwork Operated Devices, and Parts",4010
+2369,1999,391,"Jewelry, Silverware, and Plated Ware",47970
+2370,1999,393,Musical Instruments,13630
+2371,1999,394,"Dolls, Toys, Games and Sporting and Athletic",106430
+2372,1999,395,"Pens, Pencils, and Other Artists' Materials",30220
+2373,1999,396,"Costume Jewelry, Costume Novelties, Buttons, and Miscellaneous Notions, Ecept Precious Metal",17310
+2374,1999,399,Miscellaneous Manufacturing Industries,183420
+2375,1999,401,Railroads,199960
+2376,1999,411,Local and Suburban Passenger Transportation,232250
+2377,1999,412,Taxicabs,32230
+2378,1999,413,Intercity and Rural Bus Transportation,20880
+2379,1999,414,Bus Charter Service,35270
+2380,1999,415,School Buses,161000
+2381,1999,417,Terminal and Service Facilities For Motor Vehicle Passenger Transportation,1160
+2382,1999,421,"Trucking and Courier Services, Except Air",1646310
+2383,1999,422,Public Warehousing and Storage,194650
+2384,1999,423,Terminal and Joint Terminal Maintenance,3530
+2385,1999,441,Deep Sea Foreign Transportation of Freight,14030
+2386,1999,442,Deep Sea Domestic Transportation of Freight,7880
+2387,1999,443,Freight Transportation On The Great Lakes-St. Lawrence Seaway,1290
+2388,1999,444,"Water Transportation of Freight, not elsewhere classified",13210
+2389,1999,448,Water Transportation of Passengers,21400
+2390,1999,449,Services Incidental To Water Transportation,129780
+2391,1999,451,"Air Transportation, Scheduled, and Air Courier",1116200
+2392,1999,452,"Air Transportation, Nonscheduled",47100
+2393,1999,458,"Airports, Flying Fields, and Airport Terminal Services",139450
+2394,1999,461,"Pipelines, Except Natural Gas",13060
+2395,1999,472,Arrangement of Passenger Transportation,218540
+2396,1999,473,Arrangement of Transportation of Freight and Cargo,192450
+2397,1999,474,Rental of Railroad Cars,1220
+2398,1999,478,Miscellaneous Services Incidental To Transportation,51000
+2399,1999,481,Telephone Communications,1108000
+2400,1999,482,Telegraph and Other Message Communications,11700
+2401,1999,483,Radio and Television Broadcasting Stations,252850
+2402,1999,484,Cable and Other Pay Television Services,198870
+2403,1999,489,"Communications Services, not elsewhere classified",18810
+2404,1999,491,Electric Services,365800
+2405,1999,492,Gas Production and Distribution,134190
+2406,1999,493,"Combination Electric and Gas, and Other Utility Services",152290
+2407,1999,494,Water Supply,32460
+2408,1999,495,Sanitary Services,172760
+2409,1999,496,Steam and Air-Conditioning Supply,1000
+2410,1999,497,Irrigation Systems,2120
+2411,1999,501,Motor Vehicles and Motor Vehicle Parts and Supplies,522990
+2412,1999,502,Furniture and Home Furnishings,174440
+2413,1999,503,Lumber and Other Construction Materials,282310
+2414,1999,504,Professional and Commercial Equipment and Supplies,952610
+2415,1999,505,"Metals and Minerals, Except Petroleum",155840
+2416,1999,506,Electrical Goods,562290
+2417,1999,507,"Hardware, and Plumbing and Heating Equipment",317720
+2418,1999,508,"Machinery, Equipment, and Supplies",832930
+2419,1999,509,Miscellaneous Durable Goods,326090
+2420,1999,511,Paper and Paper Products,273240
+2421,1999,512,"Drugs, Drug Proprietaries, and Druggists' Sundries",250010
+2422,1999,513,"Apparel, Piece Goods, and Notions",220380
+2423,1999,514,Groceries and Related Products,954770
+2424,1999,515,Farm-Product Raw Materials,107590
+2425,1999,516,Chemicals and Allied Products,158620
+2426,1999,517,Petroleum and Petroleum Products,154340
+2427,1999,518,"Beer, Wine, and Distilled Alcoholic Beverages",160110
+2428,1999,519,Miscellaneous Non-Durable Goods,549390
+2429,1999,521,Lumber and Other Building Materials Dealers,615410
+2430,1999,523,"Paint, Glass and Wallpaper Stores",64780
+2431,1999,525,Hardware Stores,167380
+2432,1999,526,"Retail Nurseries, Lawn and Garden Supply Stores",97410
+2433,1999,527,Mobile Home Dealers,47600
+2434,1999,531,Department Stores,2510950
+2435,1999,533,Variety Stores,145080
+2436,1999,539,Miscellaneous General Merchandise Stores,184700
+2437,1999,541,Grocery Stores,3082660
+2438,1999,542,"Meat and Fish (Seafood) Markets, Including Freezer Provisioners",47720
+2439,1999,543,Fruit and Vegetable Markets,29690
+2440,1999,544,"Candy, Nut, and Confectionery Stores",30570
+2441,1999,545,Dairy Products Stores,12820
+2442,1999,546,Retail Bakeries,201120
+2443,1999,549,Miscellaneous Food Stores,86440
+2444,1999,551,Motor Vehicle Dealers (New and Used),1092730
+2445,1999,552,Motor Vehicle Dealers (Used Only),104460
+2446,1999,553,Auto and Home Supply Stores,408040
+2447,1999,554,Gasoline Service Stations,666560
+2448,1999,555,Boat Dealers,40450
+2449,1999,556,Recreational Vehicle Dealers,31070
+2450,1999,557,Motorcycle Dealers,39360
+2451,1999,559,"Automotive Dealers, not elsewhere classified",11220
+2452,1999,561,Men's and Boys' Clothing and Accessory Stores,81210
+2453,1999,562,Women's Clothing Stores,275050
+2454,1999,563,Women's Accessory and Specialty Stores,58380
+2455,1999,564,Children's and Infants' Wear Stores,49000
+2456,1999,565,Family Clothing Stores,436390
+2457,1999,566,Shoe Stores,196170
+2458,1999,569,Miscellaneous Apparel and Accessory Stores,75710
+2459,1999,571,Home Furniture and Furnishings Stores,563750
+2460,1999,572,Household Appliance Stores,73270
+2461,1999,573,"Radio, Television, Consumer Electronics, and Music Stores",467690
+2462,1999,581,Eating and Drinking Places,7985030
+2463,1999,591,Drug Stores and Proprietary Stores,652830
+2464,1999,592,Liquor Stores,112730
+2465,1999,593,Used Merchandise Stores,130720
+2466,1999,594,Miscellaneous Shopping Goods Stores,1094170
+2467,1999,596,Nonstore Retailers,385180
+2468,1999,598,Fuel Dealers,95690
+2469,1999,599,"Retail Stores, not elsewhere classified",546140
+2470,1999,601,Central Reserve Depository Institutions,11660
+2471,1999,602,Commercial Banks,1453570
+2472,1999,603,Savings Institutions,254510
+2473,1999,606,Credit Unions,194200
+2474,1999,608,Foreign Banking and Branches and Agencies of Foreign Banks,25920
+2475,1999,609,Functions Related To Depository Banking,91430
+2476,1999,611,Federal and Federally-Sponsored Credit Agencies,17420
+2477,1999,614,Personal Credit Institutions,200550
+2478,1999,615,Business Credit Institutions,128810
+2479,1999,616,Mortgage Bankers and Brokers,348590
+2480,1999,621,"Security Brokers, Dealers, and Flotation Companies",518040
+2481,1999,622,Commodity Contracts Brokers and Dealers,17590
+2482,1999,623,Security and Commodity Exchanges,5440
+2483,1999,628,Services Allied With The Exchange of Securities,159010
+2484,1999,631,Life Insurance,379460
+2485,1999,632,Accident and Health Insurance and Medical,367080
+2486,1999,633,"Fire, Marine, and Casualty Insurance",562870
+2487,1999,635,Surety Insurance,21710
+2488,1999,636,Title Insurance,83970
+2489,1999,637,"Pension, Health, and Welfare Funds",56220
+2490,1999,639,"Insurance Carriers, not elsewhere classified",3260
+2491,1999,641,"Insurance Agents, Brokers, and Service",758730
+2492,1999,651,Real Estate Operators (Except Developers) and Lessors,576090
+2493,1999,653,Real Estate Agents and Managers,754810
+2494,1999,654,Title Abstract Offices,43050
+2495,1999,655,Land Subdividers and Developers,123390
+2496,1999,671,Holding Offices,108400
+2497,1999,672,Investment Offices,18810
+2498,1999,673,Trusts,54780
+2499,1999,679,Miscellaneous Investing,55780
+2500,1999,701,Hotels and Motels,1796300
+2501,1999,702,Rooming and Boarding Houses,6510
+2502,1999,703,Camps and Recreational Vehicle Parks,38750
+2503,1999,704,"Organization Hotels and Lodging Houses, On Membership Basis",9530
+2504,1999,721,"Laundry, Cleaning, and Garment Services",447700
+2505,1999,722,"Photographic Studios, Portrait",81310
+2506,1999,723,Beauty Shops,422560
+2507,1999,724,Barber Shops,10420
+2508,1999,725,Shoe Repair Shops and Shoeshine Parlors,3720
+2509,1999,726,Funeral Service and Crematories,98700
+2510,1999,729,Miscellaneous Personal Services,188410
+2511,1999,731,Advertising,286660
+2512,1999,732,"Consumer Credit Reporting Agencies, Mercantile",152660
+2513,1999,733,"Mailing, Reproduction, Commercial Art and Photography, and Stenographic Services",322990
+2514,1999,734,Services To Dwellings and Other Buildings,991780
+2515,1999,735,Miscellaneous Equipment Rental and Leasing,277840
+2516,1999,736,Personnel Supply Services,3791980
+2517,1999,737,"Computer Programming, Data Processing, and Other Computer Related Services",1896070
+2518,1999,738,Miscellaneous Business Services,1840130
+2519,1999,751,"Automotive Rental and Leasing, Without Drivers",219500
+2520,1999,752,Automobile Parking,84860
+2521,1999,753,Automotive Repair Shops,636030
+2522,1999,754,"Automotive Services, Except Repair",257930
+2523,1999,762,Electrical Repair Shops,111190
+2524,1999,763,"Watch, Clock, and Jewelry Repair",5590
+2525,1999,764,Reupholstery and Furniture Repair,23160
+2526,1999,769,Miscellaneous Repair Shops and Related Services,239430
+2527,1999,781,Motion Picture Production and Allied Services,288880
+2528,1999,782,Motion Picture Distribution and Allied Services,13670
+2529,1999,783,Motion Picture Theaters,138830
+2530,1999,784,Video Tape Rental,161190
+2531,1999,791,"Dance Studios, Schools, and Halls",30410
+2532,1999,792,Theatrical Producers (except Motion Picture),176550
+2533,1999,793,Bowling Centers,85030
+2534,1999,794,Commercial Sports,131540
+2535,1999,799,Miscellaneous Amusement and Recreation,1263710
+2536,1999,801,Offices and Clinics of Doctors of Medicine,1949230
+2537,1999,802,Offices and Clinics of Dentists,481180
+2538,1999,803,Offices and Clinics of Doctors of Osteopathy,49620
+2539,1999,804,Offices and Clinics of Other Health Practitioners,445910
+2540,1999,805,Nursing and Personal Care Facilities,1811610
+2541,1999,806,Hospitals,4986550
+2542,1999,807,Medical and Dental Laboratories,209150
+2543,1999,808,Home Health Care Services,636080
+2544,1999,809,"Miscellaneous Health and Allied Services, not elsewhere classified",361410
+2545,1999,811,Legal Services,1001510
+2546,1999,821,Elementary and Secondary Schools,7567490
+2547,1999,822,"Colleges, Universities, Professional Schools, and Junior Colleges",2977760
+2548,1999,823,Libraries,23840
+2549,1999,824,Vocational Schools,119830
+2550,1999,829,"Schools and Educational Services, not elsewhere classified",198980
+2551,1999,832,Individual and Family Social Services,769920
+2552,1999,833,Job Training and Vocational Rehabilitation,297330
+2553,1999,835,Child Day Care Services,663740
+2554,1999,836,Residential Care,787630
+2555,1999,839,"Social Services, not elsewhere classified",207400
+2556,1999,841,Museums and Art Galleries,78840
+2557,1999,842,Arboreta and Botanical or Zoological Gardens,22170
+2558,1999,861,Business Associations,111870
+2559,1999,862,Professional Membership Organizations,67680
+2560,1999,863,Labor Unions and Similar Labor Organizations,143450
+2561,1999,864,"Civic, Social, and Fraternal Associations",501160
+2562,1999,865,Political Organizations,5700
+2563,1999,866,Religious Organizations,149280
+2564,1999,869,"Membership Organizations, not elsewhere classified",82420
+2565,1999,871,"Engineering, Architectural, and Surveying",968390
+2566,1999,872,"Accounting, Auditing, and Bookkeeping Services",656210
+2567,1999,873,"Research, Development, and Testing Services",617450
+2568,1999,874,Management and Public Relations Services,1079710
+2569,1999,899,"Services, not elsewhere classified",51860
+2570,1999,901,Federal Government (OES designation),2632040
+2571,1999,902,State Government (OES designation),2246520
+2572,1999,903,Local Government (OES designation),4739610
+2573,1998,710,Soil Preparation Services,4970
+2574,1998,720,Crop Services,130440
+2575,1998,740,Veterinary Services,198720
+2576,1998,750,"Animal Services, Except Veterinary",53700
+2577,1998,760,Farm Labor and Management Services,183270
+2578,1998,780,Landscape and Horticultural Services,493400
+2579,1998,1010,Iron Ores,8300
+2580,1998,1020,Copper Ores,14110
+2581,1998,1030,Lead and Zinc Ores,2420
+2582,1998,1040,Gold and Silver Ores,15300
+2583,1998,1060,"Ferroalloy Ores, Except Vanadium",1070
+2584,1998,1080,Metal Mining Services,2870
+2585,1998,1090,Miscellaneous Metal Ores,2590
+2586,1998,1220,Bituminous Coal and Lignite Mining,83830
+2587,1998,1230,Anthracite Mining,1170
+2588,1998,1240,Coal Mining Services,4930
+2589,1998,1310,Crude Petroleum and Natural Gas,136760
+2590,1998,1320,Natural Gas Liquids,4580
+2591,1998,1380,Oil and Gas Field Services,181580
+2592,1998,1410,Dimension Stone,5340
+2593,1998,1420,"Crushed and Broken Stone, Including Riprap",43030
+2594,1998,1440,Sand and Gravel,35690
+2595,1998,1450,"Clay, Ceramic, and Refractory Minerals",7360
+2596,1998,1470,Chemical and Fertilizer Mineral Mining,11520
+2597,1998,1480,"Nonmetallic Minerals Services, Except Fuels",1170
+2598,1998,1490,"Miscellaneous Nonmetallic Minerals, Except Fuels",5300
+2599,1998,1520,General Building Contractors-Residential,745790
+2600,1998,1530,Operative Builders,28500
+2601,1998,1540,General Building Contractors-Nonresidential,658060
+2602,1998,1610,"Highway and Street Construction, Except",277100
+2603,1998,1620,"Heavy Construction, Except Highway and Street",626400
+2604,1998,1710,"Plumbing, Heating and Air-Conditioning",856770
+2605,1998,1720,Painting and Paper Hanging,219760
+2606,1998,1730,Electrical Work,754530
+2607,1998,1740,"Masonry, Stonework, Tile Setting, and Plastering",518410
+2608,1998,1750,Carpentry and Floor Work,287550
+2609,1998,1760,"Roofing, Siding, and Sheet Metal Work",249740
+2610,1998,1770,Concrete Work,338140
+2611,1998,1780,Water Well Drilling,23430
+2612,1998,1790,Miscellaneous Special Trade Contractors,684940
+2613,1998,2010,Meat Products,505460
+2614,1998,2020,Dairy Products,141170
+2615,1998,2030,"Canned, Frozen, and Preserved Fruits, Vegetables, and Food Specialties",217040
+2616,1998,2040,Grain Mill Products,125770
+2617,1998,2050,Bakery Products,209010
+2618,1998,2060,Sugar and Confectionery Products,103580
+2619,1998,2070,Fats and Oils,31440
+2620,1998,2080,Beverages,186100
+2621,1998,2090,Miscellaneous Food Preparations and Kindred,176310
+2622,1998,2110,Cigarettes,26070
+2623,1998,2120,Cigars,3200
+2624,1998,2130,Chewing and Smoking Tobacco and Snuff,3060
+2625,1998,2140,Tobacco Stemming and Redrying,8800
+2626,1998,2210,"Broadwoven Fabric Mills, Cotton",70070
+2627,1998,2220,"Broadwoven Fabric Mills, Manmade Fiber and Silk",60970
+2628,1998,2230,"Broadwoven Fabric Mills, Wool (including Dyeing and Finishing)",12320
+2629,1998,2240,"Narrow Fabric and Other Smallwares Mills Cotton, Wool, Silk, and Manmade Fiber",21340
+2630,1998,2250,Knitting Mills,148830
+2631,1998,2260,"Dyeing and Finishing Textiles, Except Wool Fabrics",62300
+2632,1998,2270,Carpets and Rugs,63800
+2633,1998,2280,Yarn and Thread Mills,86920
+2634,1998,2290,Miscellaneous Textile Goods,55260
+2635,1998,2310,"Men's and Boys' Suits, Coats, and Overcoats",25140
+2636,1998,2320,"Men's and Boys' Furnishings, Work Clothing, and Allied Garments",166100
+2637,1998,2330,"Women's, Misses', and Juniors' Outerwear",214450
+2638,1998,2340,"Women's, Misses', Children's, and Infants' Undergarments",29070
+2639,1998,2350,"Hats, Caps, and Millinery",14880
+2640,1998,2360,"Girls', Children's, and Infants' Outerwear",22110
+2641,1998,2370,Fur Goods,730
+2642,1998,2380,Miscellaneous Apparel and Accessories,30610
+2643,1998,2390,Miscellaneous Fabricated Textile Products,215230
+2644,1998,2410,Logging,80170
+2645,1998,2420,"Sawmills and Planing Mills, General",181500
+2646,1998,2430,"Millwork, Veneer, Plywood, and Structural Wood",316900
+2647,1998,2440,Wood Containers,54770
+2648,1998,2450,Wood Buildings and Mobile Homes,102650
+2649,1998,2490,Miscellaneous Wood Products,88320
+2650,1998,2510,Household Furniture,289200
+2651,1998,2520,Office Furniture,70570
+2652,1998,2530,Public Building and Related Furniture,47680
+2653,1998,2540,"Partitions, Shelving, Lockers, and Office And",93910
+2654,1998,2590,Miscellaneous Furniture and Fixtures,40920
+2655,1998,2610,Pulp Mills,11460
+2656,1998,2620,Paper Mills,151180
+2657,1998,2630,Paperboard Mills,48250
+2658,1998,2650,Paperboard Containers and Boxes,219440
+2659,1998,2670,"Converted Paper and Paperboard Products, Except Containers and Boxes",242610
+2660,1998,2710,"Newspapers Publishing, or Publishing and Printing",441150
+2661,1998,2720,"Periodicals Publishing, or Publishing and Printing",138160
+2662,1998,2730,Books,123940
+2663,1998,2740,Miscellaneous Publishing,92340
+2664,1998,2750,Commercial Printing,582900
+2665,1998,2760,Manifold Business Forms,41070
+2666,1998,2770,Greeting Cards,28300
+2667,1998,2780,"Blankbooks, Looseleaf Binders, and Bookbinding",63980
+2668,1998,2790,Service Industries For The Printing Trade,49050
+2669,1998,2810,Industrial Inorganic Chemicals,114820
+2670,1998,2820,"Plastics Materials and Synthetic Resins, Synthetic Rubber, Cellulosic and Other Ma",154590
+2671,1998,2830,Drugs,279540
+2672,1998,2840,"Soap, Detergents, and Cleaning Preparations; Perfumes, Cosmetics, and Other Toilet",156600
+2673,1998,2850,"Paints, Varnishes, Lacquers, Enamels, and Allied Products",51840
+2674,1998,2860,Industrial Organic Chemicals,135090
+2675,1998,2870,Agricultural Chemicals,50220
+2676,1998,2890,Miscellaneous Chemical Products,93920
+2677,1998,2910,Petroleum Refining,93590
+2678,1998,2950,Asphalt Paving and Roofing Materials,29590
+2679,1998,2990,Miscellaneous Products of Petroleum and Coal,14570
+2680,1998,3010,Tires and Inner Tubes,77230
+2681,1998,3020,Rubber and Plastics Footwear,5760
+2682,1998,3050,"Gaskets, Packing, and Sealing Devices and Rubber",70610
+2683,1998,3060,"Fabricated Rubber Products, Not Elsewhere",112170
+2684,1998,3080,Miscellaneous Plastics Products,750110
+2685,1998,3110,Leather Tanning and Finishing,12780
+2686,1998,3130,Boot and Shoe Cut Stock and Findings,1650
+2687,1998,3140,"Footwear, Except Rubber",36290
+2688,1998,3150,Leather Gloves and Mittens,2000
+2689,1998,3160,Luggage,9520
+2690,1998,3170,Handbags and Other Personal Leather Goods,8670
+2691,1998,3190,"Leather Goods, not elsewhere classified",12510
+2692,1998,3210,Flat Glass,16590
+2693,1998,3220,"Glass and Glassware, Pressed or Blown",69720
+2694,1998,3230,"Glass Products, Made of Purchased Glass",66600
+2695,1998,3240,"Cement, Hydraulic",17690
+2696,1998,3250,Structural Clay Products,32780
+2697,1998,3260,Pottery and Related Products,38280
+2698,1998,3270,"Concrete, Gypsum, and Plaster Products",230480
+2699,1998,3280,Cut Stone and Stone Products,16400
+2700,1998,3290,"Abrasive, Asbestos, and Miscellaneous",76850
+2701,1998,3310,"Steel Works, Blast Furnaces, and Rolling And",227740
+2702,1998,3320,Iron and Steel Foundries,129700
+2703,1998,3330,Primary Smelting and Refining of Nonferrous Metals,38430
+2704,1998,3340,Secondary Smelting and Refining of Nonferrous Metals,16420
+2705,1998,3350,"Rolling, Drawing, and Extruding of Nonferrous Metals",169700
+2706,1998,3360,Nonferrous Foundries (Castings),94390
+2707,1998,3390,Miscellaneous Primary Metal Products,30670
+2708,1998,3410,Metal Cans and Shipping Containers,36530
+2709,1998,3420,"Cutlery, Handtools, and General Hardware",127760
+2710,1998,3430,"Heating Equipment, Except Electric and Warm Air; and Plumbing Fixtures",51560
+2711,1998,3440,Fabricated Structural Metal Products,476770
+2712,1998,3450,"Screw Machine Products, and Bolts, Nuts, Screws, Rivets, and Washers",106240
+2713,1998,3460,Metal Forgings and Stampings,263640
+2714,1998,3470,"Coating, Engraving, and Allied Services",144680
+2715,1998,3480,"Ordnance and Accessories, Except Vehicles and Guided Missiles",40880
+2716,1998,3490,Miscellaneous Fabricated Metal Products,269110
+2717,1998,3510,Engines and Turbines,82360
+2718,1998,3520,Farm and Garden Machinery and Equipment,101200
+2719,1998,3530,"Construction, Mining, and Materials Handling",251540
+2720,1998,3540,Metalworking Machinery and Equipment,350070
+2721,1998,3550,"Special Industry Machinery, Except Metalworking",173410
+2722,1998,3560,General Industrial Machinery and Equipment,265220
+2723,1998,3570,Computer and Office Equipment,379730
+2724,1998,3580,Refrigeration and Service Industry Machinery,206550
+2725,1998,3590,Miscellaneous Industrial and Commercial Machinery and Equipment,374970
+2726,1998,3610,Electric Transmission and Distribution Equipment,80860
+2727,1998,3620,Electrical Industrial Apparatus,152240
+2728,1998,3630,Household Appliances,116490
+2729,1998,3640,Electric Lighting and Wiring Equipment,183310
+2730,1998,3650,"Household Audio and Video Equipment, and Audio Recordings",82000
+2731,1998,3660,Communications Equipment,276870
+2732,1998,3670,Electronic Components and Accessories,643950
+2733,1998,3690,"Miscellaneous Electrical Machinery, Equipment, and Supplies",144040
+2734,1998,3710,Motor Vehicles and Motor Vehicle Equipment,1021290
+2735,1998,3720,Aircraft and Parts,525980
+2736,1998,3730,Ship and Boat Building and Repairing,168540
+2737,1998,3740,Railroad Equipment,39000
+2738,1998,3750,"Motorcycles, Bicycles, and Parts",20210
+2739,1998,3760,Guided Missiles and Space Vehicles and Parts,89190
+2740,1998,3790,Miscellaneous Transportation Equipment,55360
+2741,1998,3810,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems, Instr",161240
+2742,1998,3820,"Laboratory Apparatus and Analytical, Optical, Measuring, and Controlling Instrumen",299680
+2743,1998,3840,"Surgical, Medical, and Dental Instruments and Supplies",281510
+2744,1998,3850,Ophthalmic Goods,34730
+2745,1998,3860,Photographic Equipment and Supplies,78080
+2746,1998,3870,"Watches, Clocks, Clockwork Operated Devices, and Parts",6680
+2747,1998,3910,"Jewelry, Silverware, and Plated Ware",52350
+2748,1998,3930,Musical Instruments,16370
+2749,1998,3940,"Dolls, Toys, Games and Sporting and Athletic",103180
+2750,1998,3950,"Pens, Pencils, and Other Artists' Materials",29880
+2751,1998,3960,"Costume Jewelry, Costume Novelties, Buttons, and Miscellaneous Notions, Ecept Prec",20500
+2752,1998,3990,Miscellaneous Manufacturing Industries,174860
+2753,1998,4010,Railroads,252000
+2754,1998,4110,Local and Suburban Passenger Transportation,220340
+2755,1998,4120,Taxicabs,30820
+2756,1998,4130,Intercity and Rural Bus Transportation,23630
+2757,1998,4140,Bus Charter Service,35000
+2758,1998,4150,School Buses,154870
+2759,1998,4170,Terminal and Service Facilities For Motor Vehicle Passenger Transportation,1840
+2760,1998,4210,"Trucking and Courier Services, Except Air",1595490
+2761,1998,4220,Public Warehousing and Storage,174560
+2762,1998,4230,Terminal and Joint Terminal Maintenance,5190
+2763,1998,4410,Deep Sea Foreign Transportation of Freight,13330
+2764,1998,4420,Deep Sea Domestic Transportation of Freight,8810
+2765,1998,4430,Freight Transportation On The Great Lakes-St. Lawrence Seaway,1940
+2766,1998,4440,"Water Transportation of Freight, not elsewhere classified",16770
+2767,1998,4480,Water Transportation of Passengers,20120
+2768,1998,4490,Services Incidental To Water Transportation,122070
+2769,1998,4510,"Air Transportation, Scheduled, and Air Courier",1063970
+2770,1998,4520,"Air Transportation, Nonscheduled",48710
+2771,1998,4580,"Airports, Flying Fields, and Airport Terminal Services",128840
+2772,1998,4610,"Pipelines, Except Natural Gas",13440
+2773,1998,4720,Arrangement of Passenger Transportation,216610
+2774,1998,4730,Arrangement of Transportation of Freight and Cargo,186350
+2775,1998,4740,Rental of Railroad Cars,2250
+2776,1998,4780,Miscellaneous Services Incidental To Transportation,49450
+2777,1998,4810,Telephone Communications,1027650
+2778,1998,4820,Telegraph and Other Message Communications,9900
+2779,1998,4830,Radio and Television Broadcasting Stations,245980
+2780,1998,4840,Cable and Other Pay Television Services,191920
+2781,1998,4890,"Communications Services, not elsewhere classified",24560
+2782,1998,4910,Electric Services,362630
+2783,1998,4920,Gas Production and Distribution,137790
+2784,1998,4930,"Combination Electric and Gas, and Other Utility Services",157170
+2785,1998,4940,Water Supply,30500
+2786,1998,4950,Sanitary Services,163640
+2787,1998,4960,Steam and Air-Conditioning Supply,1800
+2788,1998,4970,Irrigation Systems,2010
+2789,1998,5010,Motor Vehicles and Motor Vehicle Parts and Supplies,522200
+2790,1998,5020,Furniture and Home Furnishings,169380
+2791,1998,5030,Lumber and Other Construction Materials,267790
+2792,1998,5040,Professional and Commercial Equipment and Supplies,924230
+2793,1998,5050,"Metals and Minerals, Except Petroleum",152880
+2794,1998,5060,Electrical Goods,558870
+2795,1998,5070,"Hardware, and Plumbing and Heating Equipment",310320
+2796,1998,5080,"Machinery, Equipment, and Supplies",835540
+2797,1998,5090,Miscellaneous Durable Goods,336060
+2798,1998,5110,Paper and Paper Products,274950
+2799,1998,5120,"Drugs, Drug Proprietaries, and Druggists' Sundries",238880
+2800,1998,5130,"Apparel, Piece Goods, and Notions",221270
+2801,1998,5140,Groceries and Related Products,931350
+2802,1998,5150,Farm-Product Raw Materials,110660
+2803,1998,5160,Chemicals and Allied Products,153620
+2804,1998,5170,Petroleum and Petroleum Products,154470
+2805,1998,5180,"Beer, Wine, and Distilled Alcoholic Beverages",156980
+2806,1998,5190,Miscellaneous Non-Durable Goods,553000
+2807,1998,5210,Lumber and Other Building Materials Dealers,583110
+2808,1998,5230,"Paint, Glass and Wallpaper Stores",65280
+2809,1998,5250,Hardware Stores,166260
+2810,1998,5260,"Retail Nurseries, Lawn and Garden Supply Stores",94180
+2811,1998,5270,Mobile Home Dealers,47150
+2812,1998,5310,Department Stores,2456980
+2813,1998,5330,Variety Stores,133270
+2814,1998,5390,Miscellaneous General Merchandise Stores,195080
+2815,1998,5410,Grocery Stores,3053260
+2816,1998,5420,"Meat and Fish (Seafood) Markets, Including Freezer Provisioners",47500
+2817,1998,5430,Fruit and Vegetable Markets,31260
+2818,1998,5440,"Candy, Nut, and Confectionery Stores",30820
+2819,1998,5450,Dairy Products Stores,13770
+2820,1998,5460,Retail Bakeries,203240
+2821,1998,5490,Miscellaneous Food Stores,84960
+2822,1998,5510,Motor Vehicle Dealers (New and Used),1050700
+2823,1998,5520,Motor Vehicle Dealers (Used Only),98670
+2824,1998,5530,Auto and Home Supply Stores,405740
+2825,1998,5540,Gasoline Service Stations,672840
+2826,1998,5550,Boat Dealers,38170
+2827,1998,5560,Recreational Vehicle Dealers,28320
+2828,1998,5570,Motorcycle Dealers,35070
+2829,1998,5590,"Automotive Dealers, not elsewhere classified",9970
+2830,1998,5610,Men's and Boys' Clothing and Accessory Stores,82740
+2831,1998,5620,Women's Clothing Stores,276910
+2832,1998,5630,Women's Accessory and Specialty Stores,55830
+2833,1998,5640,Children's and Infants' Wear Stores,44820
+2834,1998,5650,Family Clothing Stores,395550
+2835,1998,5660,Shoe Stores,212210
+2836,1998,5690,Miscellaneous Apparel and Accessory Stores,95970
+2837,1998,5710,Home Furniture and Furnishings Stores,537840
+2838,1998,5720,Household Appliance Stores,69290
+2839,1998,5730,"Radio, Television, Consumer Electronics, and Music Stores",442050
+2840,1998,5810,Eating and Drinking Places,7778620
+2841,1998,5910,Drug Stores and Proprietary Stores,630500
+2842,1998,5920,Liquor Stores,111020
+2843,1998,5930,Used Merchandise Stores,123680
+2844,1998,5940,Miscellaneous Shopping Goods Stores,1039980
+2845,1998,5960,Nonstore Retailers,359830
+2846,1998,5980,Fuel Dealers,94900
+2847,1998,5990,"Retail Stores, not elsewhere classified",535040
+2848,1998,6010,Central Reserve Depository Institutions,23720
+2849,1998,6020,Commercial Banks,1470770
+2850,1998,6030,Savings Institutions,249930
+2851,1998,6060,Credit Unions,178790
+2852,1998,6080,Foreign Banking and Branches and Agencies of Foreign Banks,27800
+2853,1998,6090,Functions Related To Depository Banking,86020
+2854,1998,6110,Federal and Federally-Sponsored Credit Agencies,22260
+2855,1998,6140,Personal Credit Institutions,188690
+2856,1998,6150,Business Credit Institutions,124700
+2857,1998,6160,Mortgage Bankers and Brokers,352920
+2858,1998,6210,"Security Brokers, Dealers, and Flotation Companies",487880
+2859,1998,6220,Commodity Contracts Brokers and Dealers,18140
+2860,1998,6230,Security and Commodity Exchanges,8400
+2861,1998,6280,Services Allied With The Exchange of Securities,144080
+2862,1998,6710,Holding Offices,105590
+2863,1998,6720,Investment Offices,26770
+2864,1998,6730,Trusts,48140
+2865,1998,6790,Miscellaneous Investing,50500
+2866,1998,6310,Life Insurance,382770
+2867,1998,6320,Accident and Health Insurance and Medical,356280
+2868,1998,6330,"Fire, Marine, and Casualty Insurance",555160
+2869,1998,6350,Surety Insurance,22880
+2870,1998,6360,Title Insurance,90080
+2871,1998,6370,"Pension, Health, and Welfare Funds",50310
+2872,1998,6390,"Insurance Carriers, not elsewhere classified",4160
+2873,1998,6410,"Insurance Agents, Brokers, and Service",752040
+2874,1998,6510,Real Estate Operators (Except Developers) and Lessors,579070
+2875,1998,6530,Real Estate Agents and Managers,737700
+2876,1998,6540,Title Abstract Offices,41190
+2877,1998,6550,Land Subdividers and Developers,119130
+2878,1998,8110,Legal Services,983060
+2879,1998,7010,Hotels and Motels,1738850
+2880,1998,7020,Rooming and Boarding Houses,6710
+2881,1998,7030,Camps and Recreational Vehicle Parks,36160
+2882,1998,7040,"Organization Hotels and Lodging Houses, On Membership Basis",10770
+2883,1998,7210,"Laundry, Cleaning, and Garment Services",443250
+2884,1998,7220,"Photographic Studios, Portrait",76410
+2885,1998,7230,Beauty Shops,412620
+2886,1998,7240,Barber Shops,10660
+2887,1998,7250,Shoe Repair Shops and Shoeshine Parlors,4320
+2888,1998,7260,Funeral Service and Crematories,102920
+2889,1998,7290,Miscellaneous Personal Services,169230
+2890,1998,7310,Advertising,267040
+2891,1998,7320,"Consumer Credit Reporting Agencies, Mercantile",144390
+2892,1998,7330,"Mailing, Reproduction, Commercial Art and Photography, and Stenographic Services",323170
+2893,1998,7340,Services To Dwellings and Other Buildings,967270
+2894,1998,7350,Miscellaneous Equipment Rental and Leasing,266260
+2895,1998,7360,Personnel Supply Services,3418160
+2896,1998,7370,"Computer Programming, Data Processing, and Other Computer Related Services",1662750
+2897,1998,7380,Miscellaneous Business Services,1851870
+2898,1998,7510,"Automotive Rental and Leasing, Without Drivers",201740
+2899,1998,7520,Automobile Parking,75500
+2900,1998,7530,Automotive Repair Shops,634340
+2901,1998,7540,"Automotive Services, Except Repair",239260
+2902,1998,7620,Electrical Repair Shops,113720
+2903,1998,7630,"Watch, Clock, and Jewelry Repair",6220
+2904,1998,7640,Reupholstery and Furniture Repair,22520
+2905,1998,7690,Miscellaneous Repair Shops and Related Services,240290
+2906,1998,7810,Motion Picture Production and Allied Services,257550
+2907,1998,7820,Motion Picture Distribution and Allied Services,17430
+2908,1998,7830,Motion Picture Theaters,131540
+2909,1998,7840,Video Tape Rental,162370
+2910,1998,7910,"Dance Studios, Schools, and Halls",29930
+2911,1998,7920,Theatrical Producers (except Motion Picture),175750
+2912,1998,7930,Bowling Centers,83980
+2913,1998,7940,Commercial Sports,119940
+2914,1998,7990,Miscellaneous Amusement and Recreation,1228170
+2915,1998,8010,Offices and Clinics of Doctors of Medicine,1842220
+2916,1998,8020,Offices and Clinics of Dentists,652220
+2917,1998,8030,Offices and Clinics of Doctors of Osteopathy,49340
+2918,1998,8040,Offices and Clinics of Other Health Practitioners,455090
+2919,1998,8050,Nursing and Personal Care Facilities,1762630
+2920,1998,8060,Hospitals,4865470
+2921,1998,8070,Medical and Dental Laboratories,200500
+2922,1998,8080,Home Health Care Services,636460
+2923,1998,8090,"Miscellaneous Health and Allied Services, not elsewhere classified",342040
+2924,1998,8210,Elementary and Secondary Schools,7366940
+2925,1998,8220,"Colleges, Universities, Professional Schools, and Junior Colleges",2920390
+2926,1998,8230,Libraries,23480
+2927,1998,8240,Vocational Schools,115620
+2928,1998,8290,"Schools and Educational Services, not elsewhere classified",186270
+2929,1998,8320,Individual and Family Social Services,729160
+2930,1998,8330,Job Training and Vocational Rehabilitation,286450
+2931,1998,8350,Child Day Care Services,628190
+2932,1998,8360,Residential Care,768670
+2933,1998,8390,"Social Services, not elsewhere classified",218050
+2934,1998,8610,Business Associations,109120
+2935,1998,8620,Professional Membership Organizations,63290
+2936,1998,8630,Labor Unions and Similar Labor Organizations,141140
+2937,1998,8640,"Civic, Social, and Fraternal Associations",496410
+2938,1998,8650,Political Organizations,8390
+2939,1998,8660,Religious Organizations,136070
+2940,1998,8690,"Membership Organizations, not elsewhere classified",75940
+2941,1998,8410,Museums and Art Galleries,71810
+2942,1998,8420,Arboreta and Botanical or Zoological Gardens,22620
+2943,1998,8710,"Engineering, Architectural, and Surveying",929970
+2944,1998,8720,"Accounting, Auditing, and Bookkeeping Services",630090
+2945,1998,8730,"Research, Development, and Testing Services",620550
+2946,1998,8740,Management and Public Relations Services,1061240
+2947,1998,8990,"Services, not elsewhere classified",52480
+2948,1998,9010,Federal Government (OES designation),2687180
+2949,1998,9020,State Government (OES designation),2249460
+2950,1998,9030,Local Government (OES designation),4664220
+2951,1997,710,Soil Preparation Services,4250
+2952,1997,720,Crop Services,130710
+2953,1997,740,Veterinary Services,185610
+2954,1997,750,"Animal Services, Except Veterinary",51300
+2955,1997,760,Farm Labor and Management Services,159000
+2956,1997,780,Landscape and Horticultural Services,460190
+2957,1997,1010,Iron Ores,8150
+2958,1997,1020,Copper Ores,15220
+2959,1997,1030,Lead and Zinc Ores,2680
+2960,1997,1040,Gold and Silver Ores,18420
+2961,1997,1060,"Ferroalloy Ores, Except Vanadium",1020
+2962,1997,1080,Metal Mining Services,3690
+2963,1997,1090,Miscellaneous Metal Ores,2740
+2964,1997,1220,Bituminous Coal and Lignite Mining,88880
+2965,1997,1230,Anthracite Mining,1300
+2966,1997,1240,Coal Mining Services,4590
+2967,1997,1310,Crude Petroleum and Natural Gas,145030
+2968,1997,1320,Natural Gas Liquids,4920
+2969,1997,1380,Oil and Gas Field Services,199300
+2970,1997,1410,Dimension Stone,4830
+2971,1997,1420,"Crushed and Broken Stone, Including Riprap",41920
+2972,1997,1440,Sand and Gravel,36230
+2973,1997,1450,"Clay, Ceramic, and Refractory Minerals",7140
+2974,1997,1470,Chemical and Fertilizer Mineral Mining,11910
+2975,1997,1480,"Nonmetallic Minerals Services, Except Fuels",1050
+2976,1997,1490,"Miscellaneous Nonmetallic Minerals, Except Fuels",5010
+2977,1997,1520,General Building Contractors-Residential,725170
+2978,1997,1530,Operative Builders,26920
+2979,1997,1540,General Building Contractors-Nonresidential,644300
+2980,1997,1610,"Highway and Street Construction, Except",271660
+2981,1997,1620,"Heavy Construction, Except Highway and Street",600860
+2982,1997,1710,"Plumbing, Heating and Air-Conditioning",815580
+2983,1997,1720,Painting and Paper Hanging,208970
+2984,1997,1730,Electrical Work,706310
+2985,1997,1740,"Masonry, Stonework, Tile Setting, and Plastering",482460
+2986,1997,1750,Carpentry and Floor Work,267160
+2987,1997,1760,"Roofing, Siding, and Sheet Metal Work",243680
+2988,1997,1770,Concrete Work,312630
+2989,1997,1780,Water Well Drilling,23090
+2990,1997,1790,Miscellaneous Special Trade Contractors,644740
+2991,1997,2010,Meat Products,494170
+2992,1997,2020,Dairy Products,144520
+2993,1997,2030,"Canned, Frozen, and Preserved Fruits, Vegetables, and Food Specialties",216080
+2994,1997,2040,Grain Mill Products,127630
+2995,1997,2050,Bakery Products,213950
+2996,1997,2060,Sugar and Confectionery Products,106590
+2997,1997,2070,Fats and Oils,33330
+2998,1997,2080,Beverages,186190
+2999,1997,2090,Miscellaneous Food Preparations and Kindred,180540
+3000,1997,2110,Cigarettes,25040
+3001,1997,2120,Cigars,4200
+3002,1997,2130,Chewing and Smoking Tobacco and Snuff,3060
+3003,1997,2140,Tobacco Stemming and Redrying,8930
+3004,1997,2210,"Broadwoven Fabric Mills, Cotton",72210
+3005,1997,2220,"Broadwoven Fabric Mills, Manmade Fiber and Silk",62390
+3006,1997,2230,"Broadwoven Fabric Mills, Wool (including Dyeing and Finishing)",13470
+3007,1997,2240,"Narrow Fabric and Other Smallwares Mills Cotton, Wool, Silk, and Manmade Fiber",21310
+3008,1997,2250,Knitting Mills,173260
+3009,1997,2260,"Dyeing and Finishing Textiles, Except Wool Fabrics",67660
+3010,1997,2270,Carpets and Rugs,61260
+3011,1997,2280,Yarn and Thread Mills,84720
+3012,1997,2290,Miscellaneous Textile Goods,54590
+3013,1997,2310,"Men's and Boys' Suits, Coats, and Overcoats",30610
+3014,1997,2320,"Men's and Boys' Furnishings, Work Clothing, and Allied Garments",207790
+3015,1997,2330,"Women's, Misses', and Juniors' Outerwear",242800
+3016,1997,2340,"Women's, Misses', Children's, and Infants' Undergarments",38950
+3017,1997,2350,"Hats, Caps, and Millinery",16530
+3018,1997,2360,"Girls', Children's, and Infants' Outerwear",26640
+3019,1997,2370,Fur Goods,870
+3020,1997,2380,Miscellaneous Apparel and Accessories,33460
+3021,1997,2390,Miscellaneous Fabricated Textile Products,220610
+3022,1997,2410,Logging,81260
+3023,1997,2420,"Sawmills and Planing Mills, General",184600
+3024,1997,2430,"Millwork, Veneer, Plywood, and Structural Wood",299590
+3025,1997,2440,Wood Containers,54550
+3026,1997,2450,Wood Buildings and Mobile Homes,94650
+3027,1997,2490,Miscellaneous Wood Products,89500
+3028,1997,2510,Household Furniture,282690
+3029,1997,2520,Office Furniture,65680
+3030,1997,2530,Public Building and Related Furniture,44030
+3031,1997,2540,"Partitions, Shelving, Lockers, and Office And",88240
+3032,1997,2590,Miscellaneous Furniture and Fixtures,39940
+3033,1997,2610,Pulp Mills,10660
+3034,1997,2620,Paper Mills,156960
+3035,1997,2630,Paperboard Mills,50130
+3036,1997,2650,Paperboard Containers and Boxes,223170
+3037,1997,2670,"Converted Paper and Paperboard Products, Except Containers and Boxes",246470
+3038,1997,2710,"Newspapers Publishing, or Publishing and Printing",445460
+3039,1997,2720,"Periodicals Publishing, or Publishing and Printing",135390
+3040,1997,2730,Books,124060
+3041,1997,2740,Miscellaneous Publishing,89000
+3042,1997,2750,Commercial Printing,578880
+3043,1997,2760,Manifold Business Forms,42140
+3044,1997,2770,Greeting Cards,27830
+3045,1997,2780,"Blankbooks, Looseleaf Binders, and Bookbinding",64830
+3046,1997,2790,Service Industries For The Printing Trade,50250
+3047,1997,2810,Industrial Inorganic Chemicals,117140
+3048,1997,2820,"Plastics Materials and Synthetic Resins, Synthetic Rubber, Cellulosic and Other Ma",159020
+3049,1997,2830,Drugs,294410
+3050,1997,2840,"Soap, Detergents, and Cleaning Preparations; Perfumes, Cosmetics, and Other Toilet",160100
+3051,1997,2850,"Paints, Varnishes, Lacquers, Enamels, and Allied Products",51710
+3052,1997,2860,Industrial Organic Chemicals,136840
+3053,1997,2870,Agricultural Chemicals,51260
+3054,1997,2890,Miscellaneous Chemical Products,93910
+3055,1997,2910,Petroleum Refining,93550
+3056,1997,2950,Asphalt Paving and Roofing Materials,30730
+3057,1997,2990,Miscellaneous Products of Petroleum and Coal,14110
+3058,1997,3010,Tires and Inner Tubes,74880
+3059,1997,3020,Rubber and Plastics Footwear,5790
+3060,1997,3050,"Gaskets, Packing, and Sealing Devices and Rubber",70230
+3061,1997,3060,"Fabricated Rubber Products, Not Elsewhere",114020
+3062,1997,3080,Miscellaneous Plastics Products,743550
+3063,1997,3110,Leather Tanning and Finishing,12900
+3064,1997,3130,Boot and Shoe Cut Stock and Findings,2410
+3065,1997,3140,"Footwear, Except Rubber",43960
+3066,1997,3150,Leather Gloves and Mittens,2340
+3067,1997,3160,Luggage,11100
+3068,1997,3170,Handbags and Other Personal Leather Goods,10430
+3069,1997,3190,"Leather Goods, not elsewhere classified",11830
+3070,1997,3210,Flat Glass,15450
+3071,1997,3220,"Glass and Glassware, Pressed or Blown",70400
+3072,1997,3230,"Glass Products, Made of Purchased Glass",62760
+3073,1997,3240,"Cement, Hydraulic",17430
+3074,1997,3250,Structural Clay Products,33580
+3075,1997,3260,Pottery and Related Products,39290
+3076,1997,3270,"Concrete, Gypsum, and Plaster Products",222960
+3077,1997,3280,Cut Stone and Stone Products,15570
+3078,1997,3290,"Abrasive, Asbestos, and Miscellaneous",78650
+3079,1997,3310,"Steel Works, Blast Furnaces, and Rolling And",237990
+3080,1997,3320,Iron and Steel Foundries,133550
+3081,1997,3330,Primary Smelting and Refining of Nonferrous Metals,38340
+3082,1997,3340,Secondary Smelting and Refining of Nonferrous Metals,15630
+3083,1997,3350,"Rolling, Drawing, and Extruding of Nonferrous Metals",168970
+3084,1997,3360,Nonferrous Foundries (Castings),93530
+3085,1997,3390,Miscellaneous Primary Metal Products,31630
+3086,1997,3410,Metal Cans and Shipping Containers,37800
+3087,1997,3420,"Cutlery, Handtools, and General Hardware",128020
+3088,1997,3430,"Heating Equipment, Except Electric and Warm Air; and Plumbing Fixtures",52020
+3089,1997,3440,Fabricated Structural Metal Products,470700
+3090,1997,3450,"Screw Machine Products, and Bolts, Nuts, Screws, Rivets, and Washers",107720
+3091,1997,3460,Metal Forgings and Stampings,264220
+3092,1997,3470,"Coating, Engraving, and Allied Services",143020
+3093,1997,3480,"Ordnance and Accessories, Except Vehicles and Guided Missiles",39450
+3094,1997,3490,Miscellaneous Fabricated Metal Products,270090
+3095,1997,3510,Engines and Turbines,76240
+3096,1997,3520,Farm and Garden Machinery and Equipment,105050
+3097,1997,3530,"Construction, Mining, and Materials Handling",249690
+3098,1997,3540,Metalworking Machinery and Equipment,356920
+3099,1997,3550,"Special Industry Machinery, Except Metalworking",182490
+3100,1997,3560,General Industrial Machinery and Equipment,266100
+3101,1997,3570,Computer and Office Equipment,379740
+3102,1997,3580,Refrigeration and Service Industry Machinery,201030
+3103,1997,3590,Miscellaneous Industrial and Commercial Machinery and Equipment,379150
+3104,1997,3610,Electric Transmission and Distribution Equipment,86530
+3105,1997,3620,Electrical Industrial Apparatus,158580
+3106,1997,3630,Household Appliances,112490
+3107,1997,3640,Electric Lighting and Wiring Equipment,187570
+3108,1997,3650,"Household Audio and Video Equipment, and Audio Recordings",82930
+3109,1997,3660,Communications Equipment,278670
+3110,1997,3670,Electronic Components and Accessories,675670
+3111,1997,3690,"Miscellaneous Electrical Machinery, Equipment, and Supplies",151130
+3112,1997,3710,Motor Vehicles and Motor Vehicle Equipment,1004920
+3113,1997,3720,Aircraft and Parts,523710
+3114,1997,3730,Ship and Boat Building and Repairing,153360
+3115,1997,3740,Railroad Equipment,36400
+3116,1997,3750,"Motorcycles, Bicycles, and Parts",17530
+3117,1997,3760,Guided Missiles and Space Vehicles and Parts,90930
+3118,1997,3790,Miscellaneous Transportation Equipment,53940
+3119,1997,3810,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems, Instr",157080
+3120,1997,3820,"Laboratory Apparatus and Analytical, Optical, Measuring, and Controlling Instrumen",306940
+3121,1997,3840,"Surgical, Medical, and Dental Instruments and Supplies",288260
+3122,1997,3850,Ophthalmic Goods,37010
+3123,1997,3860,Photographic Equipment and Supplies,83800
+3124,1997,3870,"Watches, Clocks, Clockwork Operated Devices, and Parts",8160
+3125,1997,3910,"Jewelry, Silverware, and Plated Ware",51130
+3126,1997,3930,Musical Instruments,14880
+3127,1997,3940,"Dolls, Toys, Games and Sporting and Athletic",109670
+3128,1997,3950,"Pens, Pencils, and Other Artists' Materials",31480
+3129,1997,3960,"Costume Jewelry, Costume Novelties, Buttons, and Miscellaneous Notions, Ecept Prec",23290
+3130,1997,3990,Miscellaneous Manufacturing Industries,167100
+3131,1997,4010,Railroads,243060
+3132,1997,4110,Local and Suburban Passenger Transportation,213370
+3133,1997,4120,Taxicabs,30420
+3134,1997,4130,Intercity and Rural Bus Transportation,24210
+3135,1997,4140,Bus Charter Service,33830
+3136,1997,4150,School Buses,149760
+3137,1997,4170,Terminal and Service Facilities For Motor Vehicle Passenger Transportation,1740
+3138,1997,4210,"Trucking and Courier Services, Except Air",1538930
+3139,1997,4220,Public Warehousing and Storage,162000
+3140,1997,4230,Terminal and Joint Terminal Maintenance,3920
+3141,1997,4410,Deep Sea Foreign Transportation of Freight,14320
+3142,1997,4420,Deep Sea Domestic Transportation of Freight,10180
+3143,1997,4430,Freight Transportation On The Great Lakes-St. Lawrence Seaway,2260
+3144,1997,4440,"Water Transportation of Freight, not elsewhere classified",13980
+3145,1997,4480,Water Transportation of Passengers,19760
+3146,1997,4490,Services Incidental To Water Transportation,121960
+3147,1997,4510,"Air Transportation, Scheduled, and Air Courier",1035830
+3148,1997,4520,"Air Transportation, Nonscheduled",47390
+3149,1997,4580,"Airports, Flying Fields, and Airport Terminal Services",122740
+3150,1997,4610,"Pipelines, Except Natural Gas",14040
+3151,1997,4720,Arrangement of Passenger Transportation,219560
+3152,1997,4730,Arrangement of Transportation of Freight and Cargo,180210
+3153,1997,4740,Rental of Railroad Cars,1980
+3154,1997,4780,Miscellaneous Services Incidental To Transportation,45160
+3155,1997,4810,Telephone Communications,975840
+3156,1997,4820,Telegraph and Other Message Communications,8570
+3157,1997,4830,Radio and Television Broadcasting Stations,273630
+3158,1997,4840,Cable and Other Pay Television Services,173350
+3159,1997,4890,"Communications Services, not elsewhere classified",22070
+3160,1997,4910,Electric Services,372460
+3161,1997,4920,Gas Production and Distribution,139010
+3162,1997,4930,"Combination Electric and Gas, and Other Utility Services",158650
+3163,1997,4940,Water Supply,30740
+3164,1997,4950,Sanitary Services,164440
+3165,1997,4960,Steam and Air-Conditioning Supply,1540
+3166,1997,4970,Irrigation Systems,1700
+3167,1997,5010,Motor Vehicles and Motor Vehicle Parts and Supplies,518490
+3168,1997,5020,Furniture and Home Furnishings,161270
+3169,1997,5030,Lumber and Other Construction Materials,261480
+3170,1997,5040,Professional and Commercial Equipment and Supplies,882600
+3171,1997,5050,"Metals and Minerals, Except Petroleum",150710
+3172,1997,5060,Electrical Goods,545380
+3173,1997,5070,"Hardware, and Plumbing and Heating Equipment",304490
+3174,1997,5080,"Machinery, Equipment, and Supplies",828920
+3175,1997,5090,Miscellaneous Durable Goods,344050
+3176,1997,5110,Paper and Paper Products,282100
+3177,1997,5120,"Drugs, Drug Proprietaries, and Druggists' Sundries",226170
+3178,1997,5130,"Apparel, Piece Goods, and Notions",224320
+3179,1997,5140,Groceries and Related Products,921840
+3180,1997,5150,Farm-Product Raw Materials,113570
+3181,1997,5160,Chemicals and Allied Products,154090
+3182,1997,5170,Petroleum and Petroleum Products,156540
+3183,1997,5180,"Beer, Wine, and Distilled Alcoholic Beverages",154410
+3184,1997,5190,Miscellaneous Non-Durable Goods,547340
+3185,1997,5210,Lumber and Other Building Materials Dealers,557580
+3186,1997,5230,"Paint, Glass and Wallpaper Stores",66960
+3187,1997,5250,Hardware Stores,168720
+3188,1997,5260,"Retail Nurseries, Lawn and Garden Supply Stores",91280
+3189,1997,5270,Mobile Home Dealers,43770
+3190,1997,5310,Department Stores,2420650
+3191,1997,5330,Variety Stores,141020
+3192,1997,5390,Miscellaneous General Merchandise Stores,193990
+3193,1997,5410,Grocery Stores,3081930
+3194,1997,5420,"Meat and Fish (Seafood) Markets, Including Freezer Provisioners",46330
+3195,1997,5430,Fruit and Vegetable Markets,31060
+3196,1997,5440,"Candy, Nut, and Confectionery Stores",31010
+3197,1997,5450,Dairy Products Stores,13660
+3198,1997,5460,Retail Bakeries,207430
+3199,1997,5490,Miscellaneous Food Stores,87640
+3200,1997,5510,Motor Vehicle Dealers (New and Used),1054000
+3201,1997,5520,Motor Vehicle Dealers (Used Only),94540
+3202,1997,5530,Auto and Home Supply Stores,400640
+3203,1997,5540,Gasoline Service Stations,672860
+3204,1997,5550,Boat Dealers,36820
+3205,1997,5560,Recreational Vehicle Dealers,26590
+3206,1997,5570,Motorcycle Dealers,32420
+3207,1997,5590,"Automotive Dealers, not elsewhere classified",9240
+3208,1997,5610,Men's and Boys' Clothing and Accessory Stores,86030
+3209,1997,5620,Women's Clothing Stores,282740
+3210,1997,5630,Women's Accessory and Specialty Stores,54350
+3211,1997,5640,Children's and Infants' Wear Stores,42510
+3212,1997,5650,Family Clothing Stores,366600
+3213,1997,5660,Shoe Stores,211330
+3214,1997,5690,Miscellaneous Apparel and Accessory Stores,95510
+3215,1997,5710,Home Furniture and Furnishings Stores,519310
+3216,1997,5720,Household Appliance Stores,70610
+3217,1997,5730,"Radio, Television, Consumer Electronics, and Music Stores",424840
+3218,1997,5810,Eating and Drinking Places,7681480
+3219,1997,5910,Drug Stores and Proprietary Stores,639500
+3220,1997,5920,Liquor Stores,111140
+3221,1997,5930,Used Merchandise Stores,117630
+3222,1997,5940,Miscellaneous Shopping Goods Stores,1014760
+3223,1997,5960,Nonstore Retailers,356710
+3224,1997,5980,Fuel Dealers,97720
+3225,1997,5990,"Retail Stores, not elsewhere classified",525310
+3226,1997,6010,Central Reserve Depository Institutions,22340
+3227,1997,6020,Commercial Banks,1474530
+3228,1997,6030,Savings Institutions,259960
+3229,1997,6060,Credit Unions,175990
+3230,1997,6080,Foreign Banking and Branches and Agencies of Foreign Banks,30170
+3231,1997,6090,Functions Related To Depository Banking,77310
+3232,1997,6110,Federal and Federally-Sponsored Credit Agencies,21820
+3233,1997,6140,Personal Credit Institutions,185710
+3234,1997,6150,Business Credit Institutions,115150
+3235,1997,6160,Mortgage Bankers and Brokers,276380
+3236,1997,6210,"Security Brokers, Dealers, and Flotation Companies",456050
+3237,1997,6220,Commodity Contracts Brokers and Dealers,16930
+3238,1997,6230,Security and Commodity Exchanges,7840
+3239,1997,6280,Services Allied With The Exchange of Securities,128880
+3240,1997,6310,Life Insurance,384040
+3241,1997,6320,Accident and Health Insurance and Medical,347320
+3242,1997,6330,"Fire, Marine, and Casualty Insurance",540470
+3243,1997,6350,Surety Insurance,20170
+3244,1997,6360,Title Insurance,74010
+3245,1997,6370,"Pension, Health, and Welfare Funds",46550
+3246,1997,6390,"Insurance Carriers, not elsewhere classified",3030
+3247,1997,6410,"Insurance Agents, Brokers, and Service",735570
+3248,1997,6510,Real Estate Operators (Except Developers) and Lessors,580300
+3249,1997,6530,Real Estate Agents and Managers,697750
+3250,1997,6540,Title Abstract Offices,34900
+3251,1997,6550,Land Subdividers and Developers,116440
+3252,1997,6710,Holding Offices,106860
+3253,1997,6720,Investment Offices,22990
+3254,1997,6730,Trusts,45100
+3255,1997,6790,Miscellaneous Investing,45370
+3256,1997,7010,Hotels and Motels,1709410
+3257,1997,7020,Rooming and Boarding Houses,6820
+3258,1997,7030,Camps and Recreational Vehicle Parks,34210
+3259,1997,7040,"Organization Hotels and Lodging Houses, On Membership Basis",10370
+3260,1997,7210,"Laundry, Cleaning, and Garment Services",444540
+3261,1997,7220,"Photographic Studios, Portrait",82460
+3262,1997,7230,Beauty Shops,408610
+3263,1997,7240,Barber Shops,10910
+3264,1997,7250,Shoe Repair Shops and Shoeshine Parlors,4170
+3265,1997,7260,Funeral Service and Crematories,100340
+3266,1997,7290,Miscellaneous Personal Services,145720
+3267,1997,7310,Advertising,258980
+3268,1997,7320,"Consumer Credit Reporting Agencies, Mercantile",134870
+3269,1997,7330,"Mailing, Reproduction, Commercial Art and Photography, and Stenographic Services",313790
+3270,1997,7340,Services To Dwellings and Other Buildings,950100
+3271,1997,7350,Miscellaneous Equipment Rental and Leasing,259600
+3272,1997,7360,Personnel Supply Services,3221120
+3273,1997,7370,"Computer Programming, Data Processing, and Other Computer Related Services",1451030
+3274,1997,7380,Miscellaneous Business Services,1782110
+3275,1997,7510,"Automotive Rental and Leasing, Without Drivers",198950
+3276,1997,7520,Automobile Parking,72320
+3277,1997,7530,Automotive Repair Shops,624940
+3278,1997,7540,"Automotive Services, Except Repair",227910
+3279,1997,7620,Electrical Repair Shops,115280
+3280,1997,7630,"Watch, Clock, and Jewelry Repair",5660
+3281,1997,7640,Reupholstery and Furniture Repair,22290
+3282,1997,7690,Miscellaneous Repair Shops and Related Services,238490
+3283,1997,7810,Motion Picture Production and Allied Services,242620
+3284,1997,7820,Motion Picture Distribution and Allied Services,17490
+3285,1997,7830,Motion Picture Theaters,127380
+3286,1997,7840,Video Tape Rental,161620
+3287,1997,7910,"Dance Studios, Schools, and Halls",29480
+3288,1997,7920,Theatrical Producers (except Motion Picture),175670
+3289,1997,7930,Bowling Centers,85350
+3290,1997,7940,Commercial Sports,115570
+3291,1997,7990,Miscellaneous Amusement and Recreation,1166210
+3292,1997,8010,Offices and Clinics of Doctors of Medicine,1782730
+3293,1997,8020,Offices and Clinics of Dentists,638430
+3294,1997,8030,Offices and Clinics of Doctors of Osteopathy,49090
+3295,1997,8040,Offices and Clinics of Other Health Practitioners,441570
+3296,1997,8050,Nursing and Personal Care Facilities,1749090
+3297,1997,8060,Hospitals,4835870
+3298,1997,8070,Medical and Dental Laboratories,200210
+3299,1997,8080,Home Health Care Services,711650
+3300,1997,8090,"Miscellaneous Health and Allied Services, not elsewhere classified",335950
+3301,1997,8110,Legal Services,960840
+3302,1997,8210,Elementary and Secondary Schools,7274640
+3303,1997,8220,"Colleges, Universities, Professional Schools, and Junior Colleges",2863980
+3304,1997,8230,Libraries,22800
+3305,1997,8240,Vocational Schools,111100
+3306,1997,8290,"Schools and Educational Services, not elsewhere classified",170370
+3307,1997,8320,Individual and Family Social Services,691680
+3308,1997,8330,Job Training and Vocational Rehabilitation,278440
+3309,1997,8350,Child Day Care Services,596180
+3310,1997,8360,Residential Care,731960
+3311,1997,8390,"Social Services, not elsewhere classified",218920
+3312,1997,8410,Museums and Art Galleries,69390
+3313,1997,8420,Arboreta and Botanical or Zoological Gardens,21360
+3314,1997,8610,Business Associations,107680
+3315,1997,8620,Professional Membership Organizations,61200
+3316,1997,8630,Labor Unions and Similar Labor Organizations,143130
+3317,1997,8640,"Civic, Social, and Fraternal Associations",478660
+3318,1997,8650,Political Organizations,5490
+3319,1997,8660,Religious Organizations,139460
+3320,1997,8690,"Membership Organizations, not elsewhere classified",72690
+3321,1997,8710,"Engineering, Architectural, and Surveying",888740
+3322,1997,8720,"Accounting, Auditing, and Bookkeeping Services",607200
+3323,1997,8730,"Research, Development, and Testing Services",596530
+3324,1997,8740,Management and Public Relations Services,992820
+3325,1997,8990,"Services, not elsewhere classified",51380
+3326,1997,9010,Federal Government (OES designation),2633270
+3327,1997,9020,State Government (OES designation),2473500
+3328,1997,9030,Local Government (OES designation),4676040

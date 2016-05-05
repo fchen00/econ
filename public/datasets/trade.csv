@@ -1,0 +1,629 @@
+id,year,servicegood,importexport,title,price
+1,2014,service,export,Total Services,710565
+2,2013,service,export,Total Services,687894
+3,2012,service,export,Total Services,656411
+4,2011,service,export,Total Services,627781
+5,2014,service,export,Maintenance and Repair Services,22389
+6,2013,service,export,Maintenance and Repair Services,18648
+7,2012,service,export,Maintenance and Repair Services,17186
+8,2011,service,export,Maintenance and Repair Services,14279
+9,2014,service,export,Transport,90031
+10,2013,service,export,Transport,87415
+11,2012,service,export,Transport,83944
+12,2011,service,export,Transport,79830
+13,2014,service,export,Travel,177241
+14,2013,service,export,Travel,172901
+15,2012,service,export,Travel,161632
+16,2011,service,export,Travel,150867
+17,2014,service,export,Insurance Services,17417
+18,2013,service,export,Insurance Services,17058
+19,2012,service,export,Insurance Services,16790
+20,2011,service,export,Insurance Services,15114
+21,2014,service,export,Financial Services,87290
+22,2013,service,export,Financial Services,84091
+23,2012,service,export,Financial Services,76692
+24,2011,service,export,Financial Services,78271
+25,2014,service,export,Charges for the Use of Intellectual Property,130362
+26,2013,service,export,Charges for the Use of Intellectual Property,127927
+27,2012,service,export,Charges for the Use of Intellectual Property,124440
+28,2011,service,export,Charges for the Use of Intellectual Property,123333
+29,2014,service,export,"Telecommuni-cations, Computer, and Information Services",35885
+30,2013,service,export,"Telecommuni-cations, Computer, and Information Services",35035
+31,2012,service,export,"Telecommuni-cations, Computer, and Information Services",32510
+32,2011,service,export,"Telecommuni-cations, Computer, and Information Services",29171
+33,2014,service,export,Other Business Services,129514
+34,2013,service,export,Other Business Services,121873
+35,2012,service,export,Other Business Services,120382
+36,2011,service,export,Other Business Services,112568
+37,2014,service,export,Government Goods and Services,20438
+38,2013,service,export,Government Goods and Services,22946
+39,2012,service,export,Government Goods and Services,22835
+40,2011,service,export,Government Goods and Services,24348
+41,2014,good,export,Total Balance of Payments Basis,1632639
+42,2013,good,export,Total Balance of Payments Basis,1592043
+43,2012,good,export,Total Balance of Payments Basis,1562578
+44,2011,good,export,Total Balance of Payments Basis,1499240
+45,2014,good,export,Net Adjustments,12107
+46,2013,good,export,Net Adjustments,13604
+47,2012,good,export,Net Adjustments,16757
+48,2011,good,export,Net Adjustments,16732
+49,2014,good,export,Total Census Basis,1620532
+50,2013,good,export,Total Census Basis,1578439
+51,2012,good,export,Total Census Basis,1545821
+52,2011,good,export,Total Census Basis,1482508
+53,2014,good,export,"Foods, Feeds, Beverages",143751
+54,2013,good,export,"Foods, Feeds, Beverages",136160
+55,2012,good,export,"Foods, Feeds, Beverages",133049
+56,2011,good,export,"Foods, Feeds, Beverages",126247
+57,2014,good,export,Industrial Supplies,505114
+58,2013,good,export,Industrial Supplies,508080
+59,2012,good,export,Industrial Supplies,501177
+60,2011,good,export,Industrial Supplies,501077
+61,2014,good,export,Capital Goods,551056
+62,2013,good,export,Capital Goods,534177
+63,2012,good,export,Capital Goods,527178
+64,2011,good,export,Capital Goods,493956
+65,2014,good,export,"Automotive Vehicles, etc.",159690
+66,2013,good,export,"Automotive Vehicles, etc.",152670
+67,2012,good,export,"Automotive Vehicles, etc.",146158
+68,2011,good,export,"Automotive Vehicles, etc.",133036
+69,2014,good,export,Consumer Goods,198906
+70,2013,good,export,Consumer Goods,189101
+71,2012,good,export,Consumer Goods,181683
+72,2011,good,export,Consumer Goods,175304
+73,2014,good,export,Other Goods,62014
+74,2013,good,export,Other Goods,58251
+75,2012,good,export,Other Goods,56575
+76,2011,good,export,Other Goods,52888
+77,2014,service,import,Total Services,477428
+78,2013,service,import,Total Services,463700
+79,2012,service,import,Total Services,452013
+80,2011,service,import,Total Services,435761
+81,2014,service,import,Maintenance and Repair Services,7468
+82,2013,service,import,Maintenance and Repair Services,7486
+83,2012,service,import,Maintenance and Repair Services,8015
+84,2011,service,import,Maintenance and Repair Services,8236
+85,2014,service,import,Transport,94219
+86,2013,service,import,Transport,90634
+87,2012,service,import,Transport,84985
+88,2011,service,import,Transport,81377
+89,2014,service,import,Travel,110787
+90,2013,service,import,Travel,104107
+91,2012,service,import,Travel,100338
+92,2011,service,import,Travel,89700
+93,2014,service,import,Insurance Services,50096
+94,2013,service,import,Insurance Services,53420
+95,2012,service,import,Insurance Services,55513
+96,2011,service,import,Insurance Services,55654
+97,2014,service,import,Financial Services,19503
+98,2013,service,import,Financial Services,18519
+99,2012,service,import,Financial Services,16703
+100,2011,service,import,Financial Services,17368
+101,2014,service,import,Charges for the Use of Intellectual Property,42124
+102,2013,service,import,Charges for the Use of Intellectual Property,38999
+103,2012,service,import,Charges for the Use of Intellectual Property,38661
+104,2011,service,import,Charges for the Use of Intellectual Property,36087
+105,2014,service,import,"Telecommuni-cations, Computer, and Information Services",33314
+106,2013,service,import,"Telecommuni-cations, Computer, and Information Services",33812
+107,2012,service,import,"Telecommuni-cations, Computer, and Information Services",32779
+108,2011,service,import,"Telecommuni-cations, Computer, and Information Services",32756
+109,2014,service,import,Other Business Services,95752
+110,2013,service,import,Other Business Services,91389
+111,2012,service,import,Other Business Services,87157
+112,2011,service,import,Other Business Services,83289
+113,2014,service,import,Government Goods and Services,24163
+114,2013,service,import,Government Goods and Services,25334
+115,2012,service,import,Government Goods and Services,27861
+116,2011,service,import,Government Goods and Services,31293
+117,2014,good,import,Total Balance of Payments Basis,2374101
+118,2013,good,import,Total Balance of Payments Basis,2294630
+119,2012,good,import,Total Balance of Payments Basis,2303749
+120,2011,good,import,Total Balance of Payments Basis,2239886
+121,2014,good,import,Net Adjustments,26416
+122,2013,good,import,Net Adjustments,26260
+123,2012,good,import,Net Adjustments,27482
+124,2011,good,import,Net Adjustments,31931
+125,2014,good,import,Total Census Basis,2347685
+126,2013,good,import,Total Census Basis,2268370
+127,2012,good,import,Total Census Basis,2276267
+128,2011,good,import,Total Census Basis,2207954
+129,2014,good,import,"Foods, Feeds, Beverages",125757
+130,2013,good,import,"Foods, Feeds, Beverages",115126
+131,2012,good,import,"Foods, Feeds, Beverages",110271
+132,2011,good,import,"Foods, Feeds, Beverages",107476
+133,2014,good,import,Industrial Supplies,666751
+134,2013,good,import,Industrial Supplies,681552
+135,2012,good,import,Industrial Supplies,730639
+136,2011,good,import,Industrial Supplies,755784
+137,2014,good,import,Capital Goods,591115
+138,2013,good,import,Capital Goods,554573
+139,2012,good,import,Capital Goods,548708
+140,2011,good,import,Capital Goods,510799
+141,2014,good,import,"Automotive Vehicles, etc.",327651
+142,2013,good,import,"Automotive Vehicles, etc.",308803
+143,2012,good,import,"Automotive Vehicles, etc.",297780
+144,2011,good,import,"Automotive Vehicles, etc.",254619
+145,2014,good,import,Consumer Goods,557783
+146,2013,good,import,Consumer Goods,532755
+147,2012,good,import,Consumer Goods,516918
+148,2011,good,import,Consumer Goods,514108
+149,2014,good,import,Other Goods,78629
+150,2013,good,import,Other Goods,75562
+151,2012,good,import,Other Goods,71953
+152,2011,good,import,Other Goods,65169
+153,2010,service,export,Total Services,548878
+154,2009,service,export,Total Services,505547
+155,2008,service,export,Total Services,535183
+156,2007,service,export,Total Services,497245
+157,2006,service,export,Total Services,433905
+158,2005,service,export,Total Services,389122
+159,2004,service,export,Total Services,343912
+160,2003,service,export,Total Services,309146
+161,2002,service,export,Total Services,294854
+162,2001,service,export,Total Services,279260
+163,2000,service,export,Total Services,292245
+164,1999,service,export,Total Services,273181
+165,1998,service,export,Total Services,263661
+166,1997,service,export,Total Services,258828
+167,2010,service,export,Travel,103505
+168,2009,service,export,Travel,94191
+169,2008,service,export,Travel,110423
+170,2007,service,export,Travel,96712
+171,2006,service,export,Travel,85720
+172,2005,service,export,Travel,81799
+173,2004,service,export,Travel,74481
+174,2003,service,export,Travel,64348
+175,2002,service,export,Travel,66605
+176,2001,service,export,Travel,73119
+177,2000,service,export,Travel,82267
+178,1999,service,export,Travel,74731
+179,1998,service,export,Travel,71250
+180,1997,service,export,Travel,73301
+181,2010,service,export,Passenger Fares,30931
+182,2009,service,export,Passenger Fares,26103
+183,2008,service,export,Passenger Fares,30957
+184,2007,service,export,Passenger Fares,25586
+185,2006,service,export,Passenger Fares,22036
+186,2005,service,export,Passenger Fares,20970
+187,2004,service,export,Passenger Fares,18858
+188,2003,service,export,Passenger Fares,15693
+189,2002,service,export,Passenger Fares,17046
+190,2001,service,export,Passenger Fares,18007
+191,2000,service,export,Passenger Fares,20760
+192,1999,service,export,Passenger Fares,19785
+193,1998,service,export,Passenger Fares,19996
+194,1997,service,export,Passenger Fares,20789
+195,2010,service,export,Other Transportation,39936
+196,2009,service,export,Other Transportation,35533
+197,2008,service,export,Other Transportation,44016
+198,2007,service,export,Other Transportation,51586
+199,2006,service,export,Other Transportation,46323
+200,2005,service,export,Other Transportation,41281
+201,2004,service,export,Other Transportation,36862
+202,2003,service,export,Other Transportation,31329
+203,2002,service,export,Other Transportation,29195
+204,2001,service,export,Other Transportation,28306
+205,2000,service,export,Other Transportation,30137
+206,1999,service,export,Other Transportation,26916
+207,1998,service,export,Other Transportation,25518
+208,1997,service,export,Other Transportation,27006
+209,2010,service,export,Royalties and License Fees,105583
+210,2009,service,export,Royalties and License Fees,97183
+211,2008,service,export,Royalties and License Fees,102125
+212,2007,service,export,Royalties and License Fees,82614
+213,2006,service,export,Royalties and License Fees,72191
+214,2005,service,export,Royalties and License Fees,64395
+215,2004,service,export,Royalties and License Fees,52643
+216,2003,service,export,Royalties and License Fees,48137
+217,2002,service,export,Royalties and License Fees,44489
+218,2001,service,export,Royalties and License Fees,38668
+219,2000,service,export,Royalties and License Fees,39607
+220,1999,service,export,Royalties and License Fees,36902
+221,1998,service,export,Royalties and License Fees,36808
+222,1997,service,export,Royalties and License Fees,33781
+223,2010,service,export,Other Private Services,250320
+224,2009,service,export,Other Private Services,234858
+225,2008,service,export,Other Private Services,232019
+226,2007,service,export,Other Private Services,223483
+227,2006,service,export,Other Private Services,189050
+228,2005,service,export,Other Private Services,160051
+229,2004,service,export,Other Private Services,145433
+230,2003,service,export,Other Private Services,136060
+231,2002,service,export,Other Private Services,124781
+232,2001,service,export,Other Private Services,108109
+233,2000,service,export,Other Private Services,104707
+234,1999,service,export,Other Private Services,98158
+235,1998,service,export,Other Private Services,92116
+236,1997,service,export,Other Private Services,85566
+237,2010,service,export,Transfers Under U.S. Military Sales Contracts,17483
+238,2009,service,export,Transfers Under U.S. Military Sales Contracts,16611
+239,2008,service,export,Transfers Under U.S. Military Sales Contracts,14711
+240,2007,service,export,Transfers Under U.S. Military Sales Contracts,16052
+241,2006,service,export,Transfers Under U.S. Military Sales Contracts,17430
+242,2005,service,export,Transfers Under U.S. Military Sales Contracts,19539
+243,2004,service,export,Transfers Under U.S. Military Sales Contracts,14814
+244,2003,service,export,Transfers Under U.S. Military Sales Contracts,12769
+245,2002,service,export,Transfers Under U.S. Military Sales Contracts,11943
+246,2001,service,export,Transfers Under U.S. Military Sales Contracts,12220
+247,2000,service,export,Transfers Under U.S. Military Sales Contracts,13981
+248,1999,service,export,Transfers Under U.S. Military Sales Contracts,15804
+249,1998,service,export,Transfers Under U.S. Military Sales Contracts,17155
+250,1997,service,export,Transfers Under U.S. Military Sales Contracts,17561
+251,2010,service,export,U.S. Government Misc. Services ,1121
+252,2009,service,export,U.S. Government Misc. Services ,1069
+253,2008,service,export,U.S. Government Misc. Services ,933
+254,2007,service,export,U.S. Government Misc. Services ,1212
+255,2006,service,export,U.S. Government Misc. Services ,1155
+256,2005,service,export,U.S. Government Misc. Services ,1087
+257,2004,service,export,U.S. Government Misc. Services ,821
+258,2003,service,export,U.S. Government Misc. Services ,810
+259,2002,service,export,U.S. Government Misc. Services ,795
+260,2001,service,export,U.S. Government Misc. Services ,831
+261,2000,service,export,U.S. Government Misc. Services ,786
+262,1999,service,export,U.S. Government Misc. Services ,885
+263,1998,service,export,U.S. Government Misc. Services ,818
+264,1997,service,export,U.S. Government Misc. Services ,824
+265,2010,good,export,Total Balance of Payments Basis,1288699
+266,2009,good,export,Total Balance of Payments Basis,1069491
+267,2008,good,export,Total Balance of Payments Basis,1307499
+268,2007,good,export,Total Balance of Payments Basis,1148481
+269,2006,good,export,Total Balance of Payments Basis,1023109
+270,2005,good,export,Total Balance of Payments Basis,894631
+271,2004,good,export,Total Balance of Payments Basis,807536
+272,2003,good,export,Total Balance of Payments Basis,713421
+273,2002,good,export,Total Balance of Payments Basis,682422
+274,2001,good,export,Total Balance of Payments Basis,718762
+275,2000,good,export,Total Balance of Payments Basis,771994
+276,1999,good,export,Total Balance of Payments Basis,683965
+277,1998,good,export,Total Balance of Payments Basis,670246
+278,1997,good,export,Total Balance of Payments Basis,679715
+279,2010,good,export,Net Adjustments,10436
+280,2009,good,export,Net Adjustments,13448
+281,2008,good,export,Net Adjustments,20057
+282,2007,good,export,Net Adjustments,-13999
+283,2006,good,export,Net Adjustments,-13525
+284,2005,good,export,Net Adjustments,-11347
+285,2004,good,export,Net Adjustments,-11239
+286,2003,good,export,Net Adjustments,-11350
+287,2002,good,export,Net Adjustments,-10681
+288,2001,good,export,Net Adjustments,-10339
+289,2000,good,export,Net Adjustments,-9924
+290,1999,good,export,Net Adjustments,-11833
+291,1998,good,export,Net Adjustments,-11892
+292,1997,good,export,Net Adjustments,-9468
+293,2010,good,export,Total Census Basis,1278263
+294,2009,good,export,Total Census Basis,1056043
+295,2008,good,export,Total Census Basis,1287442
+296,2007,good,export,Total Census Basis,1162479
+297,2006,good,export,Total Census Basis,1036635
+298,2005,good,export,Total Census Basis,905978
+299,2004,good,export,Total Census Basis,818775
+300,2003,good,export,Total Census Basis,724771
+301,2002,good,export,Total Census Basis,693103
+302,2001,good,export,Total Census Basis,729100
+303,2000,good,export,Total Census Basis,781918
+304,1999,good,export,Total Census Basis,695797
+305,1998,good,export,Total Census Basis,682138
+306,1997,good,export,Total Census Basis,689182
+307,2010,good,export,"Foods, Feeds, Beverages",107705
+308,2009,good,export,"Foods, Feeds, Beverages",93908
+309,2008,good,export,"Foods, Feeds, Beverages",108349
+310,2007,good,export,"Foods, Feeds, Beverages",84264
+311,2006,good,export,"Foods, Feeds, Beverages",65962
+312,2005,good,export,"Foods, Feeds, Beverages",58955
+313,2004,good,export,"Foods, Feeds, Beverages",56570
+314,2003,good,export,"Foods, Feeds, Beverages",55026
+315,2002,good,export,"Foods, Feeds, Beverages",49616
+316,2001,good,export,"Foods, Feeds, Beverages",49407
+317,2000,good,export,"Foods, Feeds, Beverages",47871
+318,1999,good,export,"Foods, Feeds, Beverages",45977
+319,1998,good,export,"Foods, Feeds, Beverages",46397
+320,1997,good,export,"Foods, Feeds, Beverages",51507
+321,2010,good,export,Industrial Supplies,391748
+322,2009,good,export,Industrial Supplies,296709
+323,2008,good,export,Industrial Supplies,388033
+324,2007,good,export,Industrial Supplies,316335
+325,2006,good,export,Industrial Supplies,276045
+326,2005,good,export,Industrial Supplies,233045
+327,2004,good,export,Industrial Supplies,203960
+328,2003,good,export,Industrial Supplies,173043
+329,2002,good,export,Industrial Supplies,156812
+330,2001,good,export,Industrial Supplies,160104
+331,2000,good,export,Industrial Supplies,172615
+332,1999,good,export,Industrial Supplies,147524
+333,1998,good,export,Industrial Supplies,148266
+334,1997,good,export,Industrial Supplies,158226
+335,2010,good,export,Capital Goods,446597
+336,2009,good,export,Capital Goods,390461
+337,2008,good,export,Capital Goods,457655
+338,2007,good,export,Capital Goods,447433
+339,2006,good,export,Capital Goods,414986
+340,2005,good,export,Capital Goods,363322
+341,2004,good,export,Capital Goods,331475
+342,2003,good,export,Capital Goods,293621
+343,2002,good,export,Capital Goods,290437
+344,2001,good,export,Capital Goods,321714
+345,2000,good,export,Capital Goods,356934
+346,1999,good,export,Capital Goods,310794
+347,1998,good,export,Capital Goods,299612
+348,1997,good,export,Capital Goods,294549
+349,2010,good,export,"Automotive Vehicles, etc.",111989
+350,2009,good,export,"Automotive Vehicles, etc.",81715
+351,2008,good,export,"Automotive Vehicles, etc.",121451
+352,2007,good,export,"Automotive Vehicles, etc.",121045
+353,2006,good,export,"Automotive Vehicles, etc.",106977
+354,2005,good,export,"Automotive Vehicles, etc.",98406
+355,2004,good,export,"Automotive Vehicles, etc.",89292
+356,2003,good,export,"Automotive Vehicles, etc.",80686
+357,2002,good,export,"Automotive Vehicles, etc.",78942
+358,2001,good,export,"Automotive Vehicles, etc.",75435
+359,2000,good,export,"Automotive Vehicles, etc.",80356
+360,1999,good,export,"Automotive Vehicles, etc.",75256
+361,1998,good,export,"Automotive Vehicles, etc.",73157
+362,1997,good,export,"Automotive Vehicles, etc.",74029
+363,2010,good,export,Consumer Goods,165883
+364,2009,good,export,Consumer Goods,150035
+365,2008,good,export,Consumer Goods,161281
+366,2007,good,export,Consumer Goods,146102
+367,2006,good,export,Consumer Goods,129074
+368,2005,good,export,Consumer Goods,115285
+369,2004,good,export,Consumer Goods,103075
+370,2003,good,export,Consumer Goods,89908
+371,2002,good,export,Consumer Goods,84359
+372,2001,good,export,Consumer Goods,88331
+373,2000,good,export,Consumer Goods,89377
+374,1999,good,export,Consumer Goods,80922
+375,1998,good,export,Consumer Goods,79261
+376,1997,good,export,Consumer Goods,77366
+377,2010,good,export,Other Goods,54341
+378,2009,good,export,Other Goods,43215
+379,2008,good,export,Other Goods,50673
+380,2007,good,export,Other Goods,47300
+381,2006,good,export,Other Goods,43589
+382,2005,good,export,Other Goods,36964
+383,2004,good,export,Other Goods,34404
+384,2003,good,export,Other Goods,32487
+385,2002,good,export,Other Goods,32937
+386,2001,good,export,Other Goods,34110
+387,2000,good,export,Other Goods,34765
+388,1999,good,export,Other Goods,35324
+389,1998,good,export,Other Goods,35444
+390,1997,good,export,Other Goods,33505
+391,2010,service,import,Total Services,403048
+392,2009,service,import,Total Services,380909
+393,2008,service,import,Total Services,403413
+394,2007,service,import,Total Services,378130
+395,2006,service,import,Total Services,348918
+396,2005,service,import,Total Services,313540
+397,2004,service,import,Total Services,296105
+398,2003,service,import,Total Services,256664
+399,2002,service,import,Total Services,233737
+400,2001,service,import,Total Services,210385
+401,2000,service,import,Total Services,218503
+402,1999,service,import,Total Services,189396
+403,1998,service,import,Total Services,181011
+404,1997,service,import,Total Services,166907
+405,2010,service,import,Travel,75507
+406,2009,service,import,Travel,74118
+407,2008,service,import,Travel,80494
+408,2007,service,import,Travel,76167
+409,2006,service,import,Travel,72104
+410,2005,service,import,Travel,68970
+411,2004,service,import,Travel,65635
+412,2003,service,import,Travel,57444
+413,2002,service,import,Travel,58715
+414,2001,service,import,Travel,60117
+415,2000,service,import,Travel,64788
+416,1999,service,import,Travel,58865
+417,1998,service,import,Travel,56105
+418,1997,service,import,Travel,52051
+419,2010,service,import,Passenger Fares,27279
+420,2009,service,import,Passenger Fares,25137
+421,2008,service,import,Passenger Fares,31841
+422,2007,service,import,Passenger Fares,28486
+423,2006,service,import,Passenger Fares,27501
+424,2005,service,import,Passenger Fares,26149
+425,2004,service,import,Passenger Fares,23701
+426,2003,service,import,Passenger Fares,20957
+427,2002,service,import,Passenger Fares,19969
+428,2001,service,import,Passenger Fares,22418
+429,2000,service,import,Passenger Fares,24306
+430,1999,service,import,Passenger Fares,21315
+431,1998,service,import,Passenger Fares,19797
+432,1997,service,import,Passenger Fares,18138
+433,2010,service,import,Other Transportation,51202
+434,2009,service,import,Other Transportation,42591
+435,2008,service,import,Other Transportation,56696
+436,2007,service,import,Other Transportation,67050
+437,2006,service,import,Other Transportation,65262
+438,2005,service,import,Other Transportation,61937
+439,2004,service,import,Other Transportation,54169
+440,2003,service,import,Other Transportation,44705
+441,2002,service,import,Other Transportation,38407
+442,2001,service,import,Other Transportation,38823
+443,2000,service,import,Other Transportation,41598
+444,1999,service,import,Other Transportation,34139
+445,1998,service,import,Other Transportation,30457
+446,1997,service,import,Other Transportation,28959
+447,2010,service,import,Royalties and License Fees,33450
+448,2009,service,import,Royalties and License Fees,29849
+449,2008,service,import,Royalties and License Fees,29623
+450,2007,service,import,Royalties and License Fees,25048
+451,2006,service,import,Royalties and License Fees,23777
+452,2005,service,import,Royalties and License Fees,24612
+453,2004,service,import,Royalties and License Fees,23901
+454,2003,service,import,Royalties and License Fees,19390
+455,2002,service,import,Royalties and License Fees,19335
+456,2001,service,import,Royalties and License Fees,16359
+457,2000,service,import,Royalties and License Fees,16115
+458,1999,service,import,Royalties and License Fees,12609
+459,1998,service,import,Royalties and License Fees,11292
+460,1997,service,import,Royalties and License Fees,9390
+461,2010,service,import,Other Private Services,180598
+462,2009,service,import,Other Private Services,174325
+463,2008,service,import,Other Private Services,172543
+464,2007,service,import,Other Private Services,144375
+465,2006,service,import,Other Private Services,125221
+466,2005,service,import,Other Private Services,97818
+467,2004,service,import,Other Private Services,95666
+468,2003,service,import,Other Private Services,85741
+469,2002,service,import,Other Private Services,75290
+470,2001,service,import,Other Private Services,54588
+471,2000,service,import,Other Private Services,55253
+472,1999,service,import,Other Private Services,46313
+473,1998,service,import,Other Private Services,47670
+474,1997,service,import,Other Private Services,43909
+475,2010,service,import,Direct Defense Expenditures,30391
+476,2009,service,import,Direct Defense Expenditures,30474
+477,2008,service,import,Direct Defense Expenditures,28311
+478,2007,service,import,Direct Defense Expenditures,32820
+479,2006,service,import,Direct Defense Expenditures,31032
+480,2005,service,import,Direct Defense Expenditures,30075
+481,2004,service,import,Direct Defense Expenditures,29299
+482,2003,service,import,Direct Defense Expenditures,25296
+483,2002,service,import,Direct Defense Expenditures,19101
+484,2001,service,import,Direct Defense Expenditures,15198
+485,2000,service,import,Direct Defense Expenditures,13560
+486,1999,service,import,Direct Defense Expenditures,13334
+487,1998,service,import,Direct Defense Expenditures,12841
+488,1997,service,import,Direct Defense Expenditures,11698
+489,2010,service,import,U.S. Government Misc. Services ,4621
+490,2009,service,import,U.S. Government Misc. Services ,4415
+491,2008,service,import,U.S. Government Misc. Services ,3905
+492,2007,service,import,U.S. Government Misc. Services ,4184
+493,2006,service,import,U.S. Government Misc. Services ,4021
+494,2005,service,import,U.S. Government Misc. Services ,3979
+495,2004,service,import,U.S. Government Misc. Services ,3734
+496,2003,service,import,U.S. Government Misc. Services ,3131
+497,2002,service,import,U.S. Government Misc. Services ,2920
+498,2001,service,import,U.S. Government Misc. Services ,2882
+499,2000,service,import,U.S. Government Misc. Services ,2883
+500,1999,service,import,U.S. Government Misc. Services ,2821
+501,1998,service,import,U.S. Government Misc. Services ,2849
+502,1997,service,import,U.S. Government Misc. Services ,2762
+503,2010,good,import,Total Balance of Payments Basis,1934555
+504,2009,good,import,Total Balance of Payments Basis,1575400
+505,2008,good,import,Total Balance of Payments Basis,2137608
+506,2007,good,import,Total Balance of Payments Basis,1967853
+507,2006,good,import,Total Balance of Payments Basis,1861380
+508,2005,good,import,Total Balance of Payments Basis,1681780
+509,2004,good,import,Total Balance of Payments Basis,1472926
+510,2003,good,import,Total Balance of Payments Basis,1260717
+511,2002,good,import,Total Balance of Payments Basis,1164720
+512,2001,good,import,Total Balance of Payments Basis,1145927
+513,2000,good,import,Total Balance of Payments Basis,1224417
+514,1999,good,import,Total Balance of Payments Basis,1029987
+515,1998,good,import,Total Balance of Payments Basis,917178
+516,1997,good,import,Total Balance of Payments Basis,876366
+517,2010,good,import,Net Adjustments,21395
+518,2009,good,import,Net Adjustments,15776
+519,2008,good,import,Net Adjustments,33967
+520,2007,good,import,Net Adjustments,10892
+521,2006,good,import,Net Adjustments,7441
+522,2005,good,import,Net Adjustments,8325
+523,2004,good,import,Net Adjustments,3221
+524,2003,good,import,Net Adjustments,3596
+525,2002,good,import,Net Adjustments,3354
+526,2001,good,import,Net Adjustments,4928
+527,2000,good,import,Net Adjustments,6395
+528,1999,good,import,Net Adjustments,5369
+529,1998,good,import,Net Adjustments,5282
+530,1997,good,import,Net Adjustments,6662
+531,2010,good,import,Total Census Basis,1913160
+532,2009,good,import,Total Census Basis,1559625
+533,2008,good,import,Total Census Basis,2103641
+534,2007,good,import,Total Census Basis,1956962
+535,2006,good,import,Total Census Basis,1853938
+536,2005,good,import,Total Census Basis,1673455
+537,2004,good,import,Total Census Basis,1469704
+538,2003,good,import,Total Census Basis,1257121
+539,2002,good,import,Total Census Basis,1161366
+540,2001,good,import,Total Census Basis,1140999
+541,2000,good,import,Total Census Basis,1218022
+542,1999,good,import,Total Census Basis,1024618
+543,1998,good,import,Total Census Basis,911896
+544,1997,good,import,Total Census Basis,869704
+545,2010,good,import,"Foods, Feeds, Beverages",91730
+546,2009,good,import,"Foods, Feeds, Beverages",81604
+547,2008,good,import,"Foods, Feeds, Beverages",88997
+548,2007,good,import,"Foods, Feeds, Beverages",81683
+549,2006,good,import,"Foods, Feeds, Beverages",74938
+550,2005,good,import,"Foods, Feeds, Beverages",68094
+551,2004,good,import,"Foods, Feeds, Beverages",62143
+552,2003,good,import,"Foods, Feeds, Beverages",55831
+553,2002,good,import,"Foods, Feeds, Beverages",49687
+554,2001,good,import,"Foods, Feeds, Beverages",46641
+555,2000,good,import,"Foods, Feeds, Beverages",45979
+556,1999,good,import,"Foods, Feeds, Beverages",43602
+557,1998,good,import,"Foods, Feeds, Beverages",41243
+558,1997,good,import,"Foods, Feeds, Beverages",39694
+559,2010,good,import,Industrial Supplies,602663
+560,2009,good,import,Industrial Supplies,462512
+561,2008,good,import,Industrial Supplies,779481
+562,2007,good,import,Industrial Supplies,634746
+563,2006,good,import,Industrial Supplies,601988
+564,2005,good,import,Industrial Supplies,523771
+565,2004,good,import,Industrial Supplies,412827
+566,2003,good,import,Industrial Supplies,313818
+567,2002,good,import,Industrial Supplies,267693
+568,2001,good,import,Industrial Supplies,273870
+569,2000,good,import,Industrial Supplies,298980
+570,1999,good,import,Industrial Supplies,221386
+571,1998,good,import,Industrial Supplies,200140
+572,1997,good,import,Industrial Supplies,213767
+573,2010,good,import,Capital Goods,449178
+574,2009,good,import,Capital Goods,369336
+575,2008,good,import,Capital Goods,453743
+576,2007,good,import,Capital Goods,444486
+577,2006,good,import,Capital Goods,418259
+578,2005,good,import,Capital Goods,379331
+579,2004,good,import,Capital Goods,343451
+580,2003,good,import,Capital Goods,295833
+581,2002,good,import,Capital Goods,283323
+582,2001,good,import,Capital Goods,297993
+583,2000,good,import,Capital Goods,347025
+584,1999,good,import,Capital Goods,295717
+585,1998,good,import,Capital Goods,269557
+586,1997,good,import,Capital Goods,253282
+587,2010,good,import,"Automotive Vehicles, etc.",225049
+588,2009,good,import,"Automotive Vehicles, etc.",157629
+589,2008,good,import,"Automotive Vehicles, etc.",231242
+590,2007,good,import,"Automotive Vehicles, etc.",258920
+591,2006,good,import,"Automotive Vehicles, etc.",256627
+592,2005,good,import,"Automotive Vehicles, etc.",239449
+593,2004,good,import,"Automotive Vehicles, etc.",228235
+594,2003,good,import,"Automotive Vehicles, etc.",210173
+595,2002,good,import,"Automotive Vehicles, etc.",203743
+596,2001,good,import,"Automotive Vehicles, etc.",189782
+597,2000,good,import,"Automotive Vehicles, etc.",195875
+598,1999,good,import,"Automotive Vehicles, etc.",178964
+599,1998,good,import,"Automotive Vehicles, etc.",149054
+600,1997,good,import,"Automotive Vehicles, etc.",139812
+601,2010,good,import,Consumer Goods,483268
+602,2009,good,import,Consumer Goods,428379
+603,2008,good,import,Consumer Goods,481643
+604,2007,good,import,Consumer Goods,474892
+605,2006,good,import,Consumer Goods,442639
+606,2005,good,import,Consumer Goods,407237
+607,2004,good,import,Consumer Goods,372943
+608,2003,good,import,Consumer Goods,333878
+609,2002,good,import,Consumer Goods,307842
+610,2001,good,import,Consumer Goods,284293
+611,2000,good,import,Consumer Goods,281832
+612,1999,good,import,Consumer Goods,241905
+613,1998,good,import,Consumer Goods,216515
+614,1997,good,import,Consumer Goods,193811
+615,2010,good,import,Other Goods,61272
+616,2009,good,import,Other Goods,60165
+617,2008,good,import,Other Goods,68536
+618,2007,good,import,Other Goods,62234
+619,2006,good,import,Other Goods,59487
+620,2005,good,import,Other Goods,55572
+621,2004,good,import,Other Goods,50106
+622,2003,good,import,Other Goods,47587
+623,2002,good,import,Other Goods,49078
+624,2001,good,import,Other Goods,48421
+625,2000,good,import,Other Goods,48331
+626,1999,good,import,Other Goods,43044
+627,1998,good,import,Other Goods,35387
+628,1997,good,import,Other Goods,29338
