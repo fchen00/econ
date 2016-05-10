@@ -1,3 +1,20 @@
+var currentLocation = String(window.location);
+var frontidx = currentLocation.indexOf("/html/")+6;
+var backidx = currentLocation.indexOf(".html")-6;
+var category = (currentLocation.slice(frontidx,backidx));
+//window.alert(currentLocation);
+
+var importexport = "Export (in millions)";
+if (currentLocation.indexOf("Import")!=-1){
+  importexport = "Import (in millions)";
+}
+
+//window.alert(category);
+
+var cate = 'travel';
+var csvfile = "../datasets/"+category+".csv"
+// window.alert(currentLocation.substring('http://0.0.0.0:8081/html/'.length));
+
 var margin = {top: 20, right: 20, bottom: 30, left: 300},
     width = 1220 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
@@ -11,13 +28,12 @@ var margin = {top: 20, right: 20, bottom: 30, left: 300},
 
 // setup x 
 var xValue = function(d) { return d.Employment;}, // data -> value
-
     xScale = d3.scale.linear().range([0, width]), // value -> display
     xMap = function(d) { return xScale(xValue(d));}, // data -> display
     xAxis = d3.svg.axis().scale(xScale).orient("bottom");
 
 // setup y
-var yValue = function(d) { return d["Import (in millions)"];}, // data -> value
+var yValue = function(d) { return d[importexport];}, // data -> value
     yScale = d3.scale.linear().range([height, 0]), // value -> display
     yMap = function(d) { return yScale(yValue(d));}, // data -> display
     yAxis = d3.svg.axis().scale(yScale).orient("left");
@@ -39,12 +55,13 @@ var tooltip = d3.select("body").append("div")
     .style("opacity", 0);
 
 // load data
-d3.csv("../datasets/food.csv", function(error, data) {
+
+d3.csv(csvfile, function(error, data) {
 
   // change string (from CSV) into number format
   data.forEach(function(d) {
     d.Employment = +d.Employment;
-    d["Import (in millions)"] = +d["Import (in millions)"];
+    d[importexport] = +d[importexport];
    	console.log(d);
   });
 
@@ -74,7 +91,7 @@ d3.csv("../datasets/food.csv", function(error, data) {
       .attr("y", 6)
       .attr("dy", ".71em")
       .style("text-anchor", "end")
-      .text("Import Amount (in millions of dollars)");
+      .text(importexport);
 
   // draw dots
   svg.selectAll(".dot")
@@ -90,7 +107,7 @@ d3.csv("../datasets/food.csv", function(error, data) {
                .duration(200)
                .style("opacity", .9);
           tooltip.html("Year: " + d["Year"] + "<br/>" + "Employment: " + xValue(d) 
-	        + "<br/>" + "Import (in millions): " + yValue(d))
+	        + "<br/>" + importexport + ": " + yValue(d))
                .style("left", (d3.event.pageX + 5) + "px")
                .style("top", (d3.event.pageY - 28) + "px");
       })
