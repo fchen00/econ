@@ -10,20 +10,26 @@ var margin = {top: 20, right: 20, bottom: 30, left: 300},
  */ 
 
 // setup x 
-var xValue = function(d) { return d.Employment;}, // data -> value
+var xValue = function(d) { return d.Employment / 1000000;}, // data -> value, in millions
     xScale = d3.scale.linear().range([0, width]), // value -> display
     xMap = function(d) { return xScale(xValue(d));}, // data -> display
     xAxis = d3.svg.axis().scale(xScale).orient("bottom");
 
 // setup y
-var yValue = function(d) { return d["Export (in millions)"];}, // data -> value
+var yValue = function(d) { return d["Export (in millions)"] / 10000;}, // data -> value, in 10 billions $
     yScale = d3.scale.linear().range([height, 0]), // value -> display
     yMap = function(d) { return yScale(yValue(d));}, // data -> display
     yAxis = d3.svg.axis().scale(yScale).orient("left");
 
 // setup fill color
 var cValue = function(d) { return d.Year;},
-    color = d3.scale.category20();
+    color = d3.scale.linear()
+            .domain([1997, 1998, 1999, 2000, 2001, 2002,
+                     2003, 2004, 2005, 2006, 2007, 2008, 
+                     2009, 2010, 2011, 2012, 2013, 2014])
+            .range(["#ffe6e6", "#ffb3b3", "#ff8080", "#ff4d4d", "#ff1a1a", "#000000",  
+                    "#e6f2ff", "#b3d9ff", "#80bfff", "#4da6ff", "#1a8cff", "#0073e6", "#000000",
+                    "#ecf9ec", "#b3e6b3", "#79d279", "#40bf40", "#2d862d"]);
 
 // add the graph canvas to the body of the webpage
 var svg = d3.select("body").append("svg")
@@ -44,7 +50,6 @@ d3.csv("../datasets/food.csv", function(error, data) {
   data.forEach(function(d) {
     d.Employment = +d.Employment;
     d["Export (in millions)"] = +d["Export (in millions)"];
-   	console.log(d);
   });
 
   // don't want dots overlapping axis, so add in buffer to data domain
@@ -61,7 +66,7 @@ d3.csv("../datasets/food.csv", function(error, data) {
       .attr("x", width)
       .attr("y", -6)
       .style("text-anchor", "end")
-      .text("Employment");
+      .text("Employment (in millions)");
 
   // y-axis
   svg.append("g")
@@ -73,14 +78,14 @@ d3.csv("../datasets/food.csv", function(error, data) {
       .attr("y", 6)
       .attr("dy", ".71em")
       .style("text-anchor", "end")
-      .text("Export Amount (in millions of dollars)");
+      .text("Export Amount (in 10 billion $)");
 
   // draw dots
   svg.selectAll(".dot")
       .data(data)
     .enter().append("circle")
       .attr("class", "dot")
-      .attr("r", 5)
+      .attr("r", 8)
       .attr("cx", xMap)
       .attr("cy", yMap)
       .style("fill", function(d) { return color(cValue(d));}) 
@@ -88,10 +93,14 @@ d3.csv("../datasets/food.csv", function(error, data) {
           tooltip.transition()
                .duration(200)
                .style("opacity", .9);
-          tooltip.html("Year: " + d["Year"] + "<br/>" + "Employment: " + xValue(d) 
-	        + "<br/>" + "Export (in millions): " + yValue(d))
+          tooltip.html("Year: " + d["Year"] + "<br/>" + "Employment (in millions): " + xValue(d) 
+	        + "<br/>" + "Export (in billions $): " + yValue(d) * 10)
                .style("left", (d3.event.pageX + 5) + "px")
-               .style("top", (d3.event.pageY - 28) + "px");
+               .style("top", (d3.event.pageY - 28) + "px")
+               .style("text-align", "center")
+               .style("background", "lightblue")
+               .style("border-radius", "2px")
+               .style("height", "40px");
       })
       .on("mouseout", function(d) {
           tooltip.transition()
