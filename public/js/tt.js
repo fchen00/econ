@@ -353,6 +353,24 @@ d3.csv("../datasets/overview.csv", function(error, data) {
                                 travelExLine.style("stroke-width", "3");
                                 travelExLine.style("opacity","0.25");});
 
+  labelxaxis= svg.append("text")
+    .attr("transform", "translate(" + (width-100) + "," + (height-10) + ")")
+    .attr("dy", ".35em")
+    .attr("text-anchor", "end")
+    .style("fill", "black")
+    .style("font-weight", "bold")
+    .style("font-size", 20)
+    .text("Employment (in millions)")
+
+  labelyaxis= svg.append("text")
+    .attr("transform", "translate(" + (10) + "," + (10) + ")" +"rotate(90)")
+    .attr("dy", ".35em")
+    .attr("text-anchor", "start")
+    //.style("transform", "rotate(90)")
+    .style("fill", "black")
+    .style("font-weight", "bold")
+    .style("font-size", 20)
+    .text("Exports(Percent Diff with 1997 as Base)")
 
 console.log(data.length-1);
 console.log(data[data.length-1].FoodEx);
