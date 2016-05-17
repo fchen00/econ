@@ -9,6 +9,20 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/7.0.2/bootstrap-slider.js"></script>
+  <style>
+    .axis path,
+    .axis line {
+      fill: none;
+      stroke: #000;
+      shape-rendering: crispEdges;
+    }
+
+    .line {
+      fill: none;
+      stroke: red;
+      stroke-width: 5px;
+    }
+</style>
 
 </head>
 
@@ -19,7 +33,7 @@
 
 <div class="col-md-12">
     <div class="row">
-        <div class="col-sm-3 col-sm-offset-2">
+        <div class="col-sm-3 col-sm-offset-1">
             <div class="dropdown">
               <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Sector
               <span class="caret"></span></button>
@@ -39,23 +53,22 @@
               </ul>
             </div>
         </div>
-        <div class="col-sm-3">
-          <strong>Year: </strong><b>1997</b> <input id="ex2" type="text" class="span2" value="" data-slider-min="1997" data-slider-max="2014" data-slider-step="5" data-slider-value="[1997,2001]"/> <b>2014</b>
-          
+        <div class="col-sm-8 col-sm-offset-3">
+          <label><input type="checkbox" id="redTrend"> Red Trend Projection:&nbsp;<span style="font-weight:normal;">Projection of 
+            the data if dot-com crash didn't happened, based on data from 1997 to 2001.</span></label>
+          <label><input type="checkbox" id="blueTrend"> Blue Trend Projection:&nbsp;<span style="font-weight:normal;">Projection 
+            of the data if housing market crash didn't happened, based on data from 2003 to 2008.</label>
         </div>
       </div>
       <div class="row">
-<center><h1>Food and Beverage: Export vs. Employment</h1></center>
+      <center><h1>Food and Beverage: Export vs. Employment</h1></center>
 
         <div class="col-sm-12">
           <script src="http://d3js.org/d3.v3.min.js"></script>
-          <script src="../js/exportFood_Hypothetical.js"></script>
+          <script src="../js/exportFood.js"></script>
         </div>
     </div>
 </div>
 
-<script>
-  $("#ex2").slider({});
-</script>
 </body>
 </html>

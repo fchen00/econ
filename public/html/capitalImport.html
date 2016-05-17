@@ -1,132 +1,74 @@
 <!DOCTYPE html>
-<html>
-<meta charset="utf-8">
-<title>Food and Beverage (Export)</title>
+<html lang="en">
 <head>
-	<link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-	<script src="/scripts/jquery.min.js"></script>
-  <script src="/bootstrap/js/bootstrap.min.js"></script>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/7.0.2/css/bootstrap-slider.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/7.0.2/bootstrap-slider.js"></script>
+  <style>
+    .axis path,
+    .axis line {
+      fill: none;
+      stroke: #000;
+      shape-rendering: crispEdges;
+    }
+
+    .line {
+      fill: none;
+      stroke: red;
+      stroke-width: 5px;
+    }
+</style>
+
 </head>
 
-<style>
-body {
-  font: 11px sans-serif;
-}
-
-.axis path,
-.axis line {
-  fill: none;
-  stroke: #000;
-  shape-rendering: crispEdges;
-}
-
-.dot {
-  stroke: #000;
-}
-
-.tooltip {
-  position: absolute;
-  width: 200px;
-  height: 28px;
-  pointer-events: none;
-}
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-}
-
-li {
-    float: left;
-}
-
-li a, .dropbtn {
-    display: inline-block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-li a:hover, .dropdown:hover .dropbtn {
-    background-color: red;
-}
-
-li.dropdown {
-    display: inline-block;
-}
-
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-}
-
-.dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-    text-align: left;
-}
-
-.dropdown-content a:hover {background-color: #f1f1f1}
-
-.show {display:block;}
-</style>
 <body>
 
-<ul>
-  <li class="dropdown">
-    <a href="javascript:void(0)" class="dropbtn" onclick="myFunction()">Sector</a>
-    <form name="myform" class="form-signin" action="/login" method="post" >
-    <div class="dropdown-content" id="myDropdown">
-      <a href="/html/foodExport.html">Food and Beverage (Export)</a>
-      <a href="/html/foodImport.html">Food and Beverage (Import)</a>
-      <a href="/html/capitalExport.html">Capital Goods and Services (Export)</a>
-      <a href="/html/capitalImport.html">Capital Goods and Services (Import)</a>
-      <a href="/html/governmentExport.html">Goverment Sector (Export)</a>
-      <a href="/html/governmentImport.html">Goverment Sector (Import)</a>
-      <a href="/html/industrialExport.html">Industrial Supplies (Export)</a>
-      <a href="/html/industrialImport.html">Industiral Supplies (Import)</a>
-      <a href="/html/transportationExport.html">Transportation (Export)</a>
-      <a href="/html/transportationImport.html">Transportation (Import)</a>
-      <a href="/html/travelExport.html">Travel (Export)</a>
-      <a href="/html/travelImport.html">Travel (Import)</a>
+<br>
+<br>
+
+<div class="col-md-12">
+    <div class="row">
+        <div class="col-sm-3 col-sm-offset-1">
+            <div class="dropdown">
+              <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Sector
+              <span class="caret"></span></button>
+              <ul class="dropdown-menu">
+                <li><a href="/html/foodExport.html">Food and Beverage (Export)</a></li>
+                <li><a href="/html/foodImport.html">Food and Beverage (Import)</a></li>
+                <li><a href="/html/capitalExport.html">Capital Goods and Services (Export)</a></li>
+                <li><a href="/html/capitalImport.html">Capital Goods and Services (Import)</a></li>
+                <li><a href="/html/governmentExport.html">Goverment Sector (Export)</a></li>
+                <li><a href="/html/governmentImport.html">Goverment Sector (Import)</a></li>
+                <li><a href="/html/industrialExport.html">Industrial Supplies (Export)</a></li>
+                <li><a href="/html/industrialImport.html">Industiral Supplies (Import)</a></li>
+                <li><a href="/html/transportationExport.html">Transportation (Export)</a></li>
+                <li><a href="/html/transportationImport.html">Transportation (Import)</a></li>
+                <li><a href="/html/travelExport.html">Travel (Export)</a></li>
+                <li><a href="/html/travelImport.html">Travel (Import)</a></li>
+              </ul>
+            </div>
+        </div>
+        <div class="col-sm-8 col-sm-offset-3">
+          <label><input type="checkbox" id="redTrend"> Red Trend Projection:&nbsp;<span style="font-weight:normal;">Projection of 
+            the data if dot-com crash didn't happened, based on data from 1997 to 2001.</span></label>
+          <label><input type="checkbox" id="blueTrend"> Blue Trend Projection:&nbsp;<span style="font-weight:normal;">Projection 
+            of the data if housing market crash didn't happened, based on data from 2003 to 2008.</label>
+        </div>
+      </div>
+      <div class="row">
+      <center><h1>Capital Goods and Services: Import vs. Employment</h1></center>
+
+        <div class="col-sm-12">
+          <script src="http://d3js.org/d3.v3.min.js"></script>
+          <script src="../js/econ.js"></script>
+        </div>
     </div>
-    </form>
-  </li>
-</ul>
+</div>
 
-<script>
-/* When the user clicks on the button, 
-toggle between hiding and showing the dropdown content */
-function myFunction() {
-    document.getElementById("myDropdown").classList.toggle("show");
-}
-
-// Close the dropdown if the user clicks outside of it
-window.onclick = function(e) {
-  if (!e.target.matches('.dropbtn')) {
-
-    var dropdowns = document.getElementsByClassName("dropdown-content");
-    for (var d = 0; d < dropdowns.length; d++) {
-      var openDropdown = dropdowns[d];
-      if (openDropdown.classList.contains('show')) {
-        openDropdown.classList.remove('show');
-      }
-    }
-  }
-}
-</script>
-<center><h1>Capital Goods: Import vs. Employment</h1></center>
-
-<script src="http://d3js.org/d3.v3.min.js"></script>
-<script src="../js/econ.js"></script>
 </body>
 </html>
