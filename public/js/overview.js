@@ -51,15 +51,15 @@ d3.csv("../datasets/test.csv", function(error, data) {
     y.domain([-0.5, 0.5]);
 
     // Add the valueline path.
-    var labelline = svg.append("path")
-                    .attr("stroke", "blue")
-                    .attr("class", "line")
-                    .attr("d", valueline(data));
-    labelline.append("text")
-    .attr("dx",100)
-    .attr("dy",".35em")
-    .text("Food")
+    svg.append("path")
+        .attr("stroke", "blue")
+        .attr("class", "line")
+        .attr("d", valueline(data));
 
+    svg.append("text")
+      .attr("x", 1)
+      .attr("dy", ".35em")
+      .text("Food");
 
     // Add the scatterplot
     svg.selectAll("dot")
