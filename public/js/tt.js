@@ -1,6 +1,6 @@
-var margin = {top: 50, right: 20, bottom: 30, left: 300},
-    width = 1520 - margin.left - margin.right,
-    height = 700 - margin.top - margin.bottom;
+var margin = {top: 50, right: 20, bottom: 30, left: 200},
+    width = 1300 - margin.left - margin.right,
+    height = 600 - margin.top - margin.bottom;
 
 var parseDate = d3.time.format("%d-%b-%y").parse;
 
@@ -455,7 +455,7 @@ d3.csv("../datasets/overview.csv", function(error, data) {
     .style("fill", "black")
     .style("font-weight", "bold")
     .style("font-size", 20)
-    .text("Employment (in millions)")
+    .text("Employment")
 
   labelyaxis= svg.append("text")
     .attr("transform", "translate(" + (10) + "," + (10) + ")" +"rotate(90)")
@@ -466,15 +466,6 @@ d3.csv("../datasets/overview.csv", function(error, data) {
     .style("font-weight", "bold")
     .style("font-size", 20)
     .text("Exports(Percent Diff with 1997 as Base)")
-
-  svg.append("text")
-        .attr("x", (width / 2))             
-        .attr("y", 0 - (margin.top / 2)+10)
-        .attr("text-anchor", "middle")  
-        .style("font-size", "30px") 
-        .style("font-weight", "bold")
-        .style("text-decoration", "underline")  
-        .text("Employment Vs Exports");
 
   labelyaxis= svg.append("text")
     .attr("transform", "translate(" + (10) + "," + (height-6) + ")" )

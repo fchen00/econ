@@ -1,18 +1,22 @@
 <!DOCTYPE html>
-<html>
-    <meta charset="utf-8">
-
-    <style> 
-    /* set the CSS */
-        body { font: 12px Arial;}
-
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/7.0.2/css/bootstrap-slider.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/7.0.2/bootstrap-slider.js"></script>
+  <style>
+    body { font: 12px Arial;}
         path { 
             stroke: steelblue;
             stroke-width: 3;
             fill: none;
             opacity: 0.1
         }
-
         .axis path,
         .axis line {
             fill: none;
@@ -20,16 +24,51 @@
             stroke-width: 1;
             shape-rendering: crispEdges;
         }
-    </style>
+</style>
 
-    <body>
+</head>
 
-        <!-- load the d3.js library -->  
-        <script src="http://d3js.org/d3.v3.min.js"></script>
-        <!--
-        <script src="../js/overview.js"></script>
-        -->
-        <script src="../js/tt.js"></script>
-    </body>
+<body>
 
+<br>
+<br>
+
+<div class="col-md-12">
+    <div class="row">
+        <div class="col-sm-3 col-sm-offset-1">
+            <div class="dropdown">
+              <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Sector
+              <span class="caret"></span></button>
+              <ul class="dropdown-menu">
+                <li><a href="/html/tt.html">Overview</a></li>
+                <li><a href="/html/foodExport.html">Food and Beverage (Export)</a></li>
+                <li><a href="/html/foodImport.html">Food and Beverage (Import)</a></li>
+                <li><a href="/html/capitalExport.html">Capital Goods and Services (Export)</a></li>
+                <li><a href="/html/capitalImport.html">Capital Goods and Services (Import)</a></li>
+                <li><a href="/html/governmentExport.html">Goverment Sector (Export)</a></li>
+                <li><a href="/html/governmentImport.html">Goverment Sector (Import)</a></li>
+                <li><a href="/html/industrialExport.html">Industrial Supplies (Export)</a></li>
+                <li><a href="/html/industrialImport.html">Industiral Supplies (Import)</a></li>
+                <li><a href="/html/transportationExport.html">Transportation (Export)</a></li>
+                <li><a href="/html/transportationImport.html">Transportation (Import)</a></li>
+                <li><a href="/html/travelExport.html">Travel (Export)</a></li>
+                <li><a href="/html/travelImport.html">Travel (Import)</a></li>
+              </ul>
+            </div>
+        </div>
+        <div class="col-sm-8 col-sm-offset-3">
+    
+        </div>
+      </div>
+      <div class="row">
+      <center><h1>Export (different sectors) vs. Employment</h1></center>
+
+        <div class="col-sm-12">
+          <script src="http://d3js.org/d3.v3.min.js"></script>
+          <script src="../js/tt.js"></script>
+        </div>
+    </div>
+</div>
+
+</body>
 </html>
