@@ -1,5 +1,5 @@
 var margin = {top: 20, right: 20, bottom: 30, left: 300},
-    width = 1220 - margin.left - margin.right,
+    width = 1520 - margin.left - margin.right,
     height = 700 - margin.top - margin.bottom;
 
 var parseDate = d3.time.format("%d-%b-%y").parse;
@@ -95,10 +95,12 @@ d3.csv("../datasets/overview.csv", function(error, data) {
     .attr("d", valueline2(data))
     .on("mouseover", function(){//d3.select(this).style("stroke","orange");
                                 d3.select(this).style("opacity", "1");
-                                d3.select(this).style("stroke-width", "4");})
+                                d3.select(this).style("stroke-width", "5");
+                                capitalText.style("opacity","1");})
     .on("mouseout", function(){//d3.select(this).style("stroke","green");
                                 d3.select(this).style("opacity", "0.25");
-                                d3.select(this).style("stroke-width", "3");});
+                                d3.select(this).style("stroke-width", "3");
+                                capitalText.style("opacity","0.25");});
 
   var capitalExDot =svg.selectAll("dot")
     .data(data)
@@ -123,10 +125,12 @@ d3.csv("../datasets/overview.csv", function(error, data) {
     .attr("d", governmentLineEx(data))
     .on("mouseover", function(){//d3.select(this).style("stroke","orange");
                                 d3.select(this).style("opacity", "1");
-                                d3.select(this).style("stroke-width", "4");})
+                                d3.select(this).style("stroke-width", "5");
+                                governmentText.style("opacity","1");})
     .on("mouseout", function(){//d3.select(this).style("stroke","green");
                                 d3.select(this).style("opacity", "0.25");
-                                d3.select(this).style("stroke-width", "3");});
+                                d3.select(this).style("stroke-width", "3");
+                                governmentText.style("opacity","0.25");});
 
   var governmentExDot =svg.selectAll("dot")
     .data(data)
@@ -152,10 +156,12 @@ d3.csv("../datasets/overview.csv", function(error, data) {
     .attr("d", industrialLineEx(data))
     .on("mouseover", function(){//d3.select(this).style("stroke","orange");
                                 d3.select(this).style("opacity", "1");
-                                d3.select(this).style("stroke-width", "4");})
+                                d3.select(this).style("stroke-width", "5");
+                                industrialText.style("opacity","1");})
     .on("mouseout", function(){//d3.select(this).style("stroke","green");
                                 d3.select(this).style("opacity", "0.25");
-                                d3.select(this).style("stroke-width", "3");});
+                                d3.select(this).style("stroke-width", "3");
+                                industrialText.style("opacity","0.25");});
 
   var industrialExDot =svg.selectAll("dot")
     .data(data)
@@ -182,10 +188,12 @@ d3.csv("../datasets/overview.csv", function(error, data) {
     .attr("d", transportationLineEx(data))
     .on("mouseover", function(){//d3.select(this).style("stroke","orange");
                                 d3.select(this).style("opacity", "1");
-                                d3.select(this).style("stroke-width", "4");})
+                                d3.select(this).style("stroke-width", "5");
+                                transportationText.style("opacity","1");})
     .on("mouseout", function(){//d3.select(this).style("stroke","green");
                                 d3.select(this).style("opacity", "0.25");
-                                d3.select(this).style("stroke-width", "3");});
+                                d3.select(this).style("stroke-width", "3");
+                                transportationText.style("opacity","0.25");});
 
   var transportationExDot =svg.selectAll("dot")
     .data(data)
@@ -212,10 +220,12 @@ d3.csv("../datasets/overview.csv", function(error, data) {
     .attr("d", travelLineEx(data))
     .on("mouseover", function(){//d3.select(this).style("stroke","orange");
                                 d3.select(this).style("opacity", "1");
-                                d3.select(this).style("stroke-width", "4");})
+                                d3.select(this).style("stroke-width", "5");
+                                travelText.style("opacity","1");})
     .on("mouseout", function(){//d3.select(this).style("stroke","green");
                                 d3.select(this).style("opacity", "0.25");
-                                d3.select(this).style("stroke-width", "3");});
+                                d3.select(this).style("stroke-width", "3");
+                                travelText.style("opacity","0.25");});
 
   var travelExDot =svg.selectAll("dot")
     .data(data)
@@ -252,7 +262,16 @@ d3.csv("../datasets/overview.csv", function(error, data) {
     .attr("text-anchor", "start")
     .style("fill", "steelblue")
     .style("opacity","0.25")
-    .text("FoodExport");
+    .text("FoodExport")
+    .on("mouseover", function(){//d3.select(this).style("stroke","orange");
+                                d3.select(this).style("opacity", "1");
+                                foodExLine.style("stroke-width", "5");
+                                foodExLine.style("opacity","1");})
+    .on("mouseout", function(){//d3.select(this).style("stroke","green");
+                                d3.select(this).style("opacity", "0.25");
+                                foodExLine.style("stroke-width", "3");
+                                foodExLine.style("opacity","0.25");});
+
 
   capitalText=svg.append("text")
     .attr("transform", "translate(" + (width-50) + "," + y(data[5].CapitalEx) + ")")
@@ -260,7 +279,15 @@ d3.csv("../datasets/overview.csv", function(error, data) {
     .attr("text-anchor", "start")
     .style("fill", "green")
     .style("opacity","0.25")
-    .text("CapitalEx");
+    .text("CapitalEx")
+    .on("mouseover", function(){//d3.select(this).style("stroke","orange");
+                                d3.select(this).style("opacity", "1");
+                                capitalExLine.style("stroke-width", "5");
+                                capitalExLine.style("opacity","1");})
+    .on("mouseout", function(){//d3.select(this).style("stroke","green");
+                                d3.select(this).style("opacity", "0.25");
+                                capitalExLine.style("stroke-width", "3");
+                                capitalExLine.style("opacity","0.25");});
 
   governmentText=svg.append("text")
     .attr("transform", "translate(" + (width-50) + "," + y(data[5].GovernmentEx) + ")")
@@ -268,7 +295,15 @@ d3.csv("../datasets/overview.csv", function(error, data) {
     .attr("text-anchor", "start")
     .style("fill", "brown")
     .style("opacity","0.25")
-    .text("GovermentEx");
+    .text("GovermentEx")
+    .on("mouseover", function(){//d3.select(this).style("stroke","orange");
+                                d3.select(this).style("opacity", "1");
+                                governmentExLine.style("stroke-width", "5");
+                                governmentExLine.style("opacity","1");})
+    .on("mouseout", function(){//d3.select(this).style("stroke","green");
+                                d3.select(this).style("opacity", "0.25");
+                                governmentExLine.style("stroke-width", "3");
+                                governmentExLine.style("opacity","0.25");});
 
   industrialText=svg.append("text")
     .attr("transform", "translate(" + (width-50) + "," + y(data[5].IndustrialEx) + ")")
@@ -276,7 +311,15 @@ d3.csv("../datasets/overview.csv", function(error, data) {
     .attr("text-anchor", "start")
     .style("fill", "purple")
     .style("opacity","0.25")
-    .text("IndustrialEx");
+    .text("IndustrialEx")
+    .on("mouseover", function(){//d3.select(this).style("stroke","orange");
+                                d3.select(this).style("opacity", "1");
+                                industrialExLine.style("stroke-width", "5");
+                                industrialExLine.style("opacity","1");})
+    .on("mouseout", function(){//d3.select(this).style("stroke","green");
+                                d3.select(this).style("opacity", "0.25");
+                                industrialExLine.style("stroke-width", "3");
+                                industrialExLine.style("opacity","0.25");});
 
   transportationText=svg.append("text")
     .attr("transform", "translate(" + (width-50) + "," + y(data[5].TransportationEx) + ")")
@@ -284,7 +327,15 @@ d3.csv("../datasets/overview.csv", function(error, data) {
     .attr("text-anchor", "start")
     .style("fill", "orange")
     .style("opacity","0.25")
-    .text("TransportationEx");
+    .text("TransportationEx")
+    .on("mouseover", function(){//d3.select(this).style("stroke","orange");
+                                d3.select(this).style("opacity", "1");
+                                transportationExLine.style("stroke-width", "5");
+                                transportationExLine.style("opacity","1");})
+    .on("mouseout", function(){//d3.select(this).style("stroke","green");
+                                d3.select(this).style("opacity", "0.25");
+                                transportationExLine.style("stroke-width", "3");
+                                transportationExLine.style("opacity","0.25");});
 
   travelText= svg.append("text")
     .attr("transform", "translate(" + (width-50) + "," + (y(data[5].TravelEx)-10) + ")")
@@ -292,7 +343,15 @@ d3.csv("../datasets/overview.csv", function(error, data) {
     .attr("text-anchor", "start")
     .style("fill", "red")
     .style("opacity","0.25")
-    .text("TravelEx");
+    .text("TravelEx")
+    .on("mouseover", function(){//d3.select(this).style("stroke","orange");
+                                d3.select(this).style("opacity", "1");
+                                travelExLine.style("stroke-width", "5");
+                                travelExLine.style("opacity","1");})
+    .on("mouseout", function(){//d3.select(this).style("stroke","green");
+                                d3.select(this).style("opacity", "0.25");
+                                travelExLine.style("stroke-width", "3");
+                                travelExLine.style("opacity","0.25");});
 
 
 console.log(data.length-1);
