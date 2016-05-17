@@ -1,6 +1,6 @@
-var margin = {top: 20, right: 20, bottom: 30, left: 300},
+var margin = {top: 20, right: 20, bottom: 30, left: 100},
     width = 1220 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
+    height = 700 - margin.top - margin.bottom;
 
 var parseDate = d3.time.format("%d-%b-%y").parse;
 
@@ -25,7 +25,18 @@ var governmentLineEx = d3.svg.line()
   .x(function(d) { return x(d.Employment); })
   .y(function(d) { return y(d.GovernmentEx); });
 
+var industrialLineEx = d3.svg.line()
+  .x(function(d) { return x(d.Employment); })
+  .y(function(d) { return y(d.IndustrialEx); });
+
+var transportationLineEx = d3.svg.line()
+  .x(function(d) { return x(d.Employment); })
+  .y(function(d) { return y(d.TransportationEx); });
   
+var travelLineEx = d3.svg.line()
+  .x(function(d) { return x(d.Employment); })
+  .y(function(d) { return y(d.TravelEx); });
+
 var svg = d3.select("body")
   .append("svg")
     .attr("width", width + margin.left + margin.right)
@@ -40,11 +51,12 @@ d3.csv("../datasets/overview.csv", function(error, data) {
     d.FoodEx = +d.FoodEx;
     d.CapitalEx = +d.CapitalEx;
     d.GovernmentEx = +d.GovernmentEx;
+    d.TransportationEx= +d.TransportationEx;
   });
 
   // Scale the range of the data
-  x.domain([10000000, d3.max(data, function(d) { return d.Employment; })+300000]);
-  y.domain([-0.3, d3.max(data, function(d) { return Math.max(d.FoodEx, d.CapitalEx, d.GovernmentEx); })]);
+  x.domain([11000000, d3.max(data, function(d) { return d.Employment; })+300000]);
+  y.domain([-0.3, d3.max(data, function(d) { return Math.max(d.FoodEx, d.CapitalEx, d.IndustrialEx, d.TransportationEx); })]);
 
 
   //Food export chart
@@ -122,6 +134,87 @@ d3.csv("../datasets/overview.csv", function(error, data) {
 
 
 
+  //Industrial Export Chart
+  var industrialExLine = svg.append("path")    // Add the valueline2 path.
+    .attr("class", "line")
+    .style("stroke", "gray")
+    .attr("d", industrialLineEx(data))
+    .on("mouseover", function(){d3.select(this).style("stroke","orange");
+                                d3.select(this).style("opacity", "1");})
+    .on("mouseout", function(){ d3.select(this).style("stroke","gray");
+                                d3.select(this).style("opacity", "0.2");});
+
+  var industrialExDot =svg.selectAll("dot")
+    .data(data)
+  .enter().append("circle")
+    .attr("r", 2)
+    .style("stroke", "black")
+    .style("opacity", function(d){if(d.Year==2002) {return 1;}
+                                  else if (d.Year==2009) {return 1;}
+                                  else {return 0.3;}; })
+    .style("fill", function(d){if(d.Year==2002) {return "yellow";}
+                                else if (d.Year==2009) {return "red";}
+                                else {return "gray";}; })
+    .attr("cx", function(d) { return x(d.Employment); })
+    .attr("cy", function(d) { return y(d.IndustrialEx); });
+
+
+
+
+  //Transportation Export Chart
+  var transportationExLine = svg.append("path")    // Add the valueline2 path.
+    .attr("class", "line")
+    .style("stroke", "organge")
+    .attr("d", transportationLineEx(data))
+    .on("mouseover", function(){d3.select(this).style("stroke","orange");
+                                d3.select(this).style("opacity", "1");})
+    .on("mouseout", function(){ d3.select(this).style("stroke","organge");
+                                d3.select(this).style("opacity", "0.2");});
+
+  var transportationExDot =svg.selectAll("dot")
+    .data(data)
+  .enter().append("circle")
+    .attr("r", 2)
+    .style("stroke", "black")
+    .style("opacity", function(d){if(d.Year==2002) {return 1;}
+                                  else if (d.Year==2009) {return 1;}
+                                  else {return 0.3;}; })
+    .style("fill", function(d){if(d.Year==2002) {return "yellow";}
+                                else if (d.Year==2009) {return "red";}
+                                else {return "organge";}; })
+    .attr("cx", function(d) { return x(d.Employment); })
+    .attr("cy", function(d) { return y(d.TransportationEx); });
+
+
+
+
+    //Travel Export Chart
+  var travelExLine = svg.append("path")    // Add the valueline2 path.
+    .attr("class", "line")
+    .style("stroke", "organge")
+    .attr("d", travelLineEx(data))
+    .on("mouseover", function(){d3.select(this).style("stroke","orange");
+                                d3.select(this).style("opacity", "1");})
+    .on("mouseout", function(){ d3.select(this).style("stroke","organge");
+                                d3.select(this).style("opacity", "0.2");});
+
+  var travelExDot =svg.selectAll("dot")
+    .data(data)
+  .enter().append("circle")
+    .attr("r", 2)
+    .style("stroke", "black")
+    .style("opacity", function(d){if(d.Year==2002) {return 1;}
+                                  else if (d.Year==2009) {return 1;}
+                                  else {return 0.3;}; })
+    .style("fill", function(d){if(d.Year==2002) {return "yellow";}
+                                else if (d.Year==2009) {return "red";}
+                                else {return "organge";}; })
+    .attr("cx", function(d) { return x(d.Employment); })
+    .attr("cy", function(d) { return y(d.TravelEx); });
+
+
+
+
 
   svg.append("g")     // Add the X Axis
     .attr("class", "x axis")
@@ -153,6 +246,28 @@ d3.csv("../datasets/overview.csv", function(error, data) {
     .attr("text-anchor", "start")
     .style("fill", "brown")
     .text("GovermentEx");
+
+  svg.append("text")
+    .attr("transform", "translate(" + (width-50) + "," + y(data[17].IndustrialEx) + ")")
+    .attr("dy", ".35em")
+    .attr("text-anchor", "start")
+    .style("fill", "gray")
+    .text("IndustrialEx");
+
+  svg.append("text")
+    .attr("transform", "translate(" + (width-50) + "," + y(data[17].TransportationEx) + ")")
+    .attr("dy", ".35em")
+    .attr("text-anchor", "start")
+    .style("fill", "gray")
+    .text("TransportationEx");
+
+  svg.append("text")
+    .attr("transform", "translate(" + (width-50) + "," + y(data[17].TravelEx) + ")")
+    .attr("dy", ".35em")
+    .attr("text-anchor", "start")
+    .style("fill", "gray")
+    .text("TravelEx");
+
 
 console.log(data.length-1);
 console.log(data[data.length-1].FoodEx);
