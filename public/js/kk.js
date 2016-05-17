@@ -1,6 +1,6 @@
-var margin = {top: 50, right: 20, bottom: 30, left: 300},
-    width = 1520 - margin.left - margin.right,
-    height = 700 - margin.top - margin.bottom;
+var margin = {top: 50, right: 20, bottom: 30, left: 200},
+    width = 1300 - margin.left - margin.right,
+    height = 600 - margin.top - margin.bottom;
 
 var parseDate = d3.time.format("%d-%b-%y").parse;
 
@@ -456,7 +456,7 @@ d3.csv("../datasets/overview.csv", function(error, data) {
     .style("fill", "black")
     .style("font-weight", "bold")
     .style("font-size", 20)
-    .text("Employment (in millions)")
+    .text("Employment")
 
   labelyaxis= svg.append("text")
     .attr("transform", "translate(" + (10) + "," + (10) + ")" +"rotate(90)")

@@ -10,18 +10,20 @@
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/7.0.2/bootstrap-slider.js"></script>
   <style>
-    .axis path,
-    .axis line {
-      fill: none;
-      stroke: #000;
-      shape-rendering: crispEdges;
-    }
-
-    .line {
-      fill: none;
-      stroke: red;
-      stroke-width: 5px;
-    }
+    body { font: 12px Arial;}
+        path { 
+            stroke: steelblue;
+            stroke-width: 3;
+            fill: none;
+            opacity: 0.1
+        }
+        .axis path,
+        .axis line {
+            fill: none;
+            stroke: grey;
+            stroke-width: 1;
+            shape-rendering: crispEdges;
+        }
 </style>
 
 </head>
@@ -38,10 +40,9 @@
               <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Sector
               <span class="caret"></span></button>
               <ul class="dropdown-menu">
-                                <li><a href="/html/tt.html">Overview (Export)</a></li>
+                <li><a href="/html/tt.html">Overview (Export)</a></li>
                                                                               <li><a href="/html/tt_import.html">Overview (Import)</a></li>
-
-<li><a href="/html/foodExport.html">Food and Beverage (Export)</a></li>
+                <li><a href="/html/foodExport.html">Food and Beverage (Export)</a></li>
                 <li><a href="/html/foodImport.html">Food and Beverage (Import)</a></li>
                 <li><a href="/html/capitalExport.html">Capital Goods and Services (Export)</a></li>
                 <li><a href="/html/capitalImport.html">Capital Goods and Services (Import)</a></li>
@@ -57,18 +58,15 @@
             </div>
         </div>
         <div class="col-sm-8 col-sm-offset-3">
-          <label><input type="checkbox" id="redTrend"> Red Trend Projection:&nbsp;<span style="font-weight:normal;">Projection of 
-            the data if dot-com crash didn't happened, based on data from 1997 to 2001.</span></label>
-          <label><input type="checkbox" id="blueTrend"> Blue Trend Projection:&nbsp;<span style="font-weight:normal;">Projection 
-            of the data if housing market crash didn't happened, based on data from 2003 to 2008.</label>
+    
         </div>
       </div>
       <div class="row">
-      <center><h1>Industrial Supplies: Import vs. Employment</h1></center>
+      <center><h1>Import (different sectors) vs. Employment</h1></center>
 
         <div class="col-sm-12">
           <script src="http://d3js.org/d3.v3.min.js"></script>
-          <script src="../js/econ.js"></script>
+          <script src="../js/kk.js"></script>
         </div>
     </div>
 </div>
