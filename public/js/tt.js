@@ -52,6 +52,7 @@ d3.csv("../datasets/overview.csv", function(error, data) {
     d.CapitalEx = +d.CapitalEx;
     d.GovernmentEx = +d.GovernmentEx;
     d.TransportationEx= +d.TransportationEx;
+    d.Travel = +d.Travel;
   });
 
   // Scale the range of the data
