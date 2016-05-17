@@ -20,6 +20,11 @@ var valueline = d3.svg.line()
 var valueline2 = d3.svg.line()
   .x(function(d) { return x(d.Employment); })
   .y(function(d) { return y(d.CapitalEx); });
+
+var governmentLineEx = d3.svg.line()
+  .x(function(d) { return x(d.Employment); })
+  .y(function(d) { return y(d.GovernmentEx); });
+
   
 var svg = d3.select("body")
   .append("svg")
@@ -34,26 +39,27 @@ d3.csv("../datasets/overview.csv", function(error, data) {
     d.Employment = +d.Employment;
     d.FoodEx = +d.FoodEx;
     d.CapitalEx = +d.CapitalEx;
+    d.GovernmentEx = +d.GovernmentEx;
   });
 
   // Scale the range of the data
   x.domain([10000000, d3.max(data, function(d) { return d.Employment; })+300000]);
-  y.domain([-0.3, d3.max(data, function(d) { return Math.max(d.FoodEx, d.CapitalEx); })]);
+  y.domain([-0.3, d3.max(data, function(d) { return Math.max(d.FoodEx, d.CapitalEx, d.GovernmentEx); })]);
 
+
+  //Food export chart
   var foodExLine = svg.append("path")    // Add the valueline path.
     .attr("class", "line")
     .attr("d", valueline(data))
-    .on("mouseover", function(){d3.select(this).style("stroke-width", 5);
-                                d3.select(this).style("stroke","orange");
+    .on("mouseover", function(){d3.select(this).style("stroke","orange");
                                 d3.select(this).style("opacity", "1");})
-    .on("mouseout", function(){d3.select(this).style("stroke-width", 3);
-                                d3.select(this).style("stroke","steelblue");
+    .on("mouseout", function(){d3.select(this).style("stroke","steelblue");
                                 d3.select(this).style("opacity", "0.2");});
 
   var foodExDot = svg.selectAll("dot")
       .data(data)
     .enter().append("circle")
-      .attr("r", 4)
+      .attr("r", 2)
       .style("stroke", "black")
       .style("opacity", function(d){if(d.Year==2002) {return 1;}
                                   else if (d.Year==2009) {return 1;}
@@ -65,16 +71,20 @@ d3.csv("../datasets/overview.csv", function(error, data) {
       .attr("cy", function(d) { return y(d.FoodEx); });
 
 
-
+  //Capital Export Chart
   var capitalExLine = svg.append("path")    // Add the valueline2 path.
     .attr("class", "line")
     .style("stroke", "green")
-    .attr("d", valueline2(data));
+    .attr("d", valueline2(data))
+    .on("mouseover", function(){d3.select(this).style("stroke","orange");
+                                d3.select(this).style("opacity", "1");})
+    .on("mouseout", function(){d3.select(this).style("stroke","steelblue");
+                                d3.select(this).style("opacity", "0.2");});
 
   var capitalExDot =svg.selectAll("dot")
     .data(data)
   .enter().append("circle")
-    .attr("r", 4)
+    .attr("r", 2)
     .style("stroke", "black")
     .style("opacity", function(d){if(d.Year==2002) {return 1;}
                                   else if (d.Year==2009) {return 1;}
@@ -84,6 +94,32 @@ d3.csv("../datasets/overview.csv", function(error, data) {
                                 else {return "green";}; })
     .attr("cx", function(d) { return x(d.Employment); })
     .attr("cy", function(d) { return y(d.CapitalEx); });
+
+  
+  //Government Export Chart
+  var governmentExLine = svg.append("path")    // Add the valueline2 path.
+    .attr("class", "line")
+    .style("stroke", "brown")
+    .attr("d", governmentLineEx(data))
+    .on("mouseover", function(){d3.select(this).style("stroke","orange");
+                                d3.select(this).style("opacity", "1");})
+    .on("mouseout", function(){ d3.select(this).style("stroke","brown");
+                                d3.select(this).style("opacity", "0.2");});
+
+  var governmentExDot =svg.selectAll("dot")
+    .data(data)
+  .enter().append("circle")
+    .attr("r", 2)
+    .style("stroke", "black")
+    .style("opacity", function(d){if(d.Year==2002) {return 1;}
+                                  else if (d.Year==2009) {return 1;}
+                                  else {return 0.3;}; })
+    .style("fill", function(d){if(d.Year==2002) {return "yellow";}
+                                else if (d.Year==2009) {return "red";}
+                                else {return "brown";}; })
+    .attr("cx", function(d) { return x(d.Employment); })
+    .attr("cy", function(d) { return y(d.GovernmentEx); });
+
 
 
 
@@ -96,12 +132,6 @@ d3.csv("../datasets/overview.csv", function(error, data) {
     .attr("class", "y axis")
     .call(yAxis);
 
-  svg.append("text")
-    .attr("transform", "translate(" + (width-50) + "," + y(data[5].CapitalEx) + ")")
-    .attr("dy", ".35em")
-    .attr("text-anchor", "start")
-    .style("fill", "green")
-    .text("FoodImport");
 
   svg.append("text")
     .attr("transform", "translate(" + (width-50) + "," + y(data[17].FoodEx) + ")")
@@ -109,6 +139,20 @@ d3.csv("../datasets/overview.csv", function(error, data) {
     .attr("text-anchor", "start")
     .style("fill", "steelblue")
     .text("FoodExport");
+
+  svg.append("text")
+    .attr("transform", "translate(" + (width-50) + "," + y(data[17].CapitalEx) + ")")
+    .attr("dy", ".35em")
+    .attr("text-anchor", "start")
+    .style("fill", "green")
+    .text("CapitalEx");
+
+  svg.append("text")
+    .attr("transform", "translate(" + (width-50) + "," + y(data[17].GovernmentEx) + ")")
+    .attr("dy", ".35em")
+    .attr("text-anchor", "start")
+    .style("fill", "brown")
+    .text("GovermentEx");
 
 console.log(data.length-1);
 console.log(data[data.length-1].FoodEx);
